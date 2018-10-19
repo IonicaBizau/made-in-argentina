@@ -60,7 +60,8 @@
           "[Go](#go)",
           "[Haskell](#haskell)",
           "[Lua](#lua)",
-          "[Matlab](#matlab)"
+          "[Matlab](#matlab)",
+          "[Objective-C](#objective-c)"
         ]
       },
       {
@@ -3598,6 +3599,249 @@
               "2",
               "[@ferchaure](https://github.com/ferchaure)/[**celestina**](https://github.com/ferchaure/celestina)",
               "A graphical tool for the qualitative analysis of the merge operation in Wave_clus",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Objective-C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1080",
+              "[@Julioacarrettoni](https://github.com/Julioacarrettoni)/[**UIImageView_FaceAwar…**](https://github.com/Julioacarrettoni/UIImageView_FaceAwareFill)",
+              "This category applies Aspect Fill content mode to an image and if faces are detected it centers them instead of centering the image just by its geometrical center.",
+              ""
+            ],
+            [
+              "620",
+              "[@bubudrc](https://github.com/bubudrc)/[**MPCoachMarks**](https://github.com/bubudrc/MPCoachMarks)",
+              "MPCoachMarks is an iOS class that displays user coach marks with a couple of shapescutout over an existing UI. This approach leverages your actual UI as part of the onboarding process for your user.",
+              ""
+            ],
+            [
+              "230",
+              "[@Julioacarrettoni](https://github.com/Julioacarrettoni)/[**EXPhotoViewer**](https://github.com/Julioacarrettoni/EXPhotoViewer)",
+              "A drop-in full screen photo viewer for iOS with zoom, SUPER easy to use, JUST ONE LINE OF CODE. It has the \"zoom the rest of the app away effect\" It works with any UIImageView, just laying around, in a table, in a cell in a custom made carousel, everywhere! Whats the \"EX\" for? it is for **EX**TRA AWESOME!!!",
+              ""
+            ],
+            [
+              "122",
+              "[@marianoabdala](https://github.com/marianoabdala)/[**ZRYWordPicker**](https://github.com/marianoabdala/ZRYWordPicker)",
+              "Horizontal word picker, ideal as keyboard input accessory view.",
+              ""
+            ],
+            [
+              "60",
+              "[@marianoabdala](https://github.com/marianoabdala)/[**ZYActivity**](https://github.com/marianoabdala/ZYActivity)",
+              "Easier UIActivity inheritance.",
+              ""
+            ],
+            [
+              "42",
+              "[@iNinja](https://github.com/iNinja)/[**CCSpriteFloodFill**](https://github.com/iNinja/CCSpriteFloodFill)",
+              "CCSprite subclass that implements flood fill algorithm",
+              ""
+            ],
+            [
+              "36",
+              "[@iNinja](https://github.com/iNinja)/[**CCTextField**](https://github.com/iNinja/CCTextField)",
+              "cocos2d replacement for UITextField's text input",
+              ""
+            ],
+            [
+              "17",
+              "[@Julioacarrettoni](https://github.com/Julioacarrettoni)/[**SpringyFlowLayoutExa…**](https://github.com/Julioacarrettoni/SpringyFlowLayoutExample)",
+              "Implementation of the SpringyFlowLayout as seen on the WWDC 2013 session 217",
+              ""
+            ],
+            [
+              "13",
+              "[@marianoabdala](https://github.com/marianoabdala)/[**ZYInstapaperActivity**](https://github.com/marianoabdala/ZYInstapaperActivity)",
+              "iOS UIActivity for reading later on Instapaper.",
+              ""
+            ],
+            [
+              "11",
+              "[@seqoy](https://github.com/seqoy)/[**jump**](https://github.com/seqoy/jump)",
+              "Jump",
+              "[:arrow_upper_right:](jump.seqoy.org)"
+            ],
+            [
+              "10",
+              "[@ElAleyo](https://github.com/ElAleyo)/[**MMReachabilityViewCo…**](https://github.com/ElAleyo/MMReachabilityViewController)",
+              "A UIViewController subclass that using the apple reachability show a 'missing internet connection' content automatically adjusting the content of the view owned by the controller",
+              ""
+            ],
+            [
+              "10",
+              "[@marianoabdala](https://github.com/marianoabdala)/[**ZRYAlertView**](https://github.com/marianoabdala/ZRYAlertView)",
+              "Stop abusing your UIAlertViews.",
+              ""
+            ],
+            [
+              "9",
+              "[@Julioacarrettoni](https://github.com/Julioacarrettoni)/[**iOS-ImageManager**](https://github.com/Julioacarrettoni/iOS-ImageManager)",
+              "An objective-c (iOS SDK iPhone/iPad/iPod Touch) Library than manage the download and local cache storage of images with an easily extendable objects for special needs. Ideal for avatars or remote images. It automatically keeps the app footprint low and deletes old images to reduce hard drive usage.",
+              ""
+            ],
+            [
+              "9",
+              "[@mrojas](https://github.com/mrojas)/[**MRBarChart**](https://github.com/mrojas/MRBarChart)",
+              "A simple scrollable bar chart based on UICollectionView",
+              ""
+            ],
+            [
+              "9",
+              "[@marianoabdala](https://github.com/marianoabdala)/[**ZRYAsyncTestCase**](https://github.com/marianoabdala/ZRYAsyncTestCase)",
+              "Asynchronous unit testing for your Xcode apps.",
+              ""
+            ],
+            [
+              "9",
+              "[@Julioacarrettoni](https://github.com/Julioacarrettoni)/[**DEVJACAutoBalancedLa…**](https://github.com/Julioacarrettoni/DEVJACAutoBalancedLabel)",
+              "Dead simple Objective-C UILabel subclass that balance text horizontally across several lines so all the lines have similar length and you don't end with a screen wide UILabel where the last line has only 1 word ",
+              ""
+            ],
+            [
+              "8",
+              "[@volonbolon](https://github.com/volonbolon)/[**Gestures**](https://github.com/volonbolon/Gestures)",
+              "Sample application of UIGestureRecognizer APIs",
+              "[:arrow_upper_right:](gestures)"
+            ],
+            [
+              "7",
+              "[@mgoffan](https://github.com/mgoffan)/[**AirHockey**](https://github.com/mgoffan/AirHockey)",
+              "An Air Hockey using cocos2d!",
+              ""
+            ],
+            [
+              "5",
+              "[@diegoreymendez](https://github.com/diegoreymendez)/[**horizontalTableViewE…**](https://github.com/diegoreymendez/horizontalTableViewExample)",
+              "Example of how to create and use a horizontal table view in iOS",
+              ""
+            ],
+            [
+              "5",
+              "[@Julioacarrettoni](https://github.com/Julioacarrettoni)/[**peekMyApps**](https://github.com/Julioacarrettoni/peekMyApps)",
+              "I was curious about all this \"twitter is spying my apps\" thing so I got my hands on what apparently is the scheme list used by twitter to scan you your device and wrote this very small app that list the apps it detects on your device in less than 1 hour, so you can expect ugly code.",
+              ""
+            ],
+            [
+              "5",
+              "[@volonbolon](https://github.com/volonbolon)/[**Task-Completion**](https://github.com/volonbolon/Task-Completion)",
+              "Demo of Task Completion API in iOS 4",
+              ""
+            ],
+            [
+              "5",
+              "[@marianoabdala](https://github.com/marianoabdala)/[**CrashyApp**](https://github.com/marianoabdala/CrashyApp)",
+              "Demostration of a technique that allows the developer to provide help to the user in the case of a crash.",
+              ""
+            ],
+            [
+              "4",
+              "[@volonbolon](https://github.com/volonbolon)/[**Regions**](https://github.com/volonbolon/Regions)",
+              "Demo App of some of the additions to Core Location",
+              "[:arrow_upper_right:](regions)"
+            ],
+            [
+              "4",
+              "[@Julioacarrettoni](https://github.com/Julioacarrettoni)/[**Dev_Jac-AnimatedImag…**](https://github.com/Julioacarrettoni/Dev_Jac-AnimatedImages)",
+              "Simple category to load animated image files into an UIImageView. This category supports GIF and APNGs (Animated PNG)",
+              ""
+            ],
+            [
+              "4",
+              "[@mrojas](https://github.com/mrojas)/[**MRTableViewTest**](https://github.com/mrojas/MRTableViewTest)",
+              "Table view test",
+              ""
+            ],
+            [
+              "3",
+              "[@volonbolon](https://github.com/volonbolon)/[**Stacked-Animations**](https://github.com/volonbolon/Stacked-Animations)",
+              "Simple demo of a stacked animation",
+              "[:arrow_upper_right:](iphonestackedanimation)"
+            ],
+            [
+              "3",
+              "[@mgoffan](https://github.com/mgoffan)/[**ortEnglish**](https://github.com/mgoffan/ortEnglish)",
+              "A game for english learners using cocos2d",
+              ""
+            ],
+            [
+              "3",
+              "[@Julioacarrettoni](https://github.com/Julioacarrettoni)/[**iOS-performeSelector…**](https://github.com/Julioacarrettoni/iOS-performeSelector_-_swizzleMethod)",
+              "I explore the use of swizzleMethod in order to add a new \"cancelPreviousPerformRequestsWithSelect… that only requires the selector as a parameter and it will cancel ALL of the performRequest no matter the target nor the arguments. In order words you don't need a pointer to the targets anymore.",
+              ""
+            ],
+            [
+              "3",
+              "[@volonbolon](https://github.com/volonbolon)/[**Grand-Central-Dispat…**](https://github.com/volonbolon/Grand-Central-Dispatch)",
+              "Grand Central Dispatch demo with iOS 4",
+              "[:arrow_upper_right:](gcd)"
+            ],
+            [
+              "2",
+              "[@devcarlos](https://github.com/devcarlos)/[**MyClockAlarm**](https://github.com/devcarlos/MyClockAlarm)",
+              "MyClockAlarm is an iOS (iPhone and iPad) based clock alarm with retina display support ",
+              ""
+            ],
+            [
+              "2",
+              "[@devcarlos](https://github.com/devcarlos)/[**UIColor-HexUtils**](https://github.com/devcarlos/UIColor-HexUtils)",
+              "UIColor Hex Utils Category",
+              ""
+            ],
+            [
+              "2",
+              "[@volonbolon](https://github.com/volonbolon)/[**VBXcodeSummary**](https://github.com/volonbolon/VBXcodeSummary)",
+              "VBXcodeSummary",
+              ""
+            ],
+            [
+              "2",
+              "[@volonbolon](https://github.com/volonbolon)/[**Directions**](https://github.com/volonbolon/Directions)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@mgoffan](https://github.com/mgoffan)/[**MGNotification**](https://github.com/mgoffan/MGNotification)",
+              "A simple library to post notifications that adds handling with blocks.",
+              ""
+            ],
+            [
+              "2",
+              "[@mrojas](https://github.com/mrojas)/[**MRBarView**](https://github.com/mrojas/MRBarView)",
+              "A single bar chart for iOS",
+              ""
+            ],
+            [
+              "2",
+              "[@mgoffan](https://github.com/mgoffan)/[**AirHockey-Box2D**](https://github.com/mgoffan/AirHockey-Box2D)",
+              "Airhockey using Box2D",
+              ""
+            ],
+            [
+              "2",
+              "[@andresinaka](https://github.com/andresinaka)/[**ACExpandableDescript…**](https://github.com/andresinaka/ACExpandableDescription)",
+              "Custom title and expandable description view ",
+              ""
+            ],
+            [
+              "2",
+              "[@Julioacarrettoni](https://github.com/Julioacarrettoni)/[**Chain-Of-Delegates**](https://github.com/Julioacarrettoni/Chain-Of-Delegates)",
+              "This object is intended to fix the problem when you need several delegates from the same object or for when you want to \"delegate\" some delegate methods in one object and some on other.",
               ""
             ]
           ]
