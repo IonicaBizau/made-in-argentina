@@ -58,7 +58,8 @@
           "[Clojure](#clojure)",
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
-          "[Haskell](#haskell)"
+          "[Haskell](#haskell)",
+          "[Lua](#lua)"
         ]
       },
       {
@@ -3452,6 +3453,129 @@
               "2",
               "[@fmaste](https://github.com/fmaste)/[**hgraph**](https://github.com/fmaste/hgraph)",
               "A Haskell graph library",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Lua #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "49",
+              "[@Positive07](https://github.com/Positive07)/[**material-love**](https://github.com/Positive07/material-love)",
+              "Implementing parts of the material-design spec in LÖVE",
+              ""
+            ],
+            [
+              "26",
+              "[@Senscape](https://github.com/Senscape)/[**Asylum-Teaser**](https://github.com/Senscape/Asylum-Teaser)",
+              "Decay surrounds you, dread around every corner. You feel imprisoned while traversing the endless hallways... Asylum is a chilling journey through the intricate floors of the Hanwell Mental Institute, in which unimaginable atrocities have occurred in the past. This horror adventure aims to marry cutting edge visuals with thrilling storytelling to give you the ultimate experience in fear.",
+              ""
+            ],
+            [
+              "12",
+              "[@malucooo](https://github.com/malucooo)/[**otxserver-new**](https://github.com/malucooo/otxserver-new)",
+              "",
+              ""
+            ],
+            [
+              "11",
+              "[@Positive07](https://github.com/Positive07)/[**cube**](https://github.com/Positive07/cube)",
+              "Cube is a library (and application) made for LÖVE to run .love files (SO META!)",
+              ""
+            ],
+            [
+              "10",
+              "[@CriztianiX](https://github.com/CriztianiX)/[**lapis-elasticsearch**](https://github.com/CriztianiX/lapis-elasticsearch)",
+              "Model support for elasticsearch",
+              ""
+            ],
+            [
+              "9",
+              "[@Positive07](https://github.com/Positive07)/[**obey**](https://github.com/Positive07/obey)",
+              "Execute Lua commands and tasks",
+              ""
+            ],
+            [
+              "4",
+              "[@Positive07](https://github.com/Positive07)/[**lfs-ffi.lua**](https://github.com/Positive07/lfs-ffi.lua)",
+              "LuaFileSystem-FFI is an implementation of LuaFileSystem functionality using LuaJIT FFI",
+              ""
+            ],
+            [
+              "4",
+              "[@SJElizalde](https://github.com/SJElizalde)/[**quick-asyncNet**](https://github.com/SJElizalde/quick-asyncNet)",
+              "Asynchronous paralell HTTP requests for Marmalade Quick.",
+              ""
+            ],
+            [
+              "4",
+              "[@Positive07](https://github.com/Positive07)/[**wonderland.lua**](https://github.com/Positive07/wonderland.lua)",
+              "Tweening for lua with keyframes chaining",
+              ""
+            ],
+            [
+              "3",
+              "[@CriztianiX](https://github.com/CriztianiX)/[**luaws**](https://github.com/CriztianiX/luaws)",
+              "lua bridge to aws-cli (a proof of concept)",
+              ""
+            ],
+            [
+              "3",
+              "[@CriztianiX](https://github.com/CriztianiX)/[**lapis-cache**](https://github.com/CriztianiX/lapis-cache)",
+              "Cache engines for lapis framework",
+              ""
+            ],
+            [
+              "2",
+              "[@ciber96](https://github.com/ciber96)/[**mtabg**](https://github.com/ciber96/mtabg)",
+              "Official MTA:BattleGrounds Gamemode Repository",
+              ""
+            ],
+            [
+              "2",
+              "[@CriztianiX](https://github.com/CriztianiX)/[**eluastica**](https://github.com/CriztianiX/eluastica)",
+              "Elasticsearch library for lua based on http://elastica.io/",
+              ""
+            ],
+            [
+              "2",
+              "[@Positive07](https://github.com/Positive07)/[**Fruit**](https://github.com/Positive07/Fruit)",
+              "Fruit is a set of UI elements built for LÖVE using Middleclass",
+              ""
+            ],
+            [
+              "2",
+              "[@Positive07](https://github.com/Positive07)/[**lowerclass**](https://github.com/Positive07/lowerclass)",
+              "Object Orientation for Lua with a Middleclass-like API",
+              ""
+            ],
+            [
+              "2",
+              "[@Positive07](https://github.com/Positive07)/[**luacheck-love**](https://github.com/Positive07/luacheck-love)",
+              "Generate LÖVE standard for Luacheck",
+              ""
+            ],
+            [
+              "2",
+              "[@Positive07](https://github.com/Positive07)/[**Risem**](https://github.com/Positive07/Risem)",
+              "Antenna rotator system, designed an built as a highschool final project (Electronics, Software and Mechanics)",
+              ""
+            ],
+            [
+              "2",
+              "[@Positive07](https://github.com/Positive07)/[**Challenger**](https://github.com/Positive07/Challenger)",
+              "A text editor made with Lua and lots of LÖVE",
               ""
             ]
           ]
