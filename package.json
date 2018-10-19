@@ -52,7 +52,8 @@
           "[C#](#c-1)",
           "[CSS](#css)",
           "[HTML](#html)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -2864,6 +2865,219 @@
               "2",
               "[@pcostesi](https://github.com/pcostesi)/[**TP-PI-2010Q1**](https://github.com/pcostesi/TP-PI-2010Q1)",
               "Mirror del tp en google code",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "351",
+              "[@ckaiser](https://github.com/ckaiser)/[**Lightscreen**](https://github.com/ckaiser/Lightscreen)",
+              "Screenshot tool.",
+              "[:arrow_upper_right:](http://lightscreen.com.ar)"
+            ],
+            [
+              "168",
+              "[@dacap](https://github.com/dacap)/[**clip**](https://github.com/dacap/clip)",
+              "Cross-platform C++ library to copy/paste clipboard content",
+              ""
+            ],
+            [
+              "119",
+              "[@leozimmerman](https://github.com/leozimmerman)/[**ofxAudioAnalyzer**](https://github.com/leozimmerman/ofxAudioAnalyzer)",
+              "openFrameworks wrapper for Essentia. Audio analysis algorithms in real-time",
+              ""
+            ],
+            [
+              "97",
+              "[@lvklabs](https://github.com/lvklabs)/[**QSsh**](https://github.com/lvklabs/QSsh)",
+              "SSH and SFTP support for Qt. This project is based on Qt Creator's libQtcSsh.so",
+              ""
+            ],
+            [
+              "77",
+              "[@leozimmerman](https://github.com/leozimmerman)/[**ShadersLibrary**](https://github.com/leozimmerman/ShadersLibrary)",
+              "Collection of GLSL Shaders for OpenGL 3.2+ working with openFrameworks.",
+              ""
+            ],
+            [
+              "76",
+              "[@chparsons](https://github.com/chparsons)/[**ofxCamaraLucida**](https://github.com/chparsons/ofxCamaraLucida)",
+              "Kinect Projector System",
+              "[:arrow_upper_right:](http://christian-parsons.tech/#camara_lucida)"
+            ],
+            [
+              "35",
+              "[@lvklabs](https://github.com/lvklabs)/[**chatbot**](https://github.com/lvklabs/chatbot)",
+              "Chatbot is an open source platform to create Facebook and Gtalk/Gmail chatbots",
+              ""
+            ],
+            [
+              "32",
+              "[@dacap](https://github.com/dacap)/[**vaca**](https://github.com/dacap/vaca)",
+              "An experimental Win32 wrapper for C++ to develop GUI programs",
+              "[:arrow_upper_right:](https://github.com/dacap/vaca/wiki)"
+            ],
+            [
+              "31",
+              "[@KrossX](https://github.com/KrossX)/[**Pokopom**](https://github.com/KrossX/Pokopom)",
+              "Input Plugin for Emulators",
+              ""
+            ],
+            [
+              "15",
+              "[@dacap](https://github.com/dacap)/[**observable**](https://github.com/dacap/observable)",
+              "Observer pattern and signals/slots for C++11 projects",
+              ""
+            ],
+            [
+              "14",
+              "[@pablospe](https://github.com/pablospe)/[**MVCDemo**](https://github.com/pablospe/MVCDemo)",
+              "Mean-Value Cloning (original code provided by authors)",
+              "[:arrow_upper_right:](http://www.cs.huji.ac.il/~danix/mvclone/)"
+            ],
+            [
+              "11",
+              "[@lvklabs](https://github.com/lvklabs)/[**gaan**](https://github.com/lvklabs/gaan)",
+              "gaan is an Android NDK wrapper for the Google Analytics API",
+              ""
+            ],
+            [
+              "9",
+              "[@leozimmerman](https://github.com/leozimmerman)/[**Sonoscopio**](https://github.com/leozimmerman/Sonoscopio)",
+              "Audio analysis and audio-based music information retrieval software tool",
+              ""
+            ],
+            [
+              "8",
+              "[@dacap](https://github.com/dacap)/[**undo**](https://github.com/dacap/undo)",
+              "C++ library to implement non-linear undo/redo functionality",
+              ""
+            ],
+            [
+              "7",
+              "[@Helios-vmg](https://github.com/Helios-vmg)/[**cppred**](https://github.com/Helios-vmg/cppred)",
+              " A port of the original Pokémon Red/Blue for Gameboy to modern C++.",
+              ""
+            ],
+            [
+              "4",
+              "[@dacap](https://github.com/dacap)/[**cpp-utils**](https://github.com/dacap/cpp-utils)",
+              "C++ Utilities",
+              ""
+            ],
+            [
+              "4",
+              "[@K-ballo](https://github.com/K-ballo)/[**ki**](https://github.com/K-ballo/ki)",
+              "An experimental programming language (attempt)",
+              ""
+            ],
+            [
+              "4",
+              "[@pablospe](https://github.com/pablospe)/[**LipiTk**](https://github.com/pablospe/LipiTk)",
+              "Lipi Toolkit (LipiTk) is an open source toolkit for online Handwriting  Recognition (HWR), created by HP Labs India",
+              "[:arrow_upper_right:](http://lipitk.sourceforge.net/)"
+            ],
+            [
+              "4",
+              "[@lvklabs](https://github.com/lvklabs)/[**sprite-animator-tool**](https://github.com/lvklabs/sprite-animator-tool)",
+              "A WYSIWYG 2D Sprite animation tool for cocos2d-x and cocos2d-iphone",
+              ""
+            ],
+            [
+              "3",
+              "[@armdz](https://github.com/armdz)/[**recursionRect**](https://github.com/armdz/recursionRect)",
+              "Little OF example app to apply recursion image process to an image",
+              ""
+            ],
+            [
+              "3",
+              "[@armdz](https://github.com/armdz)/[**ofxGDImageDownload**](https://github.com/armdz/ofxGDImageDownload)",
+              "Little openFramework's addon to download images in Google Drive",
+              ""
+            ],
+            [
+              "3",
+              "[@cosimani](https://github.com/cosimani)/[**handpose-ra**](https://github.com/cosimani/handpose-ra)",
+              "Hand Pose Estimation for Markerless Interaction with Augmented Reality Applications",
+              ""
+            ],
+            [
+              "2",
+              "[@chparsons](https://github.com/chparsons)/[**ofxECS**](https://github.com/chparsons/ofxECS)",
+              "[WIP] Entity Component System with features for configuration and parameters sync. Based on Artemis https://github.com/vinova/Artemis-Cpp",
+              ""
+            ],
+            [
+              "2",
+              "[@chparsons](https://github.com/chparsons)/[**ofxGPGPU**](https://github.com/chparsons/ofxGPGPU)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@Helios-vmg](https://github.com/Helios-vmg)/[**Borderless**](https://github.com/Helios-vmg/Borderless)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@K-ballo](https://github.com/K-ballo)/[**packs**](https://github.com/K-ballo/packs)",
+              "Efficient Packing",
+              "[:arrow_upper_right:](http://talesofcpp.fusionfenix.com)"
+            ],
+            [
+              "2",
+              "[@fern17](https://github.com/fern17)/[**Kinect-Test**](https://github.com/fern17/Kinect-Test)",
+              "Compilation of test done with Microsoft's Kinect",
+              ""
+            ],
+            [
+              "2",
+              "[@fern17](https://github.com/fern17)/[**geometriacomputacion…**](https://github.com/fern17/geometriacomputacionalFICH)",
+              "Conjunto de algoritmos de la asignatura Geometría Computacional",
+              ""
+            ],
+            [
+              "2",
+              "[@dacap](https://github.com/dacap)/[**format**](https://github.com/dacap/format)",
+              "Experimental C++11 type-safe sprintf like functionality",
+              ""
+            ],
+            [
+              "2",
+              "[@maanuel](https://github.com/maanuel)/[**Isle-of-Conquest**](https://github.com/maanuel/Isle-of-Conquest)",
+              "Here is what i have done with gyullo for Isle of Conquest, using some parts of Socolin's and Josh's patch. I also want to thanks to anothers TCDev for the help, like QAston, linencloth and Shauren.",
+              ""
+            ],
+            [
+              "2",
+              "[@dacap](https://github.com/dacap)/[**handy**](https://github.com/dacap/handy)",
+              "Handy text editor",
+              ""
+            ],
+            [
+              "2",
+              "[@dacap](https://github.com/dacap)/[**defenderofnothing**](https://github.com/dacap/defenderofnothing)",
+              "Defender Of Nothing - A clon of Defender, but like an anti-videogame (my entry for SpeedHack 2007)",
+              "[:arrow_upper_right:](http://davidcapello.com/games/defender-of-nothing/)"
+            ],
+            [
+              "2",
+              "[@fern17](https://github.com/fern17)/[**PDIfich**](https://github.com/fern17/PDIfich)",
+              "",
               ""
             ]
           ]
