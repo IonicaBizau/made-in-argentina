@@ -69,7 +69,8 @@
           "[Ruby](#ruby)",
           "[Scala](#scala)",
           "[Shell](#shell)",
-          "[Swift](#swift)"
+          "[Swift](#swift)",
+          "[TeX](#tex)"
         ]
       },
       {
@@ -6766,6 +6767,27 @@
               "2",
               "[@guidomb](https://github.com/guidomb)/[**StateModeling**](https://github.com/guidomb/StateModeling)",
               "An example of using ReactiveCocoa and state machines.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "TeX #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@manumena](https://github.com/manumena)/[**aed3-summary**](https://github.com/manumena/aed3-summary)",
+              "A summary of Algorithims and Data Structures III",
               ""
             ]
           ]
