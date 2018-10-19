@@ -68,7 +68,8 @@
           "[R](#r)",
           "[Ruby](#ruby)",
           "[Scala](#scala)",
-          "[Shell](#shell)"
+          "[Shell](#shell)",
+          "[Swift](#swift)"
         ]
       },
       {
@@ -6600,6 +6601,171 @@
               "2",
               "[@3manuek](https://github.com/3manuek)/[**query_review_helper**](https://github.com/3manuek/query_review_helper)",
               "Gather important information from a MySQL database before a query review.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Swift #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "4539",
+              "[@marcosgriselli](https://github.com/marcosgriselli)/[**ViewAnimator**](https://github.com/marcosgriselli/ViewAnimator)",
+              "ViewAnimator brings your UI to life with just one line",
+              ""
+            ],
+            [
+              "865",
+              "[@marcosgriselli](https://github.com/marcosgriselli)/[**EasyTransitions**](https://github.com/marcosgriselli/EasyTransitions)",
+              "A simple way to create custom interactive UIViewController transitions",
+              ""
+            ],
+            [
+              "858",
+              "[@marcosgriselli](https://github.com/marcosgriselli)/[**Sizes**](https://github.com/marcosgriselli/Sizes)",
+              "View your app on different device and font sizes ",
+              ""
+            ],
+            [
+              "485",
+              "[@fmo91](https://github.com/fmo91)/[**PluggableApplication…**](https://github.com/fmo91/PluggableApplicationDelegate)",
+              "Smallest AppDelegate ever by using a decoupled-services based architecture. 🛠",
+              ""
+            ],
+            [
+              "436",
+              "[@marcosgriselli](https://github.com/marcosgriselli)/[**SwipeableTabBarContr…**](https://github.com/marcosgriselli/SwipeableTabBarController)",
+              "UITabBarController with swipe interaction between its tabs.",
+              ""
+            ],
+            [
+              "45",
+              "[@fmo91](https://github.com/fmo91)/[**MapKitGoogleStyler**](https://github.com/fmo91/MapKitGoogleStyler)",
+              "Customize iOS MapKit using Google JSON styles",
+              ""
+            ],
+            [
+              "44",
+              "[@guidomb](https://github.com/guidomb)/[**Portal**](https://github.com/guidomb/Portal)",
+              "A (potentially) cross-platform, unidirectional data flow framework to build applications using a declarative and immutable UI API.",
+              ""
+            ],
+            [
+              "43",
+              "[@marcosgriselli](https://github.com/marcosgriselli)/[**AppStoreSearch**](https://github.com/marcosgriselli/AppStoreSearch)",
+              "An example implementation of the iOS 11 App Store Search tab",
+              ""
+            ],
+            [
+              "26",
+              "[@fmo91](https://github.com/fmo91)/[**Microfutures**](https://github.com/fmo91/Microfutures)",
+              "Lightweight implementation of Futures that shares a similar subscription interface with RxSwift.",
+              "[:arrow_upper_right:](https://fmo91.github.io/Microfutures/)"
+            ],
+            [
+              "24",
+              "[@gchiacchio](https://github.com/gchiacchio)/[**AlamoImage**](https://github.com/gchiacchio/AlamoImage)",
+              "Image downloading with Alamofire",
+              ""
+            ],
+            [
+              "15",
+              "[@guidomb](https://github.com/guidomb)/[**PortalView**](https://github.com/guidomb/PortalView)",
+              "A (potentially) cross-platform, declarative and immutable Swift library for building user interfaces",
+              ""
+            ],
+            [
+              "14",
+              "[@fmo91](https://github.com/fmo91)/[**Conn**](https://github.com/fmo91/Conn)",
+              "Minimal yet modular networking layer for Swift.",
+              ""
+            ],
+            [
+              "8",
+              "[@fmo91](https://github.com/fmo91)/[**DequeuableRegistrabl…**](https://github.com/fmo91/DequeuableRegistrable)",
+              "Safe and convenient registering and dequeuing of UITableViewCells and UICollectionViewCells without using strings.",
+              "[:arrow_upper_right:](https://fmo91.github.io/DequeuableRegistrable/)"
+            ],
+            [
+              "8",
+              "[@f0go](https://github.com/f0go)/[**OpenMailbox**](https://github.com/f0go/OpenMailbox)",
+              "E-mail Client",
+              ""
+            ],
+            [
+              "8",
+              "[@gchiacchio](https://github.com/gchiacchio)/[**AlamoArgo**](https://github.com/gchiacchio/AlamoArgo)",
+              "Alamofire extensions to parse JSON objects with Argo",
+              ""
+            ],
+            [
+              "5",
+              "[@fmo91](https://github.com/fmo91)/[**FOTask**](https://github.com/fmo91/FOTask)",
+              "Object oriented Swift tasks microframework with concurrency and composition 🎉",
+              ""
+            ],
+            [
+              "3",
+              "[@fmo91](https://github.com/fmo91)/[**Facemoji**](https://github.com/fmo91/Facemoji)",
+              "Sample app that replaces faces in photos with emojis.",
+              ""
+            ],
+            [
+              "3",
+              "[@f0go](https://github.com/f0go)/[**NavBarSections**](https://github.com/f0go/NavBarSections)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@Fedenieto90](https://github.com/Fedenieto90)/[**iOS-Geofence**](https://github.com/Fedenieto90/iOS-Geofence)",
+              "Geofence : How to implement virtual boundaries in the real world using Swift?",
+              ""
+            ],
+            [
+              "2",
+              "[@nameghino](https://github.com/nameghino)/[**Upcoming**](https://github.com/nameghino/Upcoming)",
+              "Shows upcoming movies from the TMDB api",
+              ""
+            ],
+            [
+              "2",
+              "[@AdrianFerreyra](https://github.com/AdrianFerreyra)/[**FunctionalSwiftNSCon…**](https://github.com/AdrianFerreyra/FunctionalSwiftNSConfArg2015)",
+              "Material adicional sobre temas de Functional Swift de mi charla en NSConfArg 2015.",
+              ""
+            ],
+            [
+              "2",
+              "[@guidomb](https://github.com/guidomb)/[**voices**](https://github.com/guidomb/voices)",
+              "An open source Twitter client",
+              ""
+            ],
+            [
+              "2",
+              "[@georgealegre](https://github.com/georgealegre)/[**UNCmorfi**](https://github.com/georgealegre/UNCmorfi)",
+              "Non official iOS app for keeping track of users' balance, menu of the week and servings left from the UNC Comedor.",
+              ""
+            ],
+            [
+              "2",
+              "[@lucascortes](https://github.com/lucascortes)/[**NeonFilters**](https://github.com/lucascortes/NeonFilters)",
+              "Example iOS app written in Swift, using ARM NEON assembly to do image processing",
+              ""
+            ],
+            [
+              "2",
+              "[@guidomb](https://github.com/guidomb)/[**StateModeling**](https://github.com/guidomb/StateModeling)",
+              "An example of using ReactiveCocoa and state machines.",
               ""
             ]
           ]
