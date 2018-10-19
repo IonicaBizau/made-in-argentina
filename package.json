@@ -48,7 +48,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -2038,6 +2039,411 @@
               "2",
               "[@delucas](https://github.com/delucas)/[**java-warrior**](https://github.com/delucas/java-warrior)",
               "juego educativo para programadores, basado en el ruby-warrior",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "651",
+              "[@MarcosMeli](https://github.com/MarcosMeli)/[**FileHelpers**](https://github.com/MarcosMeli/FileHelpers)",
+              "The FileHelpers are a free and easy to use .NET library to read/write data from fixed length or delimited records in files, strings or streams",
+              "[:arrow_upper_right:](https://www.filehelpers.net)"
+            ],
+            [
+              "275",
+              "[@kblok](https://github.com/kblok)/[**puppeteer-sharp**](https://github.com/kblok/puppeteer-sharp)",
+              "Headless Chrome .NET API",
+              "[:arrow_upper_right:](https://www.puppeteersharp.com)"
+            ],
+            [
+              "237",
+              "[@Zaphyk](https://github.com/Zaphyk)/[**project-skylines**](https://github.com/Zaphyk/project-skylines)",
+              "procedural retro 3d game for the GitHub Gameoff 2017",
+              "[:arrow_upper_right:](https://zaphyk.itch.io/neon-skylines)"
+            ],
+            [
+              "111",
+              "[@pcibraro](https://github.com/pcibraro)/[**hawknet**](https://github.com/pcibraro/hawknet)",
+              "Hawk protocol implementation for .NET",
+              ""
+            ],
+            [
+              "68",
+              "[@kzu](https://github.com/kzu)/[**NuDoq**](https://github.com/kzu/NuDoq)",
+              "A standalone API to read .NET XML documentation files and optionally augment it with reflection information.",
+              "[:arrow_upper_right:]( http://www.cazzulino.com/NuDoq)"
+            ],
+            [
+              "59",
+              "[@kzu](https://github.com/kzu)/[**InjectModuleInitiali…**](https://github.com/kzu/InjectModuleInitializer)",
+              "Console program and nuget package to inject a module initializer method into a built .NET assembly",
+              "[:arrow_upper_right:](http://einaregilsson.com/module-initializers-in-csharp/)"
+            ],
+            [
+              "48",
+              "[@lontivero](https://github.com/lontivero)/[**peer2net**](https://github.com/lontivero/peer2net)",
+              "A P2P library to create peer-to-peer applications with .Net ",
+              ""
+            ],
+            [
+              "46",
+              "[@lontivero](https://github.com/lontivero)/[**vinchuca**](https://github.com/lontivero/vinchuca)",
+              "A resilient peer-to-peer botnet agent in .NET",
+              ""
+            ],
+            [
+              "45",
+              "[@nmilcoff](https://github.com/nmilcoff)/[**EasyTipView**](https://github.com/nmilcoff/EasyTipView)",
+              "C# port of https://github.com/teodorpatras/EasyTipV… EasyTipView is a fully customisable tooltip view for iOS. ",
+              ""
+            ],
+            [
+              "42",
+              "[@kzu](https://github.com/kzu)/[**NuGetReferences**](https://github.com/kzu/NuGetReferences)",
+              "Save time by managing your NuGet references right from the Solution Explorer packages.config",
+              ""
+            ],
+            [
+              "30",
+              "[@lontivero](https://github.com/lontivero)/[**BlockchainParser**](https://github.com/lontivero/BlockchainParser)",
+              "a .NET bitcoin's blockchain parser",
+              ""
+            ],
+            [
+              "29",
+              "[@m4v](https://github.com/m4v)/[**RCSBuildAid**](https://github.com/m4v/RCSBuildAid)",
+              "Kerbal Space Program plugin for RCS thruster placement",
+              ""
+            ],
+            [
+              "21",
+              "[@redknightlois](https://github.com/redknightlois)/[**performance-course**](https://github.com/redknightlois/performance-course)",
+              "",
+              ""
+            ],
+            [
+              "17",
+              "[@pcibraro](https://github.com/pcibraro)/[**SelfHostUtilities**](https://github.com/pcibraro/SelfHostUtilities)",
+              "A set of helper classes for easing the initialization of the self host web applications in .NET. This project contains classes for registering a new self signed certificate and the port registration to run under https. ",
+              ""
+            ],
+            [
+              "15",
+              "[@nmilcoff](https://github.com/nmilcoff)/[**TagsView**](https://github.com/nmilcoff/TagsView)",
+              "Simple and highly customizable Xamarin.iOS tag list view. Originally inspired by https://github.com/ElaWorkshop/TagListVi…",
+              ""
+            ],
+            [
+              "15",
+              "[@ealsur](https://github.com/ealsur)/[**auth0swagger**](https://github.com/ealsur/auth0swagger)",
+              "Swagger documented API and Autorest generated client with Auth0",
+              ""
+            ],
+            [
+              "15",
+              "[@ealsur](https://github.com/ealsur)/[**HTTPDataCollectorAPI**](https://github.com/ealsur/HTTPDataCollectorAPI)",
+              "Azure Log Analytics HTTP Data Collector API wrapper",
+              ""
+            ],
+            [
+              "14",
+              "[@lontivero](https://github.com/lontivero)/[**Open.HttpProxy**](https://github.com/lontivero/Open.HttpProxy)",
+              "An fully asynchronous .Net HTTP proxy focused on performance",
+              ""
+            ],
+            [
+              "13",
+              "[@ealsur](https://github.com/ealsur)/[**WebJobs.Extensions.G…**](https://github.com/ealsur/WebJobs.Extensions.GroupQueueTrigger)",
+              "Extension for Azure Webjobs SDK that returns groups of messages of an Azure Queue",
+              ""
+            ],
+            [
+              "12",
+              "[@kzu](https://github.com/kzu)/[**SmartReferences**](https://github.com/kzu/SmartReferences)",
+              "Smarter project and assembly references with MSBuild",
+              ""
+            ],
+            [
+              "12",
+              "[@lontivero](https://github.com/lontivero)/[**Open.WinKeyboardHook**](https://github.com/lontivero/Open.WinKeyboardHook)",
+              "A simple and easy-to-use .NET managed wrapper for Low Level Keyboard hooking.",
+              ""
+            ],
+            [
+              "11",
+              "[@kzu](https://github.com/kzu)/[**Schematron**](https://github.com/kzu/Schematron)",
+              "A Schematron ISO/IEC standard processor for .NET, written in C#",
+              ""
+            ],
+            [
+              "11",
+              "[@ealsur](https://github.com/ealsur)/[**auth0documentdb**](https://github.com/ealsur/auth0documentdb)",
+              "Sample repository for Auth0 & Azure DocumentDB integration",
+              ""
+            ],
+            [
+              "11",
+              "[@edgardozoppi](https://github.com/edgardozoppi)/[**analysis-net**](https://github.com/edgardozoppi/analysis-net)",
+              "Static analysis framework for .NET programs.",
+              ""
+            ],
+            [
+              "11",
+              "[@davidrevoledo](https://github.com/davidrevoledo)/[**Inyector**](https://github.com/davidrevoledo/Inyector)",
+              "Library to Implement Automatic dependency injection by Configuration over Scaned Assemblies",
+              ""
+            ],
+            [
+              "10",
+              "[@redknightlois](https://github.com/redknightlois)/[**cudalearn**](https://github.com/redknightlois/cudalearn)",
+              "Advanced machine learning algorithms in C#",
+              ""
+            ],
+            [
+              "10",
+              "[@kzu](https://github.com/kzu)/[**xunit.assemblyfixtur…**](https://github.com/kzu/xunit.assemblyfixture)",
+              "Provides per-assembly fixture state support for xunit",
+              ""
+            ],
+            [
+              "9",
+              "[@kzu](https://github.com/kzu)/[**corebuild**](https://github.com/kzu/corebuild)",
+              "Simplified MSBuild-based build scripts",
+              ""
+            ],
+            [
+              "9",
+              "[@lontivero](https://github.com/lontivero)/[**BitcoinWatcher**](https://github.com/lontivero/BitcoinWatcher)",
+              "Bitcoin Transaction Analyzer",
+              ""
+            ],
+            [
+              "8",
+              "[@redknightlois](https://github.com/redknightlois)/[**fastdictionary**](https://github.com/redknightlois/fastdictionary)",
+              "An alternative implementation of Dictionary<K,V> on C#",
+              ""
+            ],
+            [
+              "8",
+              "[@ealsur](https://github.com/ealsur)/[**minicompiler**](https://github.com/ealsur/minicompiler)",
+              "Minification, bundling and compiling sample",
+              ""
+            ],
+            [
+              "8",
+              "[@ejadib](https://github.com/ejadib)/[**handoff-to-human-sam…**](https://github.com/ejadib/handoff-to-human-sample)",
+              "A bot showing a simple approach to hand-off to a human using Microsoft Bot Framework",
+              ""
+            ],
+            [
+              "7",
+              "[@kzu](https://github.com/kzu)/[**OctoHook**](https://github.com/kzu/OctoHook)",
+              "GitHub hooks made easy",
+              ""
+            ],
+            [
+              "7",
+              "[@davidrevoledo](https://github.com/davidrevoledo)/[**ServiceBus.LogginPlu…**](https://github.com/davidrevoledo/ServiceBus.LogginPlugin)",
+              "Plugin to log Service bus message in an storage account",
+              ""
+            ],
+            [
+              "7",
+              "[@MarcosMeli](https://github.com/MarcosMeli)/[**ExamplesFx**](https://github.com/MarcosMeli/ExamplesFx)",
+              "Allows super fast and great looking examples for any library, using compiled examples instead of plain text/html",
+              ""
+            ],
+            [
+              "6",
+              "[@kzu](https://github.com/kzu)/[**xunit.vsix**](https://github.com/kzu/xunit.vsix)",
+              "Xunit for creating VSIX integration tests",
+              ""
+            ],
+            [
+              "5",
+              "[@eugeniomiro](https://github.com/eugeniomiro)/[**Terrarium**](https://github.com/eugeniomiro/Terrarium)",
+              "A fork of https://terrarium2.codeplex.com/ commit 69709",
+              ""
+            ],
+            [
+              "5",
+              "[@ealsur](https://github.com/ealsur)/[**concurrentdocdb**](https://github.com/ealsur/concurrentdocdb)",
+              "Azure DocumentDB concurrenty-aware extensions",
+              ""
+            ],
+            [
+              "5",
+              "[@ejadib](https://github.com/ejadib)/[**WikiSampleBot**](https://github.com/ejadib/WikiSampleBot)",
+              "A bot showing how to use QnAMaker to create a wiki from any channel",
+              ""
+            ],
+            [
+              "4",
+              "[@ejadib](https://github.com/ejadib)/[**ParentChildFormBotFr…**](https://github.com/ejadib/ParentChildFormBotFramework)",
+              "Sample code of a Parent Child Form Flow using Microsoft Bot Framework",
+              ""
+            ],
+            [
+              "4",
+              "[@kzu](https://github.com/kzu)/[**NuGetToolkit**](https://github.com/kzu/NuGetToolkit)",
+              "A NuPattern toolkit for generating NuGet packages in a Visual Studio solution",
+              ""
+            ],
+            [
+              "4",
+              "[@ejadib](https://github.com/ejadib)/[**scriptcs-azuremedias…**](https://github.com/ejadib/scriptcs-azuremediaservices)",
+              "Script pack for accessing Azure Media Services from scriptcs CSX script and scriptcs REPL.",
+              ""
+            ],
+            [
+              "4",
+              "[@nmilcoff](https://github.com/nmilcoff)/[**Presentations**](https://github.com/nmilcoff/Presentations)",
+              "Slides & demos for presentations",
+              ""
+            ],
+            [
+              "4",
+              "[@ejadib](https://github.com/ejadib)/[**LUIS-DateTimeV2-Exte…**](https://github.com/ejadib/LUIS-DateTimeV2-Extensions)",
+              "Extension methods to extract LUIS DateTimeV2 Prebuilt entity values for your Microsoft Bot Framework bot",
+              ""
+            ],
+            [
+              "3",
+              "[@ejadib](https://github.com/ejadib)/[**PromptDialogsQuickRe…**](https://github.com/ejadib/PromptDialogsQuickReplies)",
+              "Using Facebook’s QuickReplies with PromptDialogs",
+              ""
+            ],
+            [
+              "3",
+              "[@kzu](https://github.com/kzu)/[**AutoCodeFix**](https://github.com/kzu/AutoCodeFix)",
+              "Applies Roslyn code fixes automatically during build",
+              ""
+            ],
+            [
+              "3",
+              "[@edgardozoppi](https://github.com/edgardozoppi)/[**call-graph-orleans**](https://github.com/edgardozoppi/call-graph-orleans)",
+              "Distributed Call-Graph analysis for C# built using Roslyn and Orleans frameworks.",
+              ""
+            ],
+            [
+              "3",
+              "[@kzu](https://github.com/kzu)/[**InformationSchema**](https://github.com/kzu/InformationSchema)",
+              "Allows inspecting the standard INFORMATION_SCHEMA views on databases that support it, through Entity Framework Code First",
+              ""
+            ],
+            [
+              "3",
+              "[@lontivero](https://github.com/lontivero)/[**KeyPadawan**](https://github.com/lontivero/KeyPadawan)",
+              "Tool for showing the pressed keys in the screen.",
+              ""
+            ],
+            [
+              "3",
+              "[@kzu](https://github.com/kzu)/[**System.Diagnostics.T…**](https://github.com/kzu/System.Diagnostics.Tracer)",
+              "An improved API on top of System.Diagnostics",
+              ""
+            ],
+            [
+              "3",
+              "[@ejadib](https://github.com/ejadib)/[**QuickReplies**](https://github.com/ejadib/QuickReplies)",
+              "Sending Facebook’s Quick replies using Microsoft Bot Framework",
+              ""
+            ],
+            [
+              "2",
+              "[@nanotaboada](https://github.com/nanotaboada)/[**mono**](https://github.com/nanotaboada/mono)",
+              "Mono sample projects",
+              ""
+            ],
+            [
+              "2",
+              "[@ejadib](https://github.com/ejadib)/[**RCE-Transform-Manage…**](https://github.com/ejadib/RCE-Transform-Manager-Tasks)",
+              "IIS Transform Manager Task that takes an MMP Video Editor Project XML file (which includes the EDL) as input, and outputs a new encoded video that represents the MMP Video Editor edits",
+              "[:arrow_upper_right:](http://blogs.southworks.net/ejadib/2010/07/27/rough-cut-editor-rce-and-iis-transform-manager-best-friends/)"
+            ],
+            [
+              "2",
+              "[@ealsur](https://github.com/ealsur)/[**loganalytics-extensi…**](https://github.com/ealsur/loganalytics-extensions-logging)",
+              "Azure Log Analytics Logger extension for ASP.NET Core ",
+              ""
+            ],
+            [
+              "2",
+              "[@ealsur](https://github.com/ealsur)/[**auth0search**](https://github.com/ealsur/auth0search)",
+              "Azure Search implementation over Auth0 and Azure DocumentDB using ASP.NET Core",
+              ""
+            ],
+            [
+              "2",
+              "[@ealsur](https://github.com/ealsur)/[**mvpstreambot**](https://github.com/ealsur/mvpstreambot)",
+              "BotFramework for MVP content",
+              ""
+            ],
+            [
+              "2",
+              "[@ealsur](https://github.com/ealsur)/[**CognitiveServicesTex…**](https://github.com/ealsur/CognitiveServicesText)",
+              ".Net Core implementation of Microsoft Cognitive Services Text Analysis API",
+              ""
+            ],
+            [
+              "2",
+              "[@lontivero](https://github.com/lontivero)/[**fravegabot**](https://github.com/lontivero/fravegabot)",
+              "A tiny chatbot for search products in fravega ",
+              ""
+            ],
+            [
+              "2",
+              "[@edgardozoppi](https://github.com/edgardozoppi)/[**analysis-explorer**](https://github.com/edgardozoppi/analysis-explorer)",
+              "Analysis.NET framework visualization tool",
+              ""
+            ],
+            [
+              "2",
+              "[@lontivero](https://github.com/lontivero)/[**PasswordManager**](https://github.com/lontivero/PasswordManager)",
+              "A solution for generating and remembering one millon passwords",
+              ""
+            ],
+            [
+              "2",
+              "[@kzu](https://github.com/kzu)/[**SemanticGit**](https://github.com/kzu/SemanticGit)",
+              "Automatic versioning based on SemVer-formated Git tags.",
+              ""
+            ],
+            [
+              "2",
+              "[@kzu](https://github.com/kzu)/[**Gherkinator**](https://github.com/kzu/Gherkinator)",
+              "Lightweight library for running unit tests described via Gherkin files.",
+              ""
+            ],
+            [
+              "2",
+              "[@lontivero](https://github.com/lontivero)/[**gcs**](https://github.com/lontivero/gcs)",
+              "Golomb-coded set of filters for ClientSideFiltering Bitcoin light clients",
+              ""
+            ],
+            [
+              "2",
+              "[@kzu](https://github.com/kzu)/[**NuGetStorage**](https://github.com/kzu/NuGetStorage)",
+              "Library for reading and monitoring the nuget packages folder and packages.config files.",
+              ""
+            ],
+            [
+              "2",
+              "[@redknightlois](https://github.com/redknightlois)/[**arrayslice**](https://github.com/redknightlois/arrayslice)",
+              "ArraySlice allows to build shared memory array views without performance impact. It uses IL manipulation to achieve the fastest implementation.",
               ""
             ]
           ]
