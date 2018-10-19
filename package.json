@@ -66,7 +66,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[R](#r)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -6256,6 +6257,231 @@
               "2",
               "[@inkel](https://github.com/inkel)/[**haproxy-mobile-front…**](https://github.com/inkel/haproxy-mobile-frontend)",
               "Mobile frontend to HAProxy statistics",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "162",
+              "[@pablosmedina](https://github.com/pablosmedina)/[**ckite**](https://github.com/pablosmedina/ckite)",
+              "CKite - A JVM implementation of the Raft distributed consensus algorithm written in Scala",
+              ""
+            ],
+            [
+              "49",
+              "[@gvolpe](https://github.com/gvolpe)/[**fs2-rabbit**](https://github.com/gvolpe/fs2-rabbit)",
+              "RabbitMQ stream-based client built on top of Fs2",
+              "[:arrow_upper_right:](https://gvolpe.github.io/fs2-rabbit/)"
+            ],
+            [
+              "35",
+              "[@gvolpe](https://github.com/gvolpe)/[**light-play-rest-api**](https://github.com/gvolpe/light-play-rest-api)",
+              "This project aims to be the reference to create a Light Weight REST API using Play Framework 2.4.x.",
+              ""
+            ],
+            [
+              "33",
+              "[@gvolpe](https://github.com/gvolpe)/[**typelevel-stack.g8**](https://github.com/gvolpe/typelevel-stack.g8)",
+              "Unofficial Giter8 template for the Typelevel Stack (Http4s / Doobie / Circe / Cats Effect / Fs2) based on Cats v1.x.x",
+              ""
+            ],
+            [
+              "29",
+              "[@gvolpe](https://github.com/gvolpe)/[**fs2-redis**](https://github.com/gvolpe/fs2-redis)",
+              "Redis stream-based client built on top of Fs2, Cats Effect and Lettuce",
+              "[:arrow_upper_right:](https://gvolpe.github.io/fs2-redis/)"
+            ],
+            [
+              "22",
+              "[@gvolpe](https://github.com/gvolpe)/[**advanced-http4s**](https://github.com/gvolpe/advanced-http4s)",
+              "Code samples of advanced features of Http4s in combination with some features of Fs2 not often seen.",
+              ""
+            ],
+            [
+              "15",
+              "[@gvolpe](https://github.com/gvolpe)/[**http4s-tracer**](https://github.com/gvolpe/http4s-tracer)",
+              "End to end tracing system for Http4s",
+              "[:arrow_upper_right:](https://gvolpe.github.io/http4s-tracer/)"
+            ],
+            [
+              "15",
+              "[@gvolpe](https://github.com/gvolpe)/[**akka-cluster-demo**](https://github.com/gvolpe/akka-cluster-demo)",
+              "Testing the Akka 2.4 feature \"akka.cluster.sharding.remember-entities…",
+              ""
+            ],
+            [
+              "13",
+              "[@gvolpe](https://github.com/gvolpe)/[**social-graph-api**](https://github.com/gvolpe/social-graph-api)",
+              "Authentication & Social Graph API built on top of Redis, Neo4J and Play!",
+              ""
+            ],
+            [
+              "13",
+              "[@gvolpe](https://github.com/gvolpe)/[**console4cats**](https://github.com/gvolpe/console4cats)",
+              "Effect-type agnostic Console I/O for Cats Effect",
+              "[:arrow_upper_right:](https://gvolpe.github.io/console4cats/)"
+            ],
+            [
+              "9",
+              "[@gvolpe](https://github.com/gvolpe)/[**hll-algorithm-sample**](https://github.com/gvolpe/hll-algorithm-sample)",
+              "HLL Algorithm and Web Scraping sample",
+              ""
+            ],
+            [
+              "9",
+              "[@gvolpe](https://github.com/gvolpe)/[**akka-stream-full-pro…**](https://github.com/gvolpe/akka-stream-full-project)",
+              "Complete project using Akka Stream with Error Handling and ~100% Test Coverage",
+              "[:arrow_upper_right:](https://partialflow.wordpress.com/2015/08/17/akka-streams-designing-a-full-project/)"
+            ],
+            [
+              "8",
+              "[@gvolpe](https://github.com/gvolpe)/[**typed-actors-demo**](https://github.com/gvolpe/typed-actors-demo)",
+              "Simple demo using Typed Actors by @knutwalker",
+              ""
+            ],
+            [
+              "8",
+              "[@gvolpe](https://github.com/gvolpe)/[**simple-http4s-api**](https://github.com/gvolpe/simple-http4s-api)",
+              "Just a simple API using \"http4s\" and Json support on top of Play Json and Circe",
+              ""
+            ],
+            [
+              "8",
+              "[@gvolpe](https://github.com/gvolpe)/[**cats-functional-data…**](https://github.com/gvolpe/cats-functional-data-validation)",
+              "Functional Data Validation in Scala using the Cats library",
+              ""
+            ],
+            [
+              "5",
+              "[@gvolpe](https://github.com/gvolpe)/[**users-api-test**](https://github.com/gvolpe/users-api-test)",
+              "Basic Users API including Authentication using Http4s v0.18 and Cats Effect v0.5",
+              ""
+            ],
+            [
+              "4",
+              "[@pablosmedina](https://github.com/pablosmedina)/[**kvstore**](https://github.com/pablosmedina/kvstore)",
+              "KVStore - Sample application using CKite",
+              ""
+            ],
+            [
+              "4",
+              "[@readren](https://github.com/readren)/[**akkaHttp-angular2-ty…**](https://github.com/readren/akkaHttp-angular2-typescript)",
+              "Identical to \"play-angular2-typescript\" but uses akka-http instead of play.",
+              ""
+            ],
+            [
+              "3",
+              "[@gvolpe](https://github.com/gvolpe)/[**http4s-crud-demo**](https://github.com/gvolpe/http4s-crud-demo)",
+              "CRUD operations and Error Handling using Http4s",
+              ""
+            ],
+            [
+              "3",
+              "[@gvolpe](https://github.com/gvolpe)/[**advanced-scala-exerc…**](https://github.com/gvolpe/advanced-scala-exercises)",
+              "Solved exercises of the Advanced Scala with Scalaz book by Noel Welsh and Dave Gurnell",
+              ""
+            ],
+            [
+              "3",
+              "[@gvolpe](https://github.com/gvolpe)/[**pricer-streams-demo**](https://github.com/gvolpe/pricer-streams-demo)",
+              "Scalaz Streams demo project",
+              "[:arrow_upper_right:](https://partialflow.wordpress.com/2016/04/28/scalaz-streams-parallel-processing-and-better-testing/)"
+            ],
+            [
+              "3",
+              "[@gvolpe](https://github.com/gvolpe)/[**social-network**](https://github.com/gvolpe/social-network)",
+              "Social Network example Twitter-alike (followers / following) implemented on top of Titan Db",
+              "[:arrow_upper_right:](https://partialflow.wordpress.com/2017/03/04/social-network-using-titan-db-part-2/)"
+            ],
+            [
+              "2",
+              "[@pmincz](https://github.com/pmincz)/[**spray-slick-api-exam…**](https://github.com/pmincz/spray-slick-api-example)",
+              "Rest API example in Scala with Spray and Slick",
+              ""
+            ],
+            [
+              "2",
+              "[@gvolpe](https://github.com/gvolpe)/[**play-oauth-silhouett…**](https://github.com/gvolpe/play-oauth-silhouette)",
+              "Example using OAuth with Play! Framework and Silhouette",
+              ""
+            ],
+            [
+              "2",
+              "[@gvolpe](https://github.com/gvolpe)/[**functional-chain-of-…**](https://github.com/gvolpe/functional-chain-of-responsibility)",
+              "Functional Chain of Responsibility pattern",
+              ""
+            ],
+            [
+              "2",
+              "[@gvolpe](https://github.com/gvolpe)/[**dependent-types**](https://github.com/gvolpe/dependent-types)",
+              "Personal notes taken from the course ThCS. Introduction to programming with dependent types in Scala.",
+              ""
+            ],
+            [
+              "2",
+              "[@gvolpe](https://github.com/gvolpe)/[**pricer-fs2-demo**](https://github.com/gvolpe/pricer-fs2-demo)",
+              "Demo project using FS2 (Functional Streams for Scala)",
+              "[:arrow_upper_right:](https://partialflow.wordpress.com/2016/07/17/from-scalaz-streams-to-fs2/)"
+            ],
+            [
+              "2",
+              "[@gvolpe](https://github.com/gvolpe)/[**simple-file-reader-a…**](https://github.com/gvolpe/simple-file-reader-akka-actors)",
+              "Simple file reader using Akka actors in Scala",
+              ""
+            ],
+            [
+              "2",
+              "[@lalloni](https://github.com/lalloni)/[**sutil**](https://github.com/lalloni/sutil)",
+              "A set of scala language general utilities not found in other libraries.",
+              ""
+            ],
+            [
+              "2",
+              "[@gvolpe](https://github.com/gvolpe)/[**logger-writer-monad**](https://github.com/gvolpe/logger-writer-monad)",
+              "Pure functional log of transactions using the Scalaz Writer Monad.",
+              ""
+            ],
+            [
+              "2",
+              "[@lukiano](https://github.com/lukiano)/[**monadasync**](https://github.com/lukiano/monadasync)",
+              "Clone of ",
+              "[:arrow_upper_right:](https://bitbucket.org/lleggieri/monadasync)"
+            ],
+            [
+              "2",
+              "[@gvolpe](https://github.com/gvolpe)/[**free-as-a-monad**](https://github.com/gvolpe/free-as-a-monad)",
+              "Running 2 or more algebras with Coproduct and Inject when using the Free Monad",
+              ""
+            ],
+            [
+              "2",
+              "[@lukiano](https://github.com/lukiano)/[**rxspray**](https://github.com/lukiano/rxspray)",
+              "Consume Twitter Streams using Spray-Client and map them to a RxJava observable",
+              ""
+            ],
+            [
+              "2",
+              "[@gvolpe](https://github.com/gvolpe)/[**play-cors-filter**](https://github.com/gvolpe/play-cors-filter)",
+              "Play! Framework API with CORS Filter",
+              ""
+            ],
+            [
+              "2",
+              "[@gvolpe](https://github.com/gvolpe)/[**coursera-reactive-pr…**](https://github.com/gvolpe/coursera-reactive-prog)",
+              "Curso online de programación reactiva https://www.coursera.org/course/reactive",
               ""
             ]
           ]
