@@ -57,7 +57,8 @@
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
           "[CoffeeScript](#coffeescript)",
-          "[Go](#go)"
+          "[Go](#go)",
+          "[Haskell](#haskell)"
         ]
       },
       {
@@ -3370,6 +3371,87 @@
               "2",
               "[@viniciusfeitosa](https://github.com/viniciusfeitosa)/[**TalkRubyConf**](https://github.com/viniciusfeitosa/TalkRubyConf)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Haskell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "17",
+              "[@alvare](https://github.com/alvare)/[**discogs2pg**](https://github.com/alvare/discogs2pg)",
+              "Discogs to PostgreSQL importer",
+              ""
+            ],
+            [
+              "5",
+              "[@Svartskogen](https://github.com/Svartskogen)/[**Int.-A-Los-Algoritmo…**](https://github.com/Svartskogen/Int.-A-Los-Algoritmos-FAMAF)",
+              "Repositorio de la materia \"Introduccion a los Algoritmos\" del primer año de la licenciatura en ciencias de la computacion de FAMAF, adjuntando los .pdf's de los practicos, asi como los codigos desarrollados ",
+              ""
+            ],
+            [
+              "5",
+              "[@BsAsHaskell](https://github.com/BsAsHaskell)/[**workshop-1**](https://github.com/BsAsHaskell/workshop-1)",
+              "Introducción a Haskell práctico: Servidor REST en Scotty",
+              ""
+            ],
+            [
+              "4",
+              "[@alvare](https://github.com/alvare)/[**tateti-tateti**](https://github.com/alvare/tateti-tateti)",
+              "Meta tic-tac-toe ncurses game.",
+              ""
+            ],
+            [
+              "3",
+              "[@alvare](https://github.com/alvare)/[**dson-parsec**](https://github.com/alvare/dson-parsec)",
+              "DSON parser in Haskell with Parsec.",
+              ""
+            ],
+            [
+              "3",
+              "[@juanbono](https://github.com/juanbono)/[**tapl-haskell**](https://github.com/juanbono/tapl-haskell)",
+              "Implementacion de los lenguajes explicados en Types and Programming Languages",
+              ""
+            ],
+            [
+              "3",
+              "[@BsAsHaskell](https://github.com/BsAsHaskell)/[**imager3000**](https://github.com/BsAsHaskell/imager3000)",
+              "Scrapping concurrently as a workshop.",
+              ""
+            ],
+            [
+              "2",
+              "[@miguelpagano](https://github.com/miguelpagano)/[**equ**](https://github.com/miguelpagano/equ)",
+              "Chequeador de demostraciones de lógica ecuacional",
+              ""
+            ],
+            [
+              "2",
+              "[@juanbono](https://github.com/juanbono)/[**parser-combinators**](https://github.com/juanbono/parser-combinators)",
+              "Aprendiendo a usar parser combinators. Implementaciones de cosas vistas en papers. Practicas. Etc",
+              ""
+            ],
+            [
+              "2",
+              "[@alvare](https://github.com/alvare)/[**quickcheck-examples**](https://github.com/alvare/quickcheck-examples)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@fmaste](https://github.com/fmaste)/[**hgraph**](https://github.com/fmaste/hgraph)",
+              "A Haskell graph library",
               ""
             ]
           ]
