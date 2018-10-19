@@ -59,7 +59,8 @@
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
           "[Haskell](#haskell)",
-          "[Lua](#lua)"
+          "[Lua](#lua)",
+          "[Matlab](#matlab)"
         ]
       },
       {
@@ -3576,6 +3577,27 @@
               "2",
               "[@Positive07](https://github.com/Positive07)/[**Challenger**](https://github.com/Positive07/Challenger)",
               "A text editor made with Lua and lots of LÖVE",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Matlab #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@ferchaure](https://github.com/ferchaure)/[**celestina**](https://github.com/ferchaure/celestina)",
+              "A graphical tool for the qualitative analysis of the merge operation in Wave_clus",
               ""
             ]
           ]
