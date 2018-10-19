@@ -49,7 +49,8 @@
         "ul": [
           "[JavaScript](#javascript)",
           "[Java](#java)",
-          "[C#](#c-1)"
+          "[C#](#c-1)",
+          "[CSS](#css)"
         ]
       },
       {
@@ -2444,6 +2445,93 @@
               "2",
               "[@redknightlois](https://github.com/redknightlois)/[**arrayslice**](https://github.com/redknightlois/arrayslice)",
               "ArraySlice allows to build shared memory array views without performance impact. It uses IL manipulation to achieve the fastest implementation.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CSS #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "23",
+              "[@heyimjuani](https://github.com/heyimjuani)/[**html5timetracker**](https://github.com/heyimjuani/html5timetracker)",
+              "A simple Time Tracker for the browser, using localStorage",
+              ""
+            ],
+            [
+              "10",
+              "[@octaviovillegas](https://github.com/octaviovillegas)/[**CursoIngresoJS**](https://github.com/octaviovillegas/CursoIngresoJS)",
+              "Curso de ingreso con JavaScript",
+              ""
+            ],
+            [
+              "7",
+              "[@ignacioricci](https://github.com/ignacioricci)/[**chateau-theme**](https://github.com/ignacioricci/chateau-theme)",
+              "Chateau WordPress Theme",
+              ""
+            ],
+            [
+              "6",
+              "[@CarlosManotas](https://github.com/CarlosManotas)/[**star-wars-ng2**](https://github.com/CarlosManotas/star-wars-ng2)",
+              "Jugando con la Api de swapi y ng2",
+              "[:arrow_upper_right:](http://carlosmanotas.github.io/star-wars-ng2/)"
+            ],
+            [
+              "4",
+              "[@heyimjuani](https://github.com/heyimjuani)/[**nav**](https://github.com/heyimjuani/nav)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@steffaru](https://github.com/steffaru)/[**tictactoe**](https://github.com/steffaru/tictactoe)",
+              "Basic game tic tact toe",
+              ""
+            ],
+            [
+              "2",
+              "[@andresgalante](https://github.com/andresgalante)/[**UPS**](https://github.com/andresgalante/UPS)",
+              "Unified Push Console new UI design",
+              ""
+            ],
+            [
+              "2",
+              "[@CarlosManotas](https://github.com/CarlosManotas)/[**angular2-productos**](https://github.com/CarlosManotas/angular2-productos)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@octaviovillegas](https://github.com/octaviovillegas)/[**Flisol2018**](https://github.com/octaviovillegas/Flisol2018)",
+              "14º Festival Latinoamericano de Instalación de Software Libre el 28 de abril 2018",
+              ""
+            ],
+            [
+              "2",
+              "[@heyimjuani](https://github.com/heyimjuani)/[**css-nav**](https://github.com/heyimjuani/css-nav)",
+              "CSS only dropdowns and submenues",
+              ""
+            ],
+            [
+              "2",
+              "[@heyimjuani](https://github.com/heyimjuani)/[**minuta**](https://github.com/heyimjuani/minuta)",
+              "A little something to take notes during meetings",
+              ""
+            ],
+            [
+              "2",
+              "[@ignacioricci](https://github.com/ignacioricci)/[**instant-fort**](https://github.com/ignacioricci/instant-fort)",
+              "",
               ""
             ]
           ]
