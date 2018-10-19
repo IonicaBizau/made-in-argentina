@@ -61,7 +61,8 @@
           "[Haskell](#haskell)",
           "[Lua](#lua)",
           "[Matlab](#matlab)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[Perl](#perl)"
         ]
       },
       {
@@ -3843,6 +3844,39 @@
               "[@Julioacarrettoni](https://github.com/Julioacarrettoni)/[**Chain-Of-Delegates**](https://github.com/Julioacarrettoni/Chain-Of-Delegates)",
               "This object is intended to fix the problem when you need several delegates from the same object or for when you want to \"delegate\" some delegate methods in one object and some on other.",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Perl #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@Hugmeir](https://github.com/Hugmeir)/[**utf8mess**](https://github.com/Hugmeir/utf8mess)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@Hugmeir](https://github.com/Hugmeir)/[**p5-mariadb-nonblocki…**](https://github.com/Hugmeir/p5-mariadb-nonblocking)",
+              "Attempt at using the MariaDB non-blocking API",
+              ""
+            ],
+            [
+              "2",
+              "[@darkstar76](https://github.com/darkstar76)/[**jost**](https://github.com/darkstar76/jost)",
+              "Script perl para proyecto usuario jost",
+              "[:arrow_upper_right:](www.jost.com.ar)"
             ]
           ]
         }
