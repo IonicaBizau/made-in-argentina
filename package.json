@@ -62,7 +62,8 @@
           "[Lua](#lua)",
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
-          "[Perl](#perl)"
+          "[Perl](#perl)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -3877,6 +3878,477 @@
               "[@darkstar76](https://github.com/darkstar76)/[**jost**](https://github.com/darkstar76/jost)",
               "Script perl para proyecto usuario jost",
               "[:arrow_upper_right:](www.jost.com.ar)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1166",
+              "[@neitanod](https://github.com/neitanod)/[**forceutf8**](https://github.com/neitanod/forceutf8)",
+              "PHP Class Encoding featuring popular Encoding::toUTF8() function --formerly known as forceUTF8()-- that fixes mixed encoded strings.",
+              ""
+            ],
+            [
+              "315",
+              "[@fedeisas](https://github.com/fedeisas)/[**laravel-mail-css-inl…**](https://github.com/fedeisas/laravel-mail-css-inliner)",
+              "Inline the CSS of your HTML emails using Laravel",
+              ""
+            ],
+            [
+              "209",
+              "[@dignajar](https://github.com/dignajar)/[**nibbleblog**](https://github.com/dignajar/nibbleblog)",
+              "Easy, fast and free CMS Blog. All you need is PHP to work.",
+              "[:arrow_upper_right:](http://www.nibbleblog.com)"
+            ],
+            [
+              "126",
+              "[@mariano](https://github.com/mariano)/[**disque-php**](https://github.com/mariano/disque-php)",
+              "PHP library for Disque, an in-memory, distributed job queue",
+              ""
+            ],
+            [
+              "69",
+              "[@jeffochoa](https://github.com/jeffochoa)/[**factory-stories**](https://github.com/jeffochoa/factory-stories)",
+              "Create model factory stories on Laravel 5.*",
+              ""
+            ],
+            [
+              "49",
+              "[@rtroncoso](https://github.com/rtroncoso)/[**Laravel-Context**](https://github.com/rtroncoso/Laravel-Context)",
+              "Contextual Service Providers for Laravel",
+              ""
+            ],
+            [
+              "43",
+              "[@mariano](https://github.com/mariano)/[**geocode**](https://github.com/mariano/geocode)",
+              "Geocode plugin for CakePHP",
+              ""
+            ],
+            [
+              "40",
+              "[@mariano](https://github.com/mariano)/[**syrup**](https://github.com/mariano/syrup)",
+              "CakePHP Plugins, Behaviors, and other goodies!",
+              ""
+            ],
+            [
+              "33",
+              "[@MZAWeb](https://github.com/MZAWeb)/[**wp-log-in-browser**](https://github.com/MZAWeb/wp-log-in-browser)",
+              "Allows you to log data from your PHP WordPress code to your browser's console.",
+              ""
+            ],
+            [
+              "28",
+              "[@alemohamad](https://github.com/alemohamad)/[**ci-excel-reader**](https://github.com/alemohamad/ci-excel-reader)",
+              "CodeIgniter library that reads XLS files and returns an array.",
+              ""
+            ],
+            [
+              "27",
+              "[@jeffochoa](https://github.com/jeffochoa)/[**voyager-bread-genera…**](https://github.com/jeffochoa/voyager-bread-generator)",
+              "Create BREAD from the console using artisan",
+              ""
+            ],
+            [
+              "26",
+              "[@fastslack](https://github.com/fastslack)/[**jUpgrade**](https://github.com/fastslack/jUpgrade)",
+              "",
+              ""
+            ],
+            [
+              "24",
+              "[@jeffochoa](https://github.com/jeffochoa)/[**laravel-package-boil…**](https://github.com/jeffochoa/laravel-package-boilerplate)",
+              "A simple boilerplate to create new laravel packages.",
+              ""
+            ],
+            [
+              "22",
+              "[@mariano](https://github.com/mariano)/[**li3_doctrine2**](https://github.com/mariano/li3_doctrine2)",
+              "Lithium integration with Doctrine2",
+              ""
+            ],
+            [
+              "19",
+              "[@jeffochoa](https://github.com/jeffochoa)/[**laravel-wordpress-cl…**](https://github.com/jeffochoa/laravel-wordpress-client)",
+              "A small client to request data from a wordpress project using the built-in JSON API",
+              ""
+            ],
+            [
+              "19",
+              "[@jeffochoa](https://github.com/jeffochoa)/[**validator-factory**](https://github.com/jeffochoa/validator-factory)",
+              "Standalone library to use Illuminate\\\\Validation package outside the Laravel framework.",
+              ""
+            ],
+            [
+              "16",
+              "[@fastslack](https://github.com/fastslack)/[**jUpgradePro**](https://github.com/fastslack/jUpgradePro)",
+              "jUpgradePro an extension that help Joomla! users to migrate or move their data.",
+              "[:arrow_upper_right:](https://www.matware.com.ar)"
+            ],
+            [
+              "12",
+              "[@mariano](https://github.com/mariano)/[**li3_gearman**](https://github.com/mariano/li3_gearman)",
+              "Lithium integration with Gearman",
+              ""
+            ],
+            [
+              "11",
+              "[@barbanet](https://github.com/barbanet)/[**my-collabtive**](https://github.com/barbanet/my-collabtive)",
+              "Collabtive-CI is web-based project management software. This is a copy with custom modifications.",
+              ""
+            ],
+            [
+              "11",
+              "[@mariano](https://github.com/mariano)/[**robot**](https://github.com/mariano/robot)",
+              "Robot plugin for CakePHP",
+              ""
+            ],
+            [
+              "11",
+              "[@MZAWeb](https://github.com/MZAWeb)/[**bbpFauxData**](https://github.com/MZAWeb/bbpFauxData)",
+              "Quick and dirty plugin to help you populate a bbPress instance with faux data to test performance",
+              ""
+            ],
+            [
+              "11",
+              "[@barbanet](https://github.com/barbanet)/[**magento-dc-translato…**](https://github.com/barbanet/magento-dc-translator)",
+              "Manage Locale packages from the Magento Admin without editing csv files.",
+              "[:arrow_upper_right:](http://www.damianculotta.com.ar/extensions/dc_translator/)"
+            ],
+            [
+              "10",
+              "[@MefhigosetH](https://github.com/MefhigosetH)/[**vikeep**](https://github.com/MefhigosetH/vikeep)",
+              "Vikeep. Keep viki.com videos, yours.",
+              "[:arrow_upper_right:](http://www.mefhigoseth.com.ar/2013/04/vikicom-video-downloader.html)"
+            ],
+            [
+              "9",
+              "[@neitanod](https://github.com/neitanod)/[**backdav**](https://github.com/neitanod/backdav)",
+              "Light and simple WebDAV backdoor to your PHP server",
+              ""
+            ],
+            [
+              "9",
+              "[@mariano](https://github.com/mariano)/[**email**](https://github.com/mariano/email)",
+              "Email plugin for CakePHP",
+              ""
+            ],
+            [
+              "9",
+              "[@jeffochoa](https://github.com/jeffochoa)/[**amp-validator**](https://github.com/jeffochoa/amp-validator)",
+              "AMP validation test",
+              ""
+            ],
+            [
+              "9",
+              "[@xmarcos](https://github.com/xmarcos)/[**ElasticsearchService…**](https://github.com/xmarcos/ElasticsearchServiceProvider)",
+              "A Silex Service Provider for Elasticsearch",
+              ""
+            ],
+            [
+              "9",
+              "[@mariano](https://github.com/mariano)/[**openid**](https://github.com/mariano/openid)",
+              "CakePHP OpenID plugin",
+              ""
+            ],
+            [
+              "8",
+              "[@eridal](https://github.com/eridal)/[**Cadenza**](https://github.com/eridal/Cadenza)",
+              "Cadenza is just Composer, but without the junk.",
+              "[:arrow_upper_right:](https://packagist.org/packages/eridal/cadenza)"
+            ],
+            [
+              "8",
+              "[@xmarcos](https://github.com/xmarcos)/[**DotContainer**](https://github.com/xmarcos/DotContainer)",
+              "DotContainer enables deep array access using dot-notation.",
+              ""
+            ],
+            [
+              "7",
+              "[@eridal](https://github.com/eridal)/[**prelude-database**](https://github.com/eridal/prelude-database)",
+              "A Database-Agnostic set of Abstractions built on top of PDO",
+              ""
+            ],
+            [
+              "7",
+              "[@mariano](https://github.com/mariano)/[**slim-sample-app**](https://github.com/mariano/slim-sample-app)",
+              "Slim (3.* and later) sample app with a feeling of DDD",
+              ""
+            ],
+            [
+              "7",
+              "[@MZAWeb](https://github.com/MZAWeb)/[**business-hours-plugi…**](https://github.com/MZAWeb/business-hours-plugin)",
+              "This is a development version, and it's most likely broken. To get a stable version go to the WordPress plugin repo",
+              "[:arrow_upper_right:](http://wordpress.org/extend/plugins/business-hours-plugin/)"
+            ],
+            [
+              "6",
+              "[@fedeisas](https://github.com/fedeisas)/[**laravel-dolar-blue**](https://github.com/fedeisas/laravel-dolar-blue)",
+              "Laravel package to fetch latest USD conversion rate on Argentina's black market",
+              ""
+            ],
+            [
+              "6",
+              "[@andrezrv](https://github.com/andrezrv)/[**wp-remote-markdown**](https://github.com/andrezrv/wp-remote-markdown)",
+              "Include contents in your WordPress posts and pages from a remote markdown-formatted file",
+              ""
+            ],
+            [
+              "6",
+              "[@dignajar](https://github.com/dignajar)/[**nibbleblog-markdown**](https://github.com/dignajar/nibbleblog-markdown)",
+              "Nibbleblog + Markdown",
+              ""
+            ],
+            [
+              "6",
+              "[@andrezrv](https://github.com/andrezrv)/[**hide-this**](https://github.com/andrezrv/hide-this)",
+              "This WordPress plugin provides a shortcode that lets you hide some parts of the content from your posts and pages. You can easily manage inclusions and exclusions for hidden content in three levels: absolute, groups and capabilities, and specific user.",
+              "[:arrow_upper_right:](http://wordpress.org/plugins/hide-this/)"
+            ],
+            [
+              "6",
+              "[@dignajar](https://github.com/dignajar)/[**docker-nginx-php-fpm**](https://github.com/dignajar/docker-nginx-php-fpm)",
+              "Docker: Nginx + PHP-FPM",
+              ""
+            ],
+            [
+              "6",
+              "[@alemohamad](https://github.com/alemohamad)/[**ci-google-authentica…**](https://github.com/alemohamad/ci-google-authenticator)",
+              "CodeIgniter library to create and verify Google Authenticator web service's secret codes.",
+              ""
+            ],
+            [
+              "5",
+              "[@barbanet](https://github.com/barbanet)/[**bender**](https://github.com/barbanet/bender)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@alemohamad](https://github.com/alemohamad)/[**ci-steam-api**](https://github.com/alemohamad/ci-steam-api)",
+              "CodeIgniter library that connects with the Steam API.",
+              ""
+            ],
+            [
+              "5",
+              "[@Germanaz0](https://github.com/Germanaz0)/[**elgg_profiler**](https://github.com/Germanaz0/elgg_profiler)",
+              "just an alpha review of something",
+              "[:arrow_upper_right:](http://keetup.com)"
+            ],
+            [
+              "5",
+              "[@Germanaz0](https://github.com/Germanaz0)/[**laravel-ckan-api**](https://github.com/Germanaz0/laravel-ckan-api)",
+              "API Client for Ckan - Laravel 5",
+              ""
+            ],
+            [
+              "5",
+              "[@barbanet](https://github.com/barbanet)/[**magento-dc-thumbr**](https://github.com/barbanet/magento-dc-thumbr)",
+              "Handle the Magento's images through the Thumbr.io CDN.",
+              "[:arrow_upper_right:](http://www.damianculotta.com.ar/extensions/dc_thumbr/)"
+            ],
+            [
+              "4",
+              "[@Germanaz0](https://github.com/Germanaz0)/[**argentina-backup**](https://github.com/Germanaz0/argentina-backup)",
+              "Backup tool",
+              ""
+            ],
+            [
+              "4",
+              "[@alemohamad](https://github.com/alemohamad)/[**ci-excel**](https://github.com/alemohamad/ci-excel)",
+              "CodeIgniter helper for export custom Excel spreadsheets created in realtime.",
+              ""
+            ],
+            [
+              "4",
+              "[@alemohamad](https://github.com/alemohamad)/[**ci-starter**](https://github.com/alemohamad/ci-starter)",
+              "A CodeIgniter project starter for new projects.",
+              ""
+            ],
+            [
+              "4",
+              "[@barbanet](https://github.com/barbanet)/[**magento-dc-slider**](https://github.com/barbanet/magento-dc-slider)",
+              "Simple slider manager for Magento compatible with RWD",
+              "[:arrow_upper_right:](http://www.damianculotta.com.ar/extensions/dc_slider/)"
+            ],
+            [
+              "4",
+              "[@andrezrv](https://github.com/andrezrv)/[**agnosia-bootstrap-ca…**](https://github.com/andrezrv/agnosia-bootstrap-carousel)",
+              "This WordPress plugin lets you use the [gallery] shortcode to show a Bootstrap Carousel.",
+              "[:arrow_upper_right:](http://wordpress.org/plugins/agnosia-bootstrap-carousel/)"
+            ],
+            [
+              "4",
+              "[@soyFelixBarros](https://github.com/soyFelixBarros)/[**Sintoniza.la**](https://github.com/soyFelixBarros/Sintoniza.la)",
+              "📻 Radios en vivo y notas.",
+              "[:arrow_upper_right:](https://sintoniza.la)"
+            ],
+            [
+              "3",
+              "[@barbanet](https://github.com/barbanet)/[**magento-dc-googletra…**](https://github.com/barbanet/magento-dc-googletranslatewidget)",
+              "Add Google Translate’s automatic translations to your store.",
+              "[:arrow_upper_right:](http://www.damianculotta.com.ar/extensions/dc_googletranslatewidget/)"
+            ],
+            [
+              "3",
+              "[@MZAWeb](https://github.com/MZAWeb)/[**capsule-create-gist**](https://github.com/MZAWeb/capsule-create-gist)",
+              "Allows you to export a Capsule entry to an anonymous Gist",
+              ""
+            ],
+            [
+              "3",
+              "[@fastslack](https://github.com/fastslack)/[**joomla-cli-tools**](https://github.com/fastslack/joomla-cli-tools)",
+              "Collection of useful cli scripts for Joomla! Platform",
+              ""
+            ],
+            [
+              "3",
+              "[@carlosbelisario](https://github.com/carlosbelisario)/[**juegos_con_clases**](https://github.com/carlosbelisario/juegos_con_clases)",
+              "jueos con clases mientras sigo aprendiendo POO",
+              ""
+            ],
+            [
+              "3",
+              "[@alemohamad](https://github.com/alemohamad)/[**ci-social-stats**](https://github.com/alemohamad/ci-social-stats)",
+              "CodeIgniter library for get URL shares in social networks (Twitter, Facebook, Google+, Pinterest, LinkedIn and StumbleUpon).",
+              ""
+            ],
+            [
+              "3",
+              "[@Germanaz0](https://github.com/Germanaz0)/[**santafe-checker**](https://github.com/Germanaz0/santafe-checker)",
+              "Checkea si hay concursos abiertos en la provincia",
+              ""
+            ],
+            [
+              "3",
+              "[@MZAWeb](https://github.com/MZAWeb)/[**bbpress-whos-online**](https://github.com/MZAWeb/bbpress-whos-online)",
+              "Who's online widget for bbPress (work in progress)",
+              ""
+            ],
+            [
+              "3",
+              "[@MZAWeb](https://github.com/MZAWeb)/[**Retry**](https://github.com/MZAWeb/Retry)",
+              "Don't give up just now!",
+              ""
+            ],
+            [
+              "3",
+              "[@barbanet](https://github.com/barbanet)/[**magento-dc-regions**](https://github.com/barbanet/magento-dc-regions)",
+              "Adds a Regions Manager to Magento.",
+              "[:arrow_upper_right:](http://www.damianculotta.com.ar/extensions/dc_regions/)"
+            ],
+            [
+              "3",
+              "[@fedeisas](https://github.com/fedeisas)/[**CodeIgniter-2-i18n**](https://github.com/fedeisas/CodeIgniter-2-i18n)",
+              "CodeIgniter 2 Internationalization (i18n) Library",
+              ""
+            ],
+            [
+              "3",
+              "[@fastslack](https://github.com/fastslack)/[**matware-libraries**](https://github.com/fastslack/matware-libraries)",
+              "Matware Libraries for Joomla!",
+              "[:arrow_upper_right:](http://www.matware.com.ar)"
+            ],
+            [
+              "3",
+              "[@andrezrv](https://github.com/andrezrv)/[**follet-core**](https://github.com/andrezrv/follet-core)",
+              "A simple and reliable framework to create WordPress themes.",
+              ""
+            ],
+            [
+              "2",
+              "[@milardovich](https://github.com/milardovich)/[**snippets**](https://github.com/milardovich/snippets)",
+              "This is a collection of code snippets written by me.",
+              "[:arrow_upper_right:](http://milardovich.com.ar/)"
+            ],
+            [
+              "2",
+              "[@innerspirit](https://github.com/innerspirit)/[**wordpress-plugin-sta…**](https://github.com/innerspirit/wordpress-plugin-starter)",
+              "A simple starter for building awesome WordPress plugins",
+              ""
+            ],
+            [
+              "2",
+              "[@lodeale](https://github.com/lodeale)/[**MyCart**](https://github.com/lodeale/MyCart)",
+              "Un simple carrito con CodeIgniter.",
+              ""
+            ],
+            [
+              "2",
+              "[@lodeale](https://github.com/lodeale)/[**Spam-Tools**](https://github.com/lodeale/Spam-Tools)",
+              "Envio de correo masivo, depurador de lista y eliminación de duplicado.",
+              ""
+            ],
+            [
+              "2",
+              "[@andrezrv](https://github.com/andrezrv)/[**agnosia**](https://github.com/andrezrv/agnosia)",
+              "Agnosia Theme Framework for WordPress",
+              ""
+            ],
+            [
+              "2",
+              "[@jeffochoa](https://github.com/jeffochoa)/[**twitter-cli**](https://github.com/jeffochoa/twitter-cli)",
+              "Send tweets from the console",
+              ""
+            ],
+            [
+              "2",
+              "[@alemohamad](https://github.com/alemohamad)/[**ci-google-analytics**](https://github.com/alemohamad/ci-google-analytics)",
+              "CodeIgniter helper to track visits and events with Google Analytics.",
+              ""
+            ],
+            [
+              "2",
+              "[@fedeisas](https://github.com/fedeisas)/[**anvard**](https://github.com/fedeisas/anvard)",
+              "Anvard fork from bitbucket atticmedia/anvard",
+              ""
+            ],
+            [
+              "2",
+              "[@eridal](https://github.com/eridal)/[**prelude**](https://github.com/eridal/prelude)",
+              "A small preface for your masterpiece.",
+              ""
+            ],
+            [
+              "2",
+              "[@barbanet](https://github.com/barbanet)/[**magento-dc-featuredp…**](https://github.com/barbanet/magento-dc-featuredproduct)",
+              "Create an unlimited number of product groups and add those groups into cms pages using widgets.",
+              "[:arrow_upper_right:](http://www.damianculotta.com.ar/tag/dc_featuredproduct/)"
+            ],
+            [
+              "2",
+              "[@barbanet](https://github.com/barbanet)/[**magento-dc-decidir**](https://github.com/barbanet/magento-dc-decidir)",
+              "Integration between Magento and Decidir (payment gateway).",
+              "[:arrow_upper_right:](http://www.damianculotta.com.ar/extensions/dc_decidir/)"
+            ],
+            [
+              "2",
+              "[@alemohamad](https://github.com/alemohamad)/[**laravel-requirements…**](https://github.com/alemohamad/laravel-requirements-check)",
+              "Environment checklist for the Laravel framewrok.",
+              ""
+            ],
+            [
+              "2",
+              "[@barbanet](https://github.com/barbanet)/[**magento2-samplemodul…**](https://github.com/barbanet/magento2-samplemodule)",
+              "Magento2 sample module",
+              ""
+            ],
+            [
+              "2",
+              "[@fastslack](https://github.com/fastslack)/[**websocket-example**](https://github.com/fastslack/websocket-example)",
+              "WebSocket example using Joomla! Platform and CMS",
+              ""
             ]
           ]
         }
