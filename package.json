@@ -55,7 +55,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
-          "[Clojure](#clojure)"
+          "[Clojure](#clojure)",
+          "[CoffeeScript](#coffeescript)"
         ]
       },
       {
@@ -3153,6 +3154,27 @@
               "[@ClojureBA](https://github.com/ClojureBA)/[**twit-bot**](https://github.com/ClojureBA/twit-bot)",
               "Skeleton project to build a Twitter bot in Clojure",
               "[:arrow_upper_right:](http://clojureba.com)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CoffeeScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@alfa256](https://github.com/alfa256)/[**noflo-irc**](https://github.com/alfa256/noflo-irc)",
+              "Irc components for noflo.",
+              ""
             ]
           ]
         }
