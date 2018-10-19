@@ -63,7 +63,8 @@
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -4349,6 +4350,939 @@
               "[@fastslack](https://github.com/fastslack)/[**websocket-example**](https://github.com/fastslack/websocket-example)",
               "WebSocket example using Joomla! Platform and CMS",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3527",
+              "[@rmax](https://github.com/rmax)/[**scrapy-redis**](https://github.com/rmax/scrapy-redis)",
+              "Redis-based components for Scrapy.",
+              "[:arrow_upper_right:](http://scrapy-redis.readthedocs.io)"
+            ],
+            [
+              "1684",
+              "[@maurosoria](https://github.com/maurosoria)/[**dirsearch**](https://github.com/maurosoria/dirsearch)",
+              "Web path scanner",
+              ""
+            ],
+            [
+              "832",
+              "[@nitely](https://github.com/nitely)/[**Spirit**](https://github.com/nitely/Spirit)",
+              "Spirit is a modern Python based forum built on top of Django framework",
+              "[:arrow_upper_right:](https://spirit-project.com/)"
+            ],
+            [
+              "660",
+              "[@llazzaro](https://github.com/llazzaro)/[**django-scheduler**](https://github.com/llazzaro/django-scheduler)",
+              "A calendaring app for Django.",
+              ""
+            ],
+            [
+              "360",
+              "[@santiagobasulto](https://github.com/santiagobasulto)/[**smartcsv**](https://github.com/santiagobasulto/smartcsv)",
+              "CSVs are awesome, yet they're pretty dumb. Let's get them smarter!",
+              ""
+            ],
+            [
+              "337",
+              "[@reingart](https://github.com/reingart)/[**pyfpdf**](https://github.com/reingart/pyfpdf)",
+              "Simple PDF generation for Python (FPDF PHP port)",
+              "[:arrow_upper_right:](https://code.google.com/p/pyfpdf/)"
+            ],
+            [
+              "283",
+              "[@mgaitan](https://github.com/mgaitan)/[**waliki**](https://github.com/mgaitan/waliki)",
+              "A wiki engine powered by Django and Git",
+              "[:arrow_upper_right:]( http://waliki.pythonanywhere.com)"
+            ],
+            [
+              "277",
+              "[@feliam](https://github.com/feliam)/[**pysymemu**](https://github.com/feliam/pysymemu)",
+              "An intel 64 symbolic emulator",
+              ""
+            ],
+            [
+              "225",
+              "[@chinoogawa](https://github.com/chinoogawa)/[**fbht**](https://github.com/chinoogawa/fbht)",
+              "Facebook Hacking Tool",
+              ""
+            ],
+            [
+              "216",
+              "[@mgaitan](https://github.com/mgaitan)/[**sublime-rst-completi…**](https://github.com/mgaitan/sublime-rst-completion)",
+              "Restructured Text snippets and code completion hotkeys for Sublime Text 2 and 3",
+              ""
+            ],
+            [
+              "203",
+              "[@pablocelayes](https://github.com/pablocelayes)/[**rsa-wiener-attack**](https://github.com/pablocelayes/rsa-wiener-attack)",
+              "A Python implementation of the Wiener attack on RSA public-key encryption scheme.",
+              ""
+            ],
+            [
+              "179",
+              "[@rafacarrascosa](https://github.com/rafacarrascosa)/[**samr**](https://github.com/rafacarrascosa/samr)",
+              "An entry to kaggle's 'Sentiment Analysis on Movie Reviews' competition",
+              ""
+            ],
+            [
+              "173",
+              "[@llazzaro](https://github.com/llazzaro)/[**packyou**](https://github.com/llazzaro/packyou)",
+              "Import any python project from github easily",
+              ""
+            ],
+            [
+              "160",
+              "[@matagus](https://github.com/matagus)/[**django-planet**](https://github.com/matagus/django-planet)",
+              ":globe_with_meridians: A django planet and feeds (RSS and ATOM) aggregator application for Django",
+              "[:arrow_upper_right:](http://django-planet.readthedocs.org/)"
+            ],
+            [
+              "146",
+              "[@jmg](https://github.com/jmg)/[**crawley**](https://github.com/jmg/crawley)",
+              "Pythonic Crawling / Scraping Framework based on Non Blocking I/O operations.",
+              "[:arrow_upper_right:](http://project.crawley-cloud.com)"
+            ],
+            [
+              "126",
+              "[@codexgigassys](https://github.com/codexgigassys)/[**codex-backend**](https://github.com/codexgigassys/codex-backend)",
+              "CodexGigas malware DNA profiling search engine discovers malware patterns and characteristics assisting individuals who are attracted in malware hunting.",
+              ""
+            ],
+            [
+              "120",
+              "[@reingart](https://github.com/reingart)/[**pyafipws**](https://github.com/reingart/pyafipws)",
+              "Factura Electrónica AFIP y otros servicios web (proyecto software libre) — Interfases, tools and apps for Argentina's gov't. webservices (soap, com/dll simil-ocx, pdf, dbf, xml, json, etc.) #python",
+              "[:arrow_upper_right:](http://www.sistemasagiles.com.ar/trac/wiki/ManualPyAfipWs)"
+            ],
+            [
+              "103",
+              "[@rmax](https://github.com/rmax)/[**dirbot-mysql**](https://github.com/rmax/dirbot-mysql)",
+              "Scrapy project based on dirbot to show how to use Twisted's adbapi to store the scraped data in MySQL.",
+              ""
+            ],
+            [
+              "100",
+              "[@llazzaro](https://github.com/llazzaro)/[**analyzer**](https://github.com/llazzaro/analyzer)",
+              ":chart: Python framework for real-time financial and backtesting trading strategies",
+              "[:arrow_upper_right:](http://llazzaro.github.io/analyzer)"
+            ],
+            [
+              "91",
+              "[@chinoogawa](https://github.com/chinoogawa)/[**instaBrute**](https://github.com/chinoogawa/instaBrute)",
+              "Instagram bruteforce exploit module",
+              ""
+            ],
+            [
+              "73",
+              "[@feliam](https://github.com/feliam)/[**CVE-2014-4377**](https://github.com/feliam/CVE-2014-4377)",
+              "",
+              "[:arrow_upper_right:](http://blog.binamuse.com/2014/09/coregraphics-memory-corruption.html)"
+            ],
+            [
+              "73",
+              "[@jmg](https://github.com/jmg)/[**pyfb**](https://github.com/jmg/pyfb)",
+              "A Python Interface for the Facebook Graph API",
+              ""
+            ],
+            [
+              "72",
+              "[@santiagobasulto](https://github.com/santiagobasulto)/[**debug-inspector-pane…**](https://github.com/santiagobasulto/debug-inspector-panel)",
+              "A django-debug-toolbar panel to get information about certain variables.",
+              ""
+            ],
+            [
+              "66",
+              "[@nitely](https://github.com/nitely)/[**python-react-v8**](https://github.com/nitely/python-react-v8)",
+              ":star: Render React.js views server-side",
+              "[:arrow_upper_right:](http://python-react-v8.readthedocs.io)"
+            ],
+            [
+              "61",
+              "[@feliam](https://github.com/feliam)/[**miniPDF**](https://github.com/feliam/miniPDF)",
+              "A python library for making PDF files in a very low level way.",
+              ""
+            ],
+            [
+              "61",
+              "[@mgaitan](https://github.com/mgaitan)/[**preciosa**](https://github.com/mgaitan/preciosa)",
+              "Inteligencia colectiva contra la inflación",
+              "[:arrow_upper_right:](http://preciosdeargentina.com.ar)"
+            ],
+            [
+              "56",
+              "[@rmax](https://github.com/rmax)/[**scrapy-inline-reques…**](https://github.com/rmax/scrapy-inline-requests)",
+              "A decorator to write coroutine-like spider callbacks.",
+              ""
+            ],
+            [
+              "54",
+              "[@jmg](https://github.com/jmg)/[**data-layer-generator**](https://github.com/jmg/data-layer-generator)",
+              "A data layer generator for python domain objects",
+              ""
+            ],
+            [
+              "52",
+              "[@reingart](https://github.com/reingart)/[**gui2py**](https://github.com/reingart/gui2py)",
+              "Simple and powerful GUI framework for agile development",
+              "[:arrow_upper_right:](https://code.google.com/p/gui2py/)"
+            ],
+            [
+              "49",
+              "[@rmax](https://github.com/rmax)/[**scrapy-boilerplate**](https://github.com/rmax/scrapy-boilerplate)",
+              "Small set of utilities to simplify writing Scrapy spiders.",
+              ""
+            ],
+            [
+              "47",
+              "[@mgaitan](https://github.com/mgaitan)/[**sphinxcontrib-mermai…**](https://github.com/mgaitan/sphinxcontrib-mermaid)",
+              "Mermaid diagrams in yours sphinx powered docs",
+              "[:arrow_upper_right:](http://sphinxcontrib-mermaid-demo.readthedocs.io/en/latest/)"
+            ],
+            [
+              "45",
+              "[@nitely](https://github.com/nitely)/[**django-infinite-scro…**](https://github.com/nitely/django-infinite-scroll-pagination)",
+              ":cyclone: True infinite pagination using the seek method (keyset paging or offset-less pagination)",
+              ""
+            ],
+            [
+              "35",
+              "[@j0hn](https://github.com/j0hn)/[**guicavane**](https://github.com/j0hn/guicavane)",
+              "Graphical User Interface for Cuevana",
+              ""
+            ],
+            [
+              "32",
+              "[@fitoprincipe](https://github.com/fitoprincipe)/[**geebap**](https://github.com/fitoprincipe/geebap)",
+              "Gee Bap - Best Available Pixel (BAP) composite in Google Earth Engine (GEE) using the Python API",
+              ""
+            ],
+            [
+              "28",
+              "[@rmax](https://github.com/rmax)/[**databrewer**](https://github.com/rmax/databrewer)",
+              "The missing datasets manager. Like hombrew but for datasets. CLI-tool for search and discover datasets!",
+              "[:arrow_upper_right:](https://databrewer.readthedocs.org/)"
+            ],
+            [
+              "27",
+              "[@santiagobasulto](https://github.com/santiagobasulto)/[**party-parrot**](https://github.com/santiagobasulto/party-parrot)",
+              "Bring the party to your terminal",
+              ""
+            ],
+            [
+              "26",
+              "[@nitely](https://github.com/nitely)/[**django-djconfig**](https://github.com/nitely/django-djconfig)",
+              ":eyes: Dynamic configuration made easy",
+              "[:arrow_upper_right:](http://django-djconfig.readthedocs.org)"
+            ],
+            [
+              "21",
+              "[@nitely](https://github.com/nitely)/[**ochDownloader**](https://github.com/nitely/ochDownloader)",
+              "The One Click Hoster Downloader, built on top of Qt",
+              ""
+            ],
+            [
+              "21",
+              "[@feliam](https://github.com/feliam)/[**CVE-2013-2729**](https://github.com/feliam/CVE-2013-2729)",
+              "",
+              ""
+            ],
+            [
+              "21",
+              "[@reingart](https://github.com/reingart)/[**pyfiscalprinter**](https://github.com/reingart/pyfiscalprinter)",
+              "Drivers for invoice/tickets fiscal printers (Epson & Hasar) Argentina - mirror of https://code.google.com/p/pyfiscalprinte…",
+              ""
+            ],
+            [
+              "21",
+              "[@reingart](https://github.com/reingart)/[**rad2py**](https://github.com/reingart/rad2py)",
+              "Rapid Aplication Development platform for python (mirror)",
+              "[:arrow_upper_right:](https://code.google.com/p/rad2py/)"
+            ],
+            [
+              "20",
+              "[@facundobatista](https://github.com/facundobatista)/[**yaswfp**](https://github.com/facundobatista/yaswfp)",
+              "Yet Another SWF Parser",
+              ""
+            ],
+            [
+              "20",
+              "[@llazzaro](https://github.com/llazzaro)/[**pystock**](https://github.com/llazzaro/pystock)",
+              ":moneybag: Stock Market Relational Model/Schema (SQLAlchemy)",
+              ""
+            ],
+            [
+              "20",
+              "[@rafacarrascosa](https://github.com/rafacarrascosa)/[**countminsketch**](https://github.com/rafacarrascosa/countminsketch)",
+              "A minimalistic Count-min Sketch for Python",
+              ""
+            ],
+            [
+              "16",
+              "[@rmax](https://github.com/rmax)/[**databrewer-recipes**](https://github.com/rmax/databrewer-recipes)",
+              "DataBrewer Recipes Repository.",
+              "[:arrow_upper_right:](https://databrewer.readthedocs.org/)"
+            ],
+            [
+              "15",
+              "[@feliam](https://github.com/feliam)/[**PyPMF**](https://github.com/feliam/PyPMF)",
+              "A small python module to manipulate Windows Internals Process Monitor PMF Filter files ",
+              ""
+            ],
+            [
+              "15",
+              "[@lvm](https://github.com/lvm)/[**django_nsa**](https://github.com/lvm/django_nsa)",
+              "An easy way for the NSA to see what's going on in our Django projects.",
+              ""
+            ],
+            [
+              "15",
+              "[@feliam](https://github.com/feliam)/[**pysmtlib**](https://github.com/feliam/pysmtlib)",
+              "A python layer to interface with several SMTLIBv2 enabled SMT solvers",
+              ""
+            ],
+            [
+              "15",
+              "[@malderete](https://github.com/malderete)/[**django-jsonvalidator**](https://github.com/malderete/django-jsonvalidator)",
+              "A simple decorator that validates JSON data against a fixed schema",
+              ""
+            ],
+            [
+              "15",
+              "[@feliam](https://github.com/feliam)/[**CVE-2014-4378**](https://github.com/feliam/CVE-2014-4378)",
+              "",
+              "[:arrow_upper_right:](http://blog.binamuse.com/2014/09/coregraphics-information-disclosure.html)"
+            ],
+            [
+              "14",
+              "[@abenassi](https://github.com/abenassi)/[**xlseries**](https://github.com/abenassi/xlseries)",
+              "Python package to scrape time series data from only-human readable excel files.",
+              ""
+            ],
+            [
+              "14",
+              "[@nitely](https://github.com/nitely)/[**django-hooks**](https://github.com/nitely/django-hooks)",
+              ":anchor: A modular plugin system for Django",
+              "[:arrow_upper_right:](http://django-hooks.readthedocs.org)"
+            ],
+            [
+              "14",
+              "[@humitos](https://github.com/humitos)/[**obd2lib**](https://github.com/humitos/obd2lib)",
+              "OBD-2 library to read information from cars",
+              ""
+            ],
+            [
+              "14",
+              "[@nitely](https://github.com/nitely)/[**emoji-unicode**](https://github.com/nitely/emoji-unicode)",
+              ":thinking: Replace unicode emojis in any text. Supports Unicode 10",
+              "[:arrow_upper_right:](https://github.com/nitely/emoji-unicode)"
+            ],
+            [
+              "14",
+              "[@matagus](https://github.com/matagus)/[**django-generic-links**](https://github.com/matagus/django-generic-links)",
+              "Simple and generic application for Django projects to attach and handle links for any object",
+              "[:arrow_upper_right:](http://matagus.github.com/django-generic-links/)"
+            ],
+            [
+              "13",
+              "[@lvm](https://github.com/lvm)/[**tida1vm**](https://github.com/lvm/tida1vm)",
+              "Another Tidal Docker container ",
+              ""
+            ],
+            [
+              "13",
+              "[@humitos](https://github.com/humitos)/[**flickr-bulk-uploader**](https://github.com/humitos/flickr-bulk-uploader)",
+              "Upload a lot of photos to flickr, avoiding duplicate files",
+              ""
+            ],
+            [
+              "12",
+              "[@ramiro](https://github.com/ramiro)/[**service.subtitles.su…**](https://github.com/ramiro/service.subtitles.subdivx)",
+              "Subdivx.com subtitles download Add-on for Kodi/XBMC v13 Gotham or newer.",
+              ""
+            ],
+            [
+              "12",
+              "[@mgaitan](https://github.com/mgaitan)/[**pymips**](https://github.com/mgaitan/pymips)",
+              "A pipelined MIPS processor implemented in Python",
+              ""
+            ],
+            [
+              "12",
+              "[@mgaitan](https://github.com/mgaitan)/[**radiocut_downloader**](https://github.com/mgaitan/radiocut_downloader)",
+              "Download contents from radiocut.fm",
+              ""
+            ],
+            [
+              "11",
+              "[@csrocha](https://github.com/csrocha)/[**odoo_fpoc**](https://github.com/csrocha/odoo_fpoc)",
+              "Fiscal Printer on the Cloud addon for Odoo ",
+              ""
+            ],
+            [
+              "11",
+              "[@mgaitan](https://github.com/mgaitan)/[**moin2git**](https://github.com/mgaitan/moin2git)",
+              "Migrate a MoinMoin wiki as a Git repository",
+              ""
+            ],
+            [
+              "10",
+              "[@santiagobasulto](https://github.com/santiagobasulto)/[**tpb-download**](https://github.com/santiagobasulto/tpb-download)",
+              "A python utility to download torrent files from The Pirate Bay. Repo for learning purposes.",
+              ""
+            ],
+            [
+              "10",
+              "[@nitely](https://github.com/nitely)/[**python-signals**](https://github.com/nitely/python-signals)",
+              "A thread-safe event/signal dispatcher",
+              ""
+            ],
+            [
+              "10",
+              "[@mgaitan](https://github.com/mgaitan)/[**miau**](https://github.com/mgaitan/miau)",
+              "Remix speeches for fun and profit",
+              ""
+            ],
+            [
+              "10",
+              "[@csrocha](https://github.com/csrocha)/[**odooenv**](https://github.com/csrocha/odooenv)",
+              "Odoo environment manager",
+              ""
+            ],
+            [
+              "9",
+              "[@llazzaro](https://github.com/llazzaro)/[**analyzerdam**](https://github.com/llazzaro/analyzerdam)",
+              "Data Access Model for analyzer",
+              ""
+            ],
+            [
+              "9",
+              "[@facundobatista](https://github.com/facundobatista)/[**certg**](https://github.com/facundobatista/certg)",
+              "A certificate generator, from a SVG to a lot of PDFs",
+              ""
+            ],
+            [
+              "9",
+              "[@jjo](https://github.com/jjo)/[**src-juanjo**](https://github.com/jjo/src-juanjo)",
+              "~/src/juanjo misc stuff",
+              ""
+            ],
+            [
+              "9",
+              "[@llazzaro](https://github.com/llazzaro)/[**analyzerstrategies**](https://github.com/llazzaro/analyzerstrategies)",
+              ":money_with_wings: Analyzer Strategies",
+              ""
+            ],
+            [
+              "9",
+              "[@nitely](https://github.com/nitely)/[**kua**](https://github.com/nitely/kua)",
+              ":zap: Lightning fast URL routing in Python (trie router)",
+              "[:arrow_upper_right:](http://kua.readthedocs.io)"
+            ],
+            [
+              "8",
+              "[@matagus](https://github.com/matagus)/[**django-rsscloud**](https://github.com/matagus/django-rsscloud)",
+              "An app to make your django blog rsscloud enabled",
+              ""
+            ],
+            [
+              "8",
+              "[@reingart](https://github.com/reingart)/[**vb2py**](https://github.com/reingart/vb2py)",
+              "Visual Basic to Python Converter (experimental fork)",
+              ""
+            ],
+            [
+              "8",
+              "[@reingart](https://github.com/reingart)/[**py_efactura_uy**](https://github.com/reingart/py_efactura_uy)",
+              "Factura Electronica para DGI (Uruguay) implementación en python",
+              ""
+            ],
+            [
+              "8",
+              "[@llazzaro](https://github.com/llazzaro)/[**lsa_python**](https://github.com/llazzaro/lsa_python)",
+              "LSA implementation in python",
+              ""
+            ],
+            [
+              "8",
+              "[@facundobatista](https://github.com/facundobatista)/[**recordium**](https://github.com/facundobatista/recordium)",
+              "",
+              ""
+            ],
+            [
+              "8",
+              "[@jmg](https://github.com/jmg)/[**py2nsis**](https://github.com/jmg/py2nsis)",
+              "A Nsis installers generator for python projects",
+              ""
+            ],
+            [
+              "8",
+              "[@facundobatista](https://github.com/facundobatista)/[**logassert**](https://github.com/facundobatista/logassert)",
+              "A simple Log Assertion mechanism for Python unittests",
+              ""
+            ],
+            [
+              "8",
+              "[@jmg](https://github.com/jmg)/[**simple-web-browser**](https://github.com/jmg/simple-web-browser)",
+              "A Simple Fully Functional Web Browser implemented over Qt and QtWebKit.",
+              ""
+            ],
+            [
+              "7",
+              "[@matagus](https://github.com/matagus)/[**django-lastfm-auth**](https://github.com/matagus/django-lastfm-auth)",
+              "Let users signin/signup into your website using their Last.fm account credentials. This app uses Last.fm Api 2.0 http://www.last.fm/api/",
+              "[:arrow_upper_right:](http://pypi.python.org/pypi/django-lastfmauth/)"
+            ],
+            [
+              "7",
+              "[@matagus](https://github.com/matagus)/[**django-haystack-algo…**](https://github.com/matagus/django-haystack-algolia)",
+              "An algolia.com backend for Django apps using on Haystack 2.x",
+              ""
+            ],
+            [
+              "7",
+              "[@mgaitan](https://github.com/mgaitan)/[**tisu**](https://github.com/mgaitan/tisu)",
+              "your project's issue tracker, in a text file",
+              ""
+            ],
+            [
+              "6",
+              "[@jmg](https://github.com/jmg)/[**django_deployment**](https://github.com/jmg/django_deployment)",
+              "Easy deploy for your django apps",
+              ""
+            ],
+            [
+              "6",
+              "[@feliam](https://github.com/feliam)/[**ucrashcatcher**](https://github.com/feliam/ucrashcatcher)",
+              "Mini crash catcher in pure python (no deps)",
+              ""
+            ],
+            [
+              "6",
+              "[@jjo](https://github.com/jjo)/[**openstack-python-exa…**](https://github.com/jjo/openstack-python-examples)",
+              "Openstack API python-lets examples",
+              ""
+            ],
+            [
+              "6",
+              "[@matagus](https://github.com/matagus)/[**django-jamendo**](https://github.com/matagus/django-jamendo)",
+              "A django pluggable app to store, browse and search jamendo.com data/api",
+              ""
+            ],
+            [
+              "6",
+              "[@jmg](https://github.com/jmg)/[**PyMusic**](https://github.com/jmg/PyMusic)",
+              "A 100% Python Open Source Music Player!",
+              ""
+            ],
+            [
+              "5",
+              "[@malderete](https://github.com/malderete)/[**python-ipinfodb**](https://github.com/malderete/python-ipinfodb)",
+              "A python library to consume ipinfodb web services version 3",
+              ""
+            ],
+            [
+              "5",
+              "[@abenassi](https://github.com/abenassi)/[**Zulip-Pinging-Bot**](https://github.com/abenassi/Zulip-Pinging-Bot)",
+              "Zulip bot to ping participants in a conversation.",
+              ""
+            ],
+            [
+              "5",
+              "[@jmg](https://github.com/jmg)/[**elixir**](https://github.com/jmg/elixir)",
+              "Elixir's git mirror from http://elixir.ematia.de/svn",
+              ""
+            ],
+            [
+              "5",
+              "[@feliam](https://github.com/feliam)/[**CVE-2014-4481**](https://github.com/feliam/CVE-2014-4481)",
+              "Apple CoreGraphics framework fails to validate the input when parsing CCITT group 3 encoded data resulting in a heap overflow condition. A small heap memory allocation can be overflowed with controlled data from the input resulting in arbitrary code execution in the context of Mobile Safari.",
+              ""
+            ],
+            [
+              "5",
+              "[@dlitvakb](https://github.com/dlitvakb)/[**md5collider**](https://github.com/dlitvakb/md5collider)",
+              "A Brute Force MD5 Hash Collider written in Python",
+              ""
+            ],
+            [
+              "5",
+              "[@humitos](https://github.com/humitos)/[**turtle-confusion-es**](https://github.com/humitos/turtle-confusion-es)",
+              "Spanish translation of the book \"Turtle Confusion\" by Barry Newell",
+              ""
+            ],
+            [
+              "5",
+              "[@rmax](https://github.com/rmax)/[**parsel-cli**](https://github.com/rmax/parsel-cli)",
+              "Parsel Command Line Interface",
+              ""
+            ],
+            [
+              "5",
+              "[@curita](https://github.com/curita)/[**batoto-downloader**](https://github.com/curita/batoto-downloader)",
+              "Scrapy spider to download manga series from Batoto",
+              ""
+            ],
+            [
+              "4",
+              "[@humitos](https://github.com/humitos)/[**argentinaenpython.co…**](https://github.com/humitos/argentinaenpython.com)",
+              "Sitio web oficial del proyecto \"Argentina en Python\"",
+              "[:arrow_upper_right:](https://argentinaenpython.com)"
+            ],
+            [
+              "4",
+              "[@jjo](https://github.com/jjo)/[**oxgate**](https://github.com/jjo/oxgate)",
+              "OpenVPN XMPP gateway",
+              ""
+            ],
+            [
+              "4",
+              "[@feliam](https://github.com/feliam)/[**ReaderSandboxExcepti…**](https://github.com/feliam/ReaderSandboxExceptions)",
+              "A WinAppDbg script to dump all Adobe Reader Sandbox exceptions",
+              ""
+            ],
+            [
+              "4",
+              "[@reingart](https://github.com/reingart)/[**pymotw3**](https://github.com/reingart/pymotw3)",
+              "Fork of Doug Hellmann's Python Module of the Week https://bitbucket.org/dhellmann/pymotw-3…",
+              ""
+            ],
+            [
+              "4",
+              "[@jmg](https://github.com/jmg)/[**scrabbly-cloud**](https://github.com/jmg/scrabbly-cloud)",
+              "scrabble online platform built on the top of scrabbly engine ",
+              ""
+            ],
+            [
+              "4",
+              "[@santiagobasulto](https://github.com/santiagobasulto)/[**django-tastypie-exam…**](https://github.com/santiagobasulto/django-tastypie-example)",
+              "Example of a tastypie project.",
+              ""
+            ],
+            [
+              "4",
+              "[@santiagobasulto](https://github.com/santiagobasulto)/[**slack.py**](https://github.com/santiagobasulto/slack.py)",
+              "A simple command line tool to interact with Slack",
+              "[:arrow_upper_right:](https://rmotr.com)"
+            ],
+            [
+              "4",
+              "[@rmax](https://github.com/rmax)/[**dask-avro**](https://github.com/rmax/dask-avro)",
+              "Avro reader for Dask.",
+              ""
+            ],
+            [
+              "4",
+              "[@malderete](https://github.com/malderete)/[**python-simple-gcm**](https://github.com/malderete/python-simple-gcm)",
+              "A library to interact with Google Cloud Messaging (GCM) service",
+              ""
+            ],
+            [
+              "4",
+              "[@malderete](https://github.com/malderete)/[**PyPlugin**](https://github.com/malderete/PyPlugin)",
+              "A generic plugin library  for python projects",
+              ""
+            ],
+            [
+              "4",
+              "[@nitely](https://github.com/nitely)/[**spirit-heroku**](https://github.com/nitely/spirit-heroku)",
+              "Spirit one-click deploy to Heroku",
+              ""
+            ],
+            [
+              "4",
+              "[@llazzaro](https://github.com/llazzaro)/[**acpype**](https://github.com/llazzaro/acpype)",
+              "A tool based in Python to use Antechamber to generate topologies for chemical compounds and to interface with others python applications like CCPN or ARIA.",
+              ""
+            ],
+            [
+              "4",
+              "[@codexgigassys](https://github.com/codexgigassys)/[**neokanji**](https://github.com/codexgigassys/neokanji)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@matagus](https://github.com/matagus)/[**python-gbif**](https://github.com/matagus/python-gbif)",
+              "A simple and pythonic client for Gbif Taxon Webservice",
+              "[:arrow_upper_right:](http://pypi.python.org/pypi/gbif/)"
+            ],
+            [
+              "4",
+              "[@reingart](https://github.com/reingart)/[**pymotw**](https://github.com/reingart/pymotw)",
+              "Python Module of the Week (Spanish Translation)",
+              ""
+            ],
+            [
+              "4",
+              "[@jmg](https://github.com/jmg)/[**django_conventions**](https://github.com/jmg/django_conventions)",
+              "Django Convention Over Configuration Routing Plugin",
+              ""
+            ],
+            [
+              "3",
+              "[@jmg](https://github.com/jmg)/[**scrabbly**](https://github.com/jmg/scrabbly)",
+              "Scrabble game engine implemented in pure python ",
+              ""
+            ],
+            [
+              "3",
+              "[@mgaitan](https://github.com/mgaitan)/[**discursos_cfk**](https://github.com/mgaitan/discursos_cfk)",
+              "Discursos de Cristina Fernández de Kirchner",
+              ""
+            ],
+            [
+              "3",
+              "[@santiagobasulto](https://github.com/santiagobasulto)/[**djangoday.com.ar**](https://github.com/santiagobasulto/djangoday.com.ar)",
+              "Official website for djangoday Argentina 2012",
+              ""
+            ],
+            [
+              "3",
+              "[@santiagobasulto](https://github.com/santiagobasulto)/[**django-comments-util…**](https://github.com/santiagobasulto/django-comments-utils)",
+              "Util lib for making Django Comments framework development easier",
+              ""
+            ],
+            [
+              "3",
+              "[@santiagobasulto](https://github.com/santiagobasulto)/[**mult.be**](https://github.com/santiagobasulto/mult.be)",
+              "Multiple URL Shortener",
+              "[:arrow_upper_right:](http://multbe.appspot.com)"
+            ],
+            [
+              "3",
+              "[@mgaitan](https://github.com/mgaitan)/[**h2dp**](https://github.com/mgaitan/h2dp)",
+              "Hamster to dotProject logs sync tool",
+              ""
+            ],
+            [
+              "3",
+              "[@reingart](https://github.com/reingart)/[**openerp_pyfiscalprin…**](https://github.com/reingart/openerp_pyfiscalprinter)",
+              "OpenERP module for Argentina's Fiscal Invoicing printers",
+              ""
+            ],
+            [
+              "3",
+              "[@jmg](https://github.com/jmg)/[**erequests**](https://github.com/jmg/erequests)",
+              "Requests + Eventlet",
+              ""
+            ],
+            [
+              "3",
+              "[@reingart](https://github.com/reingart)/[**openerp_pyafipws**](https://github.com/reingart/openerp_pyafipws)",
+              "OpenERP module for Argentina's Electronic Invoicing and related webservices",
+              ""
+            ],
+            [
+              "3",
+              "[@facundobatista](https://github.com/facundobatista)/[**infoauth**](https://github.com/facundobatista/infoauth)",
+              "A small but handy module and script to load/save tokens from/to disk",
+              ""
+            ],
+            [
+              "3",
+              "[@dlitvakb](https://github.com/dlitvakb)/[**horrible_dad_jokes_b…**](https://github.com/dlitvakb/horrible_dad_jokes_bot)",
+              "An example of a Serverless Telegram bot - using Contentful as a Data store",
+              ""
+            ],
+            [
+              "3",
+              "[@mgaitan](https://github.com/mgaitan)/[**one**](https://github.com/mgaitan/one)",
+              "one, the missing Python function",
+              ""
+            ],
+            [
+              "3",
+              "[@dlitvakb](https://github.com/dlitvakb)/[**charla_patterns**](https://github.com/dlitvakb/charla_patterns)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@rmax](https://github.com/rmax)/[**cookiecutter-scrapyc…**](https://github.com/rmax/cookiecutter-scrapycloud)",
+              "A bare minimum Scrapy project template ready for Scrapinghub's Scrapy Cloud service. ",
+              ""
+            ],
+            [
+              "3",
+              "[@jmg](https://github.com/jmg)/[**pyTateti**](https://github.com/jmg/pyTateti)",
+              "A Classic 3-InLine game with an Invincible IA",
+              ""
+            ],
+            [
+              "3",
+              "[@santiagobasulto](https://github.com/santiagobasulto)/[**flask-rest-toolkit**](https://github.com/santiagobasulto/flask-rest-toolkit)",
+              "A set of tools to create simple Flask REST web services and APIs",
+              ""
+            ],
+            [
+              "3",
+              "[@llazzaro](https://github.com/llazzaro)/[**jarvispatrick**](https://github.com/llazzaro/jarvispatrick)",
+              "Jarvis-Patrick Clustering that uses a nearest neighbor approach to clustering objects",
+              ""
+            ],
+            [
+              "2",
+              "[@csrocha](https://github.com/csrocha)/[**l10n_ar_fpoc_pos**](https://github.com/csrocha/l10n_ar_fpoc_pos)",
+              "Fiscal Printer on the Cloud for Argentina Localization. Addon to use with POS. ",
+              ""
+            ],
+            [
+              "2",
+              "[@mgaitan](https://github.com/mgaitan)/[**trestapas**](https://github.com/mgaitan/trestapas)",
+              "A platform to analyze historical newspaper discourses",
+              ""
+            ],
+            [
+              "2",
+              "[@jmg](https://github.com/jmg)/[**crawley3-toolbox**](https://github.com/jmg/crawley3-toolbox)",
+              "Crawley Toolbox for python3",
+              ""
+            ],
+            [
+              "2",
+              "[@jmg](https://github.com/jmg)/[**Tweet-Bot**](https://github.com/jmg/Tweet-Bot)",
+              "A bot capable to randomly choose from a list and teewt periodically",
+              ""
+            ],
+            [
+              "2",
+              "[@rmax](https://github.com/rmax)/[**dask-kafka**](https://github.com/rmax/dask-kafka)",
+              "Dask-Kafka reader",
+              ""
+            ],
+            [
+              "2",
+              "[@abenassi](https://github.com/abenassi)/[**freight-transport-ne…**](https://github.com/abenassi/freight-transport-network)",
+              "Python implementation of a bimodal (railway and roadway) freight transport network cost model.",
+              ""
+            ],
+            [
+              "2",
+              "[@mgaitan](https://github.com/mgaitan)/[**hamster2jira**](https://github.com/mgaitan/hamster2jira)",
+              "Post your Hamster logs into Jira",
+              ""
+            ],
+            [
+              "2",
+              "[@mgaitan](https://github.com/mgaitan)/[**git-hooks**](https://github.com/mgaitan/git-hooks)",
+              "scripts to be used as git hooks",
+              ""
+            ],
+            [
+              "2",
+              "[@reingart](https://github.com/reingart)/[**web2conf**](https://github.com/reingart/web2conf)",
+              "Web2py / Python application for Conference Registration and Management.",
+              "[:arrow_upper_right:](https://code.google.com/p/web2conf/)"
+            ],
+            [
+              "2",
+              "[@nitely](https://github.com/nitely)/[**regexy**](https://github.com/nitely/regexy)",
+              " :wavy_dash: Linear time regex matching supporting streams and other goodies",
+              ""
+            ],
+            [
+              "2",
+              "[@jjo](https://github.com/jjo)/[**mapreduce**](https://github.com/jjo/mapreduce)",
+              "mapreduce",
+              ""
+            ],
+            [
+              "2",
+              "[@jjscarafia](https://github.com/jjscarafia)/[**odoo-help**](https://github.com/jjscarafia/odoo-help)",
+              "Odoo modules with help pages",
+              ""
+            ],
+            [
+              "2",
+              "[@dlitvakb](https://github.com/dlitvakb)/[**MOVEapp**](https://github.com/dlitvakb/MOVEapp)",
+              "An Experiment using MOVE concepts in a Flask application",
+              ""
+            ],
+            [
+              "2",
+              "[@j0hn](https://github.com/j0hn)/[**BMPy**](https://github.com/j0hn/BMPy)",
+              "Small python library to edit BMP files",
+              ""
+            ],
+            [
+              "2",
+              "[@csrocha](https://github.com/csrocha)/[**l10n_ar_fpoc**](https://github.com/csrocha/l10n_ar_fpoc)",
+              "Fiscal Printer on Cloud for Odoo - Argentina Localization",
+              ""
+            ],
+            [
+              "2",
+              "[@nitely](https://github.com/nitely)/[**django-app-defaults**](https://github.com/nitely/django-app-defaults)",
+              ":gear: Overridable default static settings for apps and projects",
+              "[:arrow_upper_right:](https://django-app-defaults.readthedocs.io)"
+            ],
+            [
+              "2",
+              "[@rafacarrascosa](https://github.com/rafacarrascosa)/[**quepy-presentation-m…**](https://github.com/rafacarrascosa/quepy-presentation-material)",
+              "Slides, snippets and stuff useful to explain Quepy",
+              ""
+            ],
+            [
+              "2",
+              "[@humitos](https://github.com/humitos)/[**blog**](https://github.com/humitos/blog)",
+              "http://elblogdehumitos.com.ar/",
+              ""
+            ],
+            [
+              "2",
+              "[@jmg](https://github.com/jmg)/[**potion**](https://github.com/jmg/potion)",
+              "Elixir-like declarative layer for sql-alchemy",
+              ""
+            ],
+            [
+              "2",
+              "[@llazzaro](https://github.com/llazzaro)/[**django-pywars**](https://github.com/llazzaro/django-pywars)",
+              " A turn based tank game for Python bots",
+              ""
+            ],
+            [
+              "2",
+              "[@humitos](https://github.com/humitos)/[**your-reminder**](https://github.com/humitos/your-reminder)",
+              "Schedule some tweets to be post for you",
+              ""
+            ],
+            [
+              "2",
+              "[@feliam](https://github.com/feliam)/[**rcfast**](https://github.com/feliam/rcfast)",
+              "This is supposed to be used after a crash is found via a trivial bitflipping fuzzing session. This expects a normal not crashing control file and a mutated same sized crashing  file. It will try to reduce the mutations on the crashing file checking that the resultant file still crashes on the configured application.",
+              ""
+            ],
+            [
+              "2",
+              "[@llazzaro](https://github.com/llazzaro)/[**pyquant**](https://github.com/llazzaro/pyquant)",
+              "Automatically exported from code.google.com/p/pyquant",
+              ""
+            ],
+            [
+              "2",
+              "[@llazzaro](https://github.com/llazzaro)/[**chem-fingerprints**](https://github.com/llazzaro/chem-fingerprints)",
+              "Automatically exported from code.google.com/p/chem-fingerprints",
+              ""
+            ],
+            [
+              "2",
+              "[@santiagobasulto](https://github.com/santiagobasulto)/[**huikau**](https://github.com/santiagobasulto/huikau)",
+              "Micro ad-server for AppEngine",
+              "[:arrow_upper_right:](http://ad-huikau.appspot.com/)"
             ]
           ]
         }
