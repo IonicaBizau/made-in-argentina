@@ -64,7 +64,8 @@
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[R](#r)"
         ]
       },
       {
@@ -5283,6 +5284,87 @@
               "[@santiagobasulto](https://github.com/santiagobasulto)/[**huikau**](https://github.com/santiagobasulto/huikau)",
               "Micro ad-server for AppEngine",
               "[:arrow_upper_right:](http://ad-huikau.appspot.com/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "R #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "41",
+              "[@mcpasin](https://github.com/mcpasin)/[**web-analytics-dashbo…**](https://github.com/mcpasin/web-analytics-dashboard)",
+              "This is a simple Web Analytics Dashboard created with R and Shiny package. Visualizations are interactive and make use of Google Charts. ",
+              "[:arrow_upper_right:](http://www.analyticsforfun.com/2015/01/google-analytics-dashboards-with-r-shiny.html)"
+            ],
+            [
+              "33",
+              "[@mcpasin](https://github.com/mcpasin)/[**PlayingGoogleAnalyti…**](https://github.com/mcpasin/PlayingGoogleAnalyticsDataViz)",
+              "Packing a couple of inspiring Google Analytics visualizations within a R Shiny Dashboard",
+              ""
+            ],
+            [
+              "26",
+              "[@eliocamp](https://github.com/eliocamp)/[**metR**](https://github.com/eliocamp/metR)",
+              "Tools for Easier Analysis of Meteorological Fields",
+              "[:arrow_upper_right:](https://eliocamp.github.io/metR/)"
+            ],
+            [
+              "21",
+              "[@saraswatmks](https://github.com/saraswatmks)/[**Machine-Learning-in-…**](https://github.com/saraswatmks/Machine-Learning-in-R)",
+              "This repository contains my ML scripts in R",
+              ""
+            ],
+            [
+              "19",
+              "[@jcrodriguez1989](https://github.com/jcrodriguez1989)/[**shinyParallel**](https://github.com/jcrodriguez1989/shinyParallel)",
+              "Run Shiny applications in a multi-session mode.",
+              ""
+            ],
+            [
+              "14",
+              "[@mcpasin](https://github.com/mcpasin)/[**schedule-Rmarkdown-r…**](https://github.com/mcpasin/schedule-Rmarkdown-report-via-email)",
+              "Automate an R markdown report and email it as an attached document (with the Windows task scheduler)",
+              ""
+            ],
+            [
+              "7",
+              "[@eliocamp](https://github.com/eliocamp)/[**ggperiodic**](https://github.com/eliocamp/ggperiodic)",
+              "Easy ploting of periodic data with ggplot2",
+              ""
+            ],
+            [
+              "7",
+              "[@jcrodriguez1989](https://github.com/jcrodriguez1989)/[**shinyWYSIWYG**](https://github.com/jcrodriguez1989/shinyWYSIWYG)",
+              "Shiny What You See Is What You Get (WYSIWYG) editor",
+              ""
+            ],
+            [
+              "4",
+              "[@ptdrow](https://github.com/ptdrow)/[**Rtrava**](https://github.com/ptdrow/Rtrava)",
+              "Library for the Strava API v3 in R",
+              ""
+            ],
+            [
+              "2",
+              "[@mcpasin](https://github.com/mcpasin)/[**For-Loops-to-Automat…**](https://github.com/mcpasin/For-Loops-to-Automatize-Predictive-Models)",
+              "Some examples on how to incorporate for loops in predictive models and analyse quickly large datasets",
+              ""
+            ],
+            [
+              "2",
+              "[@mcpasin](https://github.com/mcpasin)/[**Query-Multiple-Googl…**](https://github.com/mcpasin/Query-Multiple-Google-Analytics-Views)",
+              "How to Query Multiple Google Analytics View IDs using the RGoogleAnalytics package",
+              ""
             ]
           ]
         }
