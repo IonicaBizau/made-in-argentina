@@ -67,7 +67,8 @@
           "[Python](#python)",
           "[R](#r)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -6482,6 +6483,123 @@
               "2",
               "[@gvolpe](https://github.com/gvolpe)/[**coursera-reactive-pr…**](https://github.com/gvolpe/coursera-reactive-prog)",
               "Curso online de programación reactiva https://www.coursera.org/course/reactive",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "32",
+              "[@damianmr](https://github.com/damianmr)/[**heroku-node-settings**](https://github.com/damianmr/heroku-node-settings)",
+              "Prevent your Heroku Dyno from killing your Node app because of high memory consumption",
+              ""
+            ],
+            [
+              "27",
+              "[@osiris](https://github.com/osiris)/[**org-bash-utils**](https://github.com/osiris/org-bash-utils)",
+              "Mirror of https://gitlab.com/osiux/org-bash-utils",
+              ""
+            ],
+            [
+              "27",
+              "[@djgera](https://github.com/djgera)/[**archiso**](https://github.com/djgera/archiso)",
+              "Project from Arch Linux + my working branchs",
+              "[:arrow_upper_right:](http://projects.archlinux.org/archiso.git/)"
+            ],
+            [
+              "16",
+              "[@farfanoide](https://github.com/farfanoide)/[**yat.sh**](https://github.com/farfanoide/yat.sh)",
+              "Yat.sh --- Simple tmux sessions management.",
+              ""
+            ],
+            [
+              "10",
+              "[@zokeber](https://github.com/zokeber)/[**docker-postgresql**](https://github.com/zokeber/docker-postgresql)",
+              "PostgreSQL Dockerfile on CentOS 7",
+              ""
+            ],
+            [
+              "6",
+              "[@azimut](https://github.com/azimut)/[**daily-pic**](https://github.com/azimut/daily-pic)",
+              "daily wallpaper downloader",
+              ""
+            ],
+            [
+              "3",
+              "[@osiris](https://github.com/osiris)/[**mails2dot**](https://github.com/osiris/mails2dot)",
+              "Mirror of https://gitlab.com/osiux/mails2dot/",
+              ""
+            ],
+            [
+              "3",
+              "[@osiris](https://github.com/osiris)/[**git-bash-utils**](https://github.com/osiris/git-bash-utils)",
+              "Mirror of https://gitlab.com/osiux/git-bash-utils",
+              ""
+            ],
+            [
+              "2",
+              "[@azimut](https://github.com/azimut)/[**wakeupneo**](https://github.com/azimut/wakeupneo)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@farfanoide](https://github.com/farfanoide)/[**dotfiles**](https://github.com/farfanoide/dotfiles)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@x11tete11x](https://github.com/x11tete11x)/[**dropbox-plasma-dark-…**](https://github.com/x11tete11x/dropbox-plasma-dark-icons)",
+              "Dropbox icons for Plasma 5 Dark Panels",
+              ""
+            ],
+            [
+              "2",
+              "[@vando](https://github.com/vando)/[**docker-saltstack**](https://github.com/vando/docker-saltstack)",
+              "Installs SaltStack 2015.8.3 (Alpine:3.3)",
+              ""
+            ],
+            [
+              "2",
+              "[@zokeber](https://github.com/zokeber)/[**docker-iredmail**](https://github.com/zokeber/docker-iredmail)",
+              "iRedMail Dockerfile in CentOS 7",
+              ""
+            ],
+            [
+              "2",
+              "[@osiris](https://github.com/osiris)/[**aps2dot**](https://github.com/osiris/aps2dot)",
+              "Mirror of https://gitlab.com/osiux/aps2dot",
+              ""
+            ],
+            [
+              "2",
+              "[@zokeber](https://github.com/zokeber)/[**docker-pfn**](https://github.com/zokeber/docker-pfn)",
+              "Docker PFN : PHP + PHP-FPM + NGINX compiled from the sources",
+              ""
+            ],
+            [
+              "2",
+              "[@cig0](https://github.com/cig0)/[**blockets**](https://github.com/cig0/blockets)",
+              "i3blocks blockets",
+              ""
+            ],
+            [
+              "2",
+              "[@3manuek](https://github.com/3manuek)/[**query_review_helper**](https://github.com/3manuek/query_review_helper)",
+              "Gather important information from a MySQL database before a query review.",
               ""
             ]
           ]
