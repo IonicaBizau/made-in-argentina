@@ -54,7 +54,8 @@
           "[HTML](#html)",
           "[C](undefined)",
           "[C++](#c-2)",
-          "[ActionScript](#actionscript)"
+          "[ActionScript](#actionscript)",
+          "[Clojure](#clojure)"
         ]
       },
       {
@@ -3125,6 +3126,33 @@
               "[@fpanettieri](https://github.com/fpanettieri)/[**Push-The-Button**](https://github.com/fpanettieri/Push-The-Button)",
               "Codigo Fuente de 'Push The Button'",
               "[:arrow_upper_right:](http://gamingfondue.com.ar)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Clojure #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "35",
+              "[@code54](https://github.com/code54)/[**buildversion-plugin**](https://github.com/code54/buildversion-plugin)",
+              "A maven plugin that extracts current build information from git projects",
+              ""
+            ],
+            [
+              "6",
+              "[@ClojureBA](https://github.com/ClojureBA)/[**twit-bot**](https://github.com/ClojureBA/twit-bot)",
+              "Skeleton project to build a Twitter bot in Clojure",
+              "[:arrow_upper_right:](http://clojureba.com)"
             ]
           ]
         }
