@@ -50,7 +50,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[CSS](#css)"
+          "[CSS](#css)",
+          "[HTML](#html)"
         ]
       },
       {
@@ -2532,6 +2533,81 @@
               "2",
               "[@ignacioricci](https://github.com/ignacioricci)/[**instant-fort**](https://github.com/ignacioricci/instant-fort)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "HTML #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "44",
+              "[@pabloruiz55](https://github.com/pabloruiz55)/[**AirdropCentral**](https://github.com/pabloruiz55/AirdropCentral)",
+              "An AirdropCentral where anyone can submit tokens to be distributed among users",
+              ""
+            ],
+            [
+              "16",
+              "[@relopezbriega](https://github.com/relopezbriega)/[**relopezbriega.github…**](https://github.com/relopezbriega/relopezbriega.github.io)",
+              "Personal Blog",
+              ""
+            ],
+            [
+              "9",
+              "[@impallari](https://github.com/impallari)/[**The-Lobster-Font**](https://github.com/impallari/The-Lobster-Font)",
+              "The latest version of The Lobster Font",
+              ""
+            ],
+            [
+              "7",
+              "[@battaglr](https://github.com/battaglr)/[**naked**](https://github.com/battaglr/naked)",
+              "A minimal boilerplate for web apps",
+              ""
+            ],
+            [
+              "4",
+              "[@impallari](https://github.com/impallari)/[**Dosis**](https://github.com/impallari/Dosis)",
+              "Dosis Fonts",
+              ""
+            ],
+            [
+              "3",
+              "[@jlgasparrini](https://github.com/jlgasparrini)/[**sistema-legislativo-…**](https://github.com/jlgasparrini/sistema-legislativo-digital)",
+              "Sistema legislativo digital - Concejo Deliberante - Río Cuarto, Córdoba, Argentina",
+              "[:arrow_upper_right:](http://www.concejoriocuarto.gov.ar/)"
+            ],
+            [
+              "3",
+              "[@impallari](https://github.com/impallari)/[**DancingScript**](https://github.com/impallari/DancingScript)",
+              "Dancing Script fonts",
+              ""
+            ],
+            [
+              "3",
+              "[@battaglr](https://github.com/battaglr)/[**smlst**](https://github.com/battaglr/smlst)",
+              "The smallest valid HTML5 document",
+              ""
+            ],
+            [
+              "3",
+              "[@battaglr](https://github.com/battaglr)/[**griss**](https://github.com/battaglr/griss)",
+              "Simple and modular grid system",
+              ""
+            ],
+            [
+              "2",
+              "[@matiaspunx](https://github.com/matiaspunx)/[**polymer-firebase**](https://github.com/matiaspunx/polymer-firebase)",
+              "Mini app con Polymer 1.x y Firebase ",
               ""
             ]
           ]
