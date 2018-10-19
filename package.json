@@ -70,7 +70,8 @@
           "[Scala](#scala)",
           "[Shell](#shell)",
           "[Swift](#swift)",
-          "[TeX](#tex)"
+          "[TeX](#tex)",
+          "[VimL](#viml)"
         ]
       },
       {
@@ -6788,6 +6789,33 @@
               "2",
               "[@manumena](https://github.com/manumena)/[**aed3-summary**](https://github.com/manumena/aed3-summary)",
               "A summary of Algorithims and Data Structures III",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "VimL #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "20",
+              "[@saaguero](https://github.com/saaguero)/[**dotvim**](https://github.com/saaguero/dotvim)",
+              "My cross-platform vimrc",
+              ""
+            ],
+            [
+              "9",
+              "[@saaguero](https://github.com/saaguero)/[**vim-textobj-pastedte…**](https://github.com/saaguero/vim-textobj-pastedtext)",
+              "A convenient text object for last pasted text",
               ""
             ]
           ]
