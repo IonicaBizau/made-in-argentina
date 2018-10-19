@@ -65,7 +65,8 @@
           "[Perl](#perl)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[R](#r)"
+          "[R](#r)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -5364,6 +5365,897 @@
               "2",
               "[@mcpasin](https://github.com/mcpasin)/[**Query-Multiple-Googl…**](https://github.com/mcpasin/Query-Multiple-Google-Analytics-Views)",
               "How to Query Multiple Google Analytics View IDs using the RGoogleAnalytics package",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "5055",
+              "[@norman](https://github.com/norman)/[**friendly_id**](https://github.com/norman/friendly_id)",
+              "FriendlyId is the “Swiss Army bulldozer” of slugging and permalink plugins for ActiveRecord. It allows you to create pretty URL’s and work with human-friendly strings as if they were numeric ids for ActiveRecord models.",
+              "[:arrow_upper_right:](http://norman.github.io/friendly_id/)"
+            ],
+            [
+              "2626",
+              "[@deivid-rodriguez](https://github.com/deivid-rodriguez)/[**byebug**](https://github.com/deivid-rodriguez/byebug)",
+              "Debugging in Ruby 2",
+              ""
+            ],
+            [
+              "1366",
+              "[@deivid-rodriguez](https://github.com/deivid-rodriguez)/[**pry-byebug**](https://github.com/deivid-rodriguez/pry-byebug)",
+              "Step-by-step debugging and stack navigation in Pry",
+              ""
+            ],
+            [
+              "371",
+              "[@norman](https://github.com/norman)/[**babosa**](https://github.com/norman/babosa)",
+              "A library for creating slugs. Babosa is an extraction and improvement of the string code from FriendlyId, intended to help developers create similar libraries or plugins.",
+              ""
+            ],
+            [
+              "329",
+              "[@nsanta](https://github.com/nsanta)/[**fbgraph**](https://github.com/nsanta/fbgraph)",
+              "Facebook Open Graph API in Ruby",
+              ""
+            ],
+            [
+              "313",
+              "[@lucasefe](https://github.com/lucasefe)/[**themes_for_rails**](https://github.com/lucasefe/themes_for_rails)",
+              "Theme Support for Rails 3",
+              "[:arrow_upper_right:](This very same page :))"
+            ],
+            [
+              "260",
+              "[@patriciomacadden](https://github.com/patriciomacadden)/[**hobbit**](https://github.com/patriciomacadden/hobbit)",
+              "A minimalistic microframework built on top of Rack.",
+              ""
+            ],
+            [
+              "253",
+              "[@norman](https://github.com/norman)/[**disqus**](https://github.com/norman/disqus)",
+              "A Ruby library for the Disqus commenting API and Javascript widgets.",
+              "[:arrow_upper_right:](http://disqus.rubyforge.org)"
+            ],
+            [
+              "146",
+              "[@djanowski](https://github.com/djanowski)/[**cutest**](https://github.com/djanowski/cutest)",
+              "Isolated tests in Ruby.",
+              ""
+            ],
+            [
+              "132",
+              "[@inkel](https://github.com/inkel)/[**fallen**](https://github.com/inkel/fallen)",
+              "A simpler way to create Ruby fallen ængels, better known as dæmons",
+              "[:arrow_upper_right:](http://inkel.github.com/fallen/)"
+            ],
+            [
+              "117",
+              "[@norman](https://github.com/norman)/[**haml-scaffold**](https://github.com/norman/haml-scaffold)",
+              "Rails scaffold generator that outputs Haml and better functional tests.",
+              "[:arrow_upper_right:](http://haml-scaffold.rubyforge.org)"
+            ],
+            [
+              "72",
+              "[@norman](https://github.com/norman)/[**squirm_rails**](https://github.com/norman/squirm_rails)",
+              "Easily use and manage Postgres stored procedures with Active Record.",
+              ""
+            ],
+            [
+              "59",
+              "[@djanowski](https://github.com/djanowski)/[**batch**](https://github.com/djanowski/batch)",
+              "Iterate over Enumerables with progress reporting.",
+              ""
+            ],
+            [
+              "51",
+              "[@norman](https://github.com/norman)/[**friendly_id-globaliz…**](https://github.com/norman/friendly_id-globalize)",
+              "Globalize support for FriendlyId",
+              ""
+            ],
+            [
+              "51",
+              "[@djanowski](https://github.com/djanowski)/[**pygmentize**](https://github.com/djanowski/pygmentize)",
+              "A Ruby gem that vendors Pygments",
+              ""
+            ],
+            [
+              "50",
+              "[@asterite](https://github.com/asterite)/[**crystal**](https://github.com/asterite/crystal)",
+              "The Crystal programming language",
+              ""
+            ],
+            [
+              "47",
+              "[@robertodecurnex](https://github.com/robertodecurnex)/[**rack-jsonp-middlewar…**](https://github.com/robertodecurnex/rack-jsonp-middleware)",
+              "A Rack JSONP middleware",
+              "[:arrow_upper_right:](http://robertodecurnex.github.com/rack-jsonp-middleware/)"
+            ],
+            [
+              "43",
+              "[@inkel](https://github.com/inkel)/[**haproxy-ruby**](https://github.com/inkel/haproxy-ruby)",
+              "Ruby gem for interfacing with HAProxy",
+              "[:arrow_upper_right:](https://rubygems.org/gems/haproxy)"
+            ],
+            [
+              "43",
+              "[@tute](https://github.com/tute)/[**refactoring-workshop**](https://github.com/tute/refactoring-workshop)",
+              "Refactoring Workshop",
+              ""
+            ],
+            [
+              "43",
+              "[@norman](https://github.com/norman)/[**ambry**](https://github.com/norman/ambry)",
+              "Ambry is a database and ORM replacement for (mostly) static models and small datasets. It provides ActiveModel compatibility, and flexible searching and storage.",
+              "[:arrow_upper_right:](http://rubydoc.info/github/norman/ambry/master/frames)"
+            ],
+            [
+              "34",
+              "[@waj](https://github.com/waj)/[**redmine_google_apps**](https://github.com/waj/redmine_google_apps)",
+              "Redmine plugin to use Google Apps users",
+              ""
+            ],
+            [
+              "31",
+              "[@djanowski](https://github.com/djanowski)/[**tele**](https://github.com/djanowski/tele)",
+              "",
+              ""
+            ],
+            [
+              "30",
+              "[@djanowski](https://github.com/djanowski)/[**mock-server**](https://github.com/djanowski/mock-server)",
+              "",
+              ""
+            ],
+            [
+              "29",
+              "[@tonchis](https://github.com/tonchis)/[**fat**](https://github.com/tonchis/fat)",
+              "Ruby C extension where dig meets fetch.",
+              ""
+            ],
+            [
+              "28",
+              "[@tonchis](https://github.com/tonchis)/[**hatch**](https://github.com/tonchis/hatch)",
+              "An address without a street? A person without a name? You don't need no invalid objects!",
+              ""
+            ],
+            [
+              "27",
+              "[@nsanta](https://github.com/nsanta)/[**fbgraph_example**](https://github.com/nsanta/fbgraph_example)",
+              " Rails 3 app example, using fbgraph gem",
+              ""
+            ],
+            [
+              "26",
+              "[@asterite](https://github.com/asterite)/[**cukecooker**](https://github.com/asterite/cukecooker)",
+              "Write cucumber scenarios with aid",
+              ""
+            ],
+            [
+              "26",
+              "[@djanowski](https://github.com/djanowski)/[**dependencies**](https://github.com/djanowski/dependencies)",
+              "Specify your project's dependencies in a single place.",
+              ""
+            ],
+            [
+              "23",
+              "[@gramos](https://github.com/gramos)/[**panthro**](https://github.com/gramos/panthro)",
+              "The idea is to speed up the gem command caching gem and spec files. Rubygems proxy cache Is a rack app that cache static files into a local machine, where is runing. Is does not cache /api calls.",
+              ""
+            ],
+            [
+              "23",
+              "[@deivid-rodriguez](https://github.com/deivid-rodriguez)/[**nipanipa**](https://github.com/deivid-rodriguez/nipanipa)",
+              "New home https://gitlab.com/deivid-rodriguez/nipa…",
+              ""
+            ],
+            [
+              "22",
+              "[@asterite](https://github.com/asterite)/[**rgviz-rails**](https://github.com/asterite/rgviz-rails)",
+              "Google Visualization API Query Language for Ruby on Rails",
+              ""
+            ],
+            [
+              "21",
+              "[@inkel](https://github.com/inkel)/[**ruster**](https://github.com/inkel/ruster)",
+              "Control your Redis Cluster from the command line",
+              ""
+            ],
+            [
+              "21",
+              "[@lucasefe](https://github.com/lucasefe)/[**gn**](https://github.com/lucasefe/gn)",
+              "gn is the simplest file generator you could ever find.",
+              ""
+            ],
+            [
+              "19",
+              "[@norman](https://github.com/norman)/[**squirm**](https://github.com/norman/squirm)",
+              "A library that simplifies working with Postgres stored procedures.",
+              "[:arrow_upper_right:](http://rubydoc.info/github/bvision/squirm/master/frames)"
+            ],
+            [
+              "18",
+              "[@norman](https://github.com/norman)/[**has_image**](https://github.com/norman/has_image)",
+              "A lightweight and hackable library for attaching images to ActiveRecord models.",
+              "[:arrow_upper_right:](http://norman.github.com/has_image/)"
+            ],
+            [
+              "18",
+              "[@djanowski](https://github.com/djanowski)/[**collage**](https://github.com/djanowski/collage)",
+              "Rack middleware that packages your JS into a single file.",
+              ""
+            ],
+            [
+              "18",
+              "[@munshkr](https://github.com/munshkr)/[**freeling-analyzer-ru…**](https://github.com/munshkr/freeling-analyzer-ruby)",
+              "Ruby wrapper for FreeLing's analyzer tool",
+              "[:arrow_upper_right:](https://github.com/munshkr/freeling-analyzer-ruby)"
+            ],
+            [
+              "17",
+              "[@patriciomacadden](https://github.com/patriciomacadden)/[**hobbit-contrib**](https://github.com/patriciomacadden/hobbit-contrib)",
+              "Contributed Hobbit extensions.",
+              ""
+            ],
+            [
+              "16",
+              "[@djanowski](https://github.com/djanowski)/[**replete**](https://github.com/djanowski/replete)",
+              "",
+              ""
+            ],
+            [
+              "15",
+              "[@djanowski](https://github.com/djanowski)/[**joe**](https://github.com/djanowski/joe)",
+              "Release your gems, no pain involved.",
+              ""
+            ],
+            [
+              "15",
+              "[@inkel](https://github.com/inkel)/[**disyuntor**](https://github.com/inkel/disyuntor)",
+              "Simple Circuit Breaker pattern in Ruby",
+              ""
+            ],
+            [
+              "15",
+              "[@gramos](https://github.com/gramos)/[**dayset**](https://github.com/gramos/dayset)",
+              "Generate a set of any number of days of a month",
+              ""
+            ],
+            [
+              "15",
+              "[@norman](https://github.com/norman)/[**phonenumber**](https://github.com/norman/phonenumber)",
+              "Allows parsing and formatting of phone numbers",
+              "[:arrow_upper_right:](http://phonenumber.rubyforge.org)"
+            ],
+            [
+              "12",
+              "[@djanowski](https://github.com/djanowski)/[**google_services**](https://github.com/djanowski/google_services)",
+              "Rails plugin that provides simple integration with Google services like Analytics, Webmaster Tools, etc.",
+              ""
+            ],
+            [
+              "12",
+              "[@norman](https://github.com/norman)/[**enc**](https://github.com/norman/enc)",
+              "Notes and slides from my Encodings talk at RubyConf Brasil 2010",
+              "[:arrow_upper_right:](http://njclarke.com/)"
+            ],
+            [
+              "12",
+              "[@asterite](https://github.com/asterite)/[**rgviz**](https://github.com/asterite/rgviz)",
+              "Google Visualization API Query Language for Ruby",
+              ""
+            ],
+            [
+              "11",
+              "[@norman](https://github.com/norman)/[**spanish**](https://github.com/norman/spanish)",
+              "Linguistic utilities for working with Spanish words.",
+              ""
+            ],
+            [
+              "11",
+              "[@gramos](https://github.com/gramos)/[**rails21-book-es**](https://github.com/gramos/rails21-book-es)",
+              "Traducción al español del libro \"Ruby on Rails 2.1 Waht's new?\" ",
+              "[:arrow_upper_right:](http://gastonramos.com.ar/rails21/)"
+            ],
+            [
+              "11",
+              "[@inkel](https://github.com/inkel)/[**spdy-examples**](https://github.com/inkel/spdy-examples)",
+              "SPDY Ruby server examples",
+              ""
+            ],
+            [
+              "11",
+              "[@djanowski](https://github.com/djanowski)/[**havanna**](https://github.com/djanowski/havanna)",
+              "Ruby workers for Disque.",
+              ""
+            ],
+            [
+              "11",
+              "[@djanowski](https://github.com/djanowski)/[**twisque**](https://github.com/djanowski/twisque)",
+              "A Buffer clone using Ruby and Disque, deployed to Heroku for free.",
+              ""
+            ],
+            [
+              "10",
+              "[@norman](https://github.com/norman)/[**nearby**](https://github.com/norman/nearby)",
+              "Quick and easy geocoding using Geonames.org data and TokyoCabinet.",
+              ""
+            ],
+            [
+              "10",
+              "[@patriciomacadden](https://github.com/patriciomacadden)/[**fogata**](https://github.com/patriciomacadden/fogata)",
+              "Fogata is an open source group chat. Basically, Fogata is an open source Campfire clone.",
+              ""
+            ],
+            [
+              "10",
+              "[@apillet](https://github.com/apillet)/[**flonkerton**](https://github.com/apillet/flonkerton)",
+              "Gosu toys for the bored rubyist.",
+              ""
+            ],
+            [
+              "10",
+              "[@miloops](https://github.com/miloops)/[**share-this**](https://github.com/miloops/share-this)",
+              "Simple plugin to share pages with most popular social sites.",
+              ""
+            ],
+            [
+              "10",
+              "[@mgarciap](https://github.com/mgarciap)/[**cf-auto-scaling**](https://github.com/mgarciap/cf-auto-scaling)",
+              "Stupid simple scripts for automaticaly scale applications hosted in Cloudfoundry",
+              ""
+            ],
+            [
+              "9",
+              "[@munshkr](https://github.com/munshkr)/[**easing-ruby**](https://github.com/munshkr/easing-ruby)",
+              "A Ruby implementation of the well-known Robert Penner's easing functions",
+              ""
+            ],
+            [
+              "8",
+              "[@djanowski](https://github.com/djanowski)/[**helm**](https://github.com/djanowski/helm)",
+              "A command line interface to interact with project management tools.",
+              ""
+            ],
+            [
+              "8",
+              "[@pasku](https://github.com/pasku)/[**kata-roar**](https://github.com/pasku/kata-roar)",
+              "The solution that we show in our workshop at http://conferencia2013.agile-spain.org.",
+              "[:arrow_upper_right:](https://speakerdeck.com/jacegu/modular-design-with-tdd)"
+            ],
+            [
+              "8",
+              "[@patriciomacadden](https://github.com/patriciomacadden)/[**sat**](https://github.com/patriciomacadden/sat)",
+              "Sinatra Application Template.",
+              ""
+            ],
+            [
+              "8",
+              "[@patriciomacadden](https://github.com/patriciomacadden)/[**hat**](https://github.com/patriciomacadden/hat)",
+              "Hobbit Application Template",
+              ""
+            ],
+            [
+              "7",
+              "[@robertodecurnex](https://github.com/robertodecurnex)/[**vigenere**](https://github.com/robertodecurnex/vigenere)",
+              "Vigenère Cipher ruby implementation",
+              "[:arrow_upper_right:](http://robertodecurnex.github.com/vigenere)"
+            ],
+            [
+              "7",
+              "[@djanowski](https://github.com/djanowski)/[**layout**](https://github.com/djanowski/layout)",
+              "Enable Rails to handle layouts programatically",
+              ""
+            ],
+            [
+              "7",
+              "[@djanowski](https://github.com/djanowski)/[**redis-pool**](https://github.com/djanowski/redis-pool)",
+              "A Redis connection pool on top of redis-rb.",
+              ""
+            ],
+            [
+              "7",
+              "[@djanowski](https://github.com/djanowski)/[**redic-pool**](https://github.com/djanowski/redic-pool)",
+              "A Redis connection pool using Redic.",
+              ""
+            ],
+            [
+              "7",
+              "[@norman](https://github.com/norman)/[**friendly_id_manual_s…**](https://github.com/norman/friendly_id_manual_slug_demo)",
+              "A Rails 3 app showing how to manually control FriendlyId slugs",
+              ""
+            ],
+            [
+              "7",
+              "[@djanowski](https://github.com/djanowski)/[**ost-bin**](https://github.com/djanowski/ost-bin)",
+              "ost(1)",
+              ""
+            ],
+            [
+              "7",
+              "[@norman](https://github.com/norman)/[**nt54**](https://github.com/norman/nt54)",
+              "Argentine phone number parsing, validating, formatting and meta-info",
+              ""
+            ],
+            [
+              "7",
+              "[@patriciomacadden](https://github.com/patriciomacadden)/[**oktobertest**](https://github.com/patriciomacadden/oktobertest)",
+              "Small test library.",
+              ""
+            ],
+            [
+              "6",
+              "[@munshkr](https://github.com/munshkr)/[**georuby-pip**](https://github.com/munshkr/georuby-pip)",
+              "GeoRuby extension for asking whether a given point lies inside a polygon",
+              ""
+            ],
+            [
+              "6",
+              "[@patriciomacadden](https://github.com/patriciomacadden)/[**ment**](https://github.com/patriciomacadden/ment)",
+              "(environ)ment adds methods for asking what's the value of ENV['RACK_ENV'].",
+              ""
+            ],
+            [
+              "6",
+              "[@norman](https://github.com/norman)/[**base-site-generator**](https://github.com/norman/base-site-generator)",
+              "The current base layout and helpers I'm using to scaffold quick projects. Feel free to use if and as you wish.",
+              ""
+            ],
+            [
+              "6",
+              "[@patriciomacadden](https://github.com/patriciomacadden)/[**icd**](https://github.com/patriciomacadden/icd)",
+              "International Classification of Diseases (ICD)",
+              ""
+            ],
+            [
+              "6",
+              "[@patriciomacadden](https://github.com/patriciomacadden)/[**microbenchmarks**](https://github.com/patriciomacadden/microbenchmarks)",
+              "Benchmarking microframeworks. [DEPRECATED] See luislavena/bench-micro",
+              ""
+            ],
+            [
+              "6",
+              "[@gramos](https://github.com/gramos)/[**imagetooth**](https://github.com/gramos/imagetooth)",
+              "This library allows to generate images of teeth for odontograms with tooth faces painted",
+              "[:arrow_upper_right:](http://rubyforge.org/projects/imagetooth)"
+            ],
+            [
+              "6",
+              "[@munshkr](https://github.com/munshkr)/[**layout-analysis**](https://github.com/munshkr/layout-analysis)",
+              "Document layout analysis tools",
+              ""
+            ],
+            [
+              "6",
+              "[@spalladino](https://github.com/spalladino)/[**bivo**](https://github.com/spalladino/bivo)",
+              "Bivo",
+              ""
+            ],
+            [
+              "5",
+              "[@munshkr](https://github.com/munshkr)/[**sinatra-mobile-adsen…**](https://github.com/munshkr/sinatra-mobile-adsense)",
+              "Sinatra extension that provides a helper for showing Google Adsense for Mobile.",
+              ""
+            ],
+            [
+              "5",
+              "[@djanowski](https://github.com/djanowski)/[**cacho**](https://github.com/djanowski/cacho)",
+              "A careless caching client optimized for scraping.",
+              ""
+            ],
+            [
+              "5",
+              "[@tonchis](https://github.com/tonchis)/[**assert-send**](https://github.com/tonchis/assert-send)",
+              "Easy message expectation for tests in Ruby.",
+              ""
+            ],
+            [
+              "5",
+              "[@djanowski](https://github.com/djanowski)/[**cpa**](https://github.com/djanowski/cpa)",
+              "A CLI tool to query Argentinean zip codes.",
+              ""
+            ],
+            [
+              "5",
+              "[@tonchis](https://github.com/tonchis)/[**fat-rb**](https://github.com/tonchis/fat-rb)",
+              "Ruby implementation of the Fat gem",
+              ""
+            ],
+            [
+              "5",
+              "[@norman](https://github.com/norman)/[**fatalistic**](https://github.com/norman/fatalistic)",
+              "Table locking for Active Record",
+              "[:arrow_upper_right:](https://github.com/norman/fatalistic)"
+            ],
+            [
+              "5",
+              "[@nubis](https://github.com/nubis)/[**crypto_arbitrer**](https://github.com/nubis/crypto_arbitrer)",
+              "Convenience methods for calculating arbitrage fees related to cryptocurrencies",
+              ""
+            ],
+            [
+              "5",
+              "[@djanowski](https://github.com/djanowski)/[**sequel-fusiontables**](https://github.com/djanowski/sequel-fusiontables)",
+              "Fusion Tables adapter for Sequel",
+              ""
+            ],
+            [
+              "5",
+              "[@djanowski](https://github.com/djanowski)/[**dolarhoy**](https://github.com/djanowski/dolarhoy)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@norman](https://github.com/norman)/[**squirm_model**](https://github.com/norman/squirm_model)",
+              "Model API for Squirm",
+              ""
+            ],
+            [
+              "4",
+              "[@gramos](https://github.com/gramos)/[**robbie**](https://github.com/gramos/robbie)",
+              "Capistrano tasks. They include convenience methods for managed  a database, mongrel, nginx, monit or other services.  ",
+              ""
+            ],
+            [
+              "4",
+              "[@djanowski](https://github.com/djanowski)/[**redis-scripted**](https://github.com/djanowski/redis-scripted)",
+              "A Ruby client that supports the experimental scripting feature of Redis.",
+              ""
+            ],
+            [
+              "4",
+              "[@nubis](https://github.com/nubis)/[**has_duration**](https://github.com/nubis/has_duration)",
+              "Rails plugin to validate and serialize ActiveSupport::Duration objects in your models.",
+              ""
+            ],
+            [
+              "4",
+              "[@norman](https://github.com/norman)/[**micro_factory**](https://github.com/norman/micro_factory)",
+              "Minimal factories for Active Record.",
+              ""
+            ],
+            [
+              "4",
+              "[@patriciomacadden](https://github.com/patriciomacadden)/[**time_sugar**](https://github.com/patriciomacadden/time_sugar)",
+              "Syntactic sugar for handling time. If you are familiar with Active Support, but you don't want to add the whole library for just handling time, time_sugar may be helpful.",
+              ""
+            ],
+            [
+              "4",
+              "[@inkel](https://github.com/inkel)/[**andale**](https://github.com/inkel/andale)",
+              "Ándale: a simple SPDY framework",
+              ""
+            ],
+            [
+              "4",
+              "[@djanowski](https://github.com/djanowski)/[**rails_basic_helpers**](https://github.com/djanowski/rails_basic_helpers)",
+              "A Ruby on Rails plugin providing some super simple helpers.",
+              ""
+            ],
+            [
+              "4",
+              "[@patriciomacadden](https://github.com/patriciomacadden)/[**isco**](https://github.com/patriciomacadden/isco)",
+              "International Standard Classification of Occupations. A browsable database of ISCO 08.",
+              ""
+            ],
+            [
+              "4",
+              "[@norman](https://github.com/norman)/[**utf8_utils**](https://github.com/norman/utf8_utils)",
+              "Utilities for cleaning up UTF8 strings.",
+              "[:arrow_upper_right:](http://norman.github.com/utf8_utils)"
+            ],
+            [
+              "4",
+              "[@patriciomacadden](https://github.com/patriciomacadden)/[**miniconfig**](https://github.com/patriciomacadden/miniconfig)",
+              "Minimalistic configuration files for your projects.",
+              ""
+            ],
+            [
+              "4",
+              "[@joelibaceta](https://github.com/joelibaceta)/[**live-coding-circle**](https://github.com/joelibaceta/live-coding-circle)",
+              "Live Coding Tool, a project for developers circle hackathon",
+              "[:arrow_upper_right:](https://live-coding-circle.herokuapp.com/)"
+            ],
+            [
+              "4",
+              "[@asterite](https://github.com/asterite)/[**geochat-rails**](https://github.com/asterite/geochat-rails)",
+              "My try to implement geochat-core in rails :-P",
+              ""
+            ],
+            [
+              "3",
+              "[@robertodecurnex](https://github.com/robertodecurnex)/[**the-trend-factory**](https://github.com/robertodecurnex/the-trend-factory)",
+              "A Pakyow Sample Application",
+              ""
+            ],
+            [
+              "3",
+              "[@patriciomacadden](https://github.com/patriciomacadden)/[**ser**](https://github.com/patriciomacadden/ser)",
+              "Lightweight foreman alternative",
+              ""
+            ],
+            [
+              "3",
+              "[@patriciomacadden](https://github.com/patriciomacadden)/[**nice_generators**](https://github.com/patriciomacadden/nice_generators)",
+              "Nice generators for rails 3.",
+              ""
+            ],
+            [
+              "3",
+              "[@djanowski](https://github.com/djanowski)/[**snippets**](https://github.com/djanowski/snippets)",
+              "Include snippets of content in your Rails views and let the client take it from there.",
+              ""
+            ],
+            [
+              "3",
+              "[@tonchis](https://github.com/tonchis)/[**assert-url**](https://github.com/tonchis/assert-url)",
+              "Semantical helpers to test your URLs in Ruby",
+              ""
+            ],
+            [
+              "3",
+              "[@robertodecurnex](https://github.com/robertodecurnex)/[**caesar**](https://github.com/robertodecurnex/caesar)",
+              "Caesar Cipher ruby implementation",
+              "[:arrow_upper_right:](http://robertodecurnex.github.com/caesar)"
+            ],
+            [
+              "3",
+              "[@robertodecurnex](https://github.com/robertodecurnex)/[**spectro**](https://github.com/robertodecurnex/spectro)",
+              "Specs driven social meta-programming",
+              "[:arrow_upper_right:](https://spectro.app)"
+            ],
+            [
+              "3",
+              "[@munshkr](https://github.com/munshkr)/[**lug**](https://github.com/munshkr/lug)",
+              "Small Ruby logger for debugging libraries and applications",
+              ""
+            ],
+            [
+              "3",
+              "[@mgarciap](https://github.com/mgarciap)/[**iot-sensor-simulator**](https://github.com/mgarciap/iot-sensor-simulator)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@tute](https://github.com/tute)/[**parrot**](https://github.com/tute/parrot)",
+              "Simple commenting Rails Engine. Adds commentable behavior to any model easily.",
+              ""
+            ],
+            [
+              "3",
+              "[@inkel](https://github.com/inkel)/[**redic-cluster**](https://github.com/inkel/redic-cluster)",
+              "Redis Cluster support for Redic",
+              ""
+            ],
+            [
+              "3",
+              "[@miloops](https://github.com/miloops)/[**random-key**](https://github.com/miloops/random-key)",
+              "Plugin to generate a unique random key in a table using ActiveRecord models.",
+              ""
+            ],
+            [
+              "3",
+              "[@miloops](https://github.com/miloops)/[**s3sync**](https://github.com/miloops/s3sync)",
+              "Amazon S3 sync tools. This repo intention is to have it working on Ruby 1.9.",
+              "[:arrow_upper_right:](http://www.s3sync.net/wiki)"
+            ],
+            [
+              "3",
+              "[@patriciomacadden](https://github.com/patriciomacadden)/[**goqr**](https://github.com/patriciomacadden/goqr)",
+              "QR codes for ruby/rails using goqr.me API",
+              ""
+            ],
+            [
+              "3",
+              "[@djanowski](https://github.com/djanowski)/[**validate_options**](https://github.com/djanowski/validate_options)",
+              "Validate your options hash.",
+              ""
+            ],
+            [
+              "3",
+              "[@hdf1986](https://github.com/hdf1986)/[**diabolic-chat**](https://github.com/hdf1986/diabolic-chat)",
+              "As if the Dark Lord had programmed Slack :watermelon: ",
+              "[:arrow_upper_right:](https://diabolic.herokuapp.com/)"
+            ],
+            [
+              "3",
+              "[@hdf1986](https://github.com/hdf1986)/[**angelhack**](https://github.com/hdf1986/angelhack)",
+              "Winning project of AngelHack BA 2016",
+              "[:arrow_upper_right:](http://logu-demo.herokuapp.com/)"
+            ],
+            [
+              "3",
+              "[@lucasefe](https://github.com/lucasefe)/[**heroku-prompt**](https://github.com/lucasefe/heroku-prompt)",
+              "This plugins adds a command to the heroku cli, so you can run other command always with the same global options.  ",
+              ""
+            ],
+            [
+              "3",
+              "[@spacecowb0y](https://github.com/spacecowb0y)/[**Grooveshark-Status-A…**](https://github.com/spacecowb0y/Grooveshark-Status-AIM)",
+              "Update your Adium/iChat status with the current song on Grooveshark. Only Mac OS X + Grooveshark VIP Users!",
+              ""
+            ],
+            [
+              "2",
+              "[@patriciomacadden](https://github.com/patriciomacadden)/[**sinatra-verbose**](https://github.com/patriciomacadden/sinatra-verbose)",
+              "Sinatra verbose logging extension",
+              ""
+            ],
+            [
+              "2",
+              "[@norman](https://github.com/norman)/[**gem_init**](https://github.com/norman/gem_init)",
+              "My  Ruby Gem initialization biolerplate",
+              "[:arrow_upper_right:](http://github.com/norman/gem_init)"
+            ],
+            [
+              "2",
+              "[@munshkr](https://github.com/munshkr)/[**trenes-ba**](https://github.com/munshkr/trenes-ba)",
+              "Estadísticas sobre el servicio de trenes Mitre / Sarmiento",
+              ""
+            ],
+            [
+              "2",
+              "[@munshkr](https://github.com/munshkr)/[**supervisor-capistran…**](https://github.com/munshkr/supervisor-capistrano)",
+              "Supervisor integration for Capistrano",
+              ""
+            ],
+            [
+              "2",
+              "[@gramos](https://github.com/gramos)/[**video-streaming-blue…**](https://github.com/gramos/video-streaming-bluemix)",
+              "An app demo using bluemix and ustream.",
+              ""
+            ],
+            [
+              "2",
+              "[@norman](https://github.com/norman)/[**phonology**](https://github.com/norman/phonology)",
+              "Phonology utilities for Ruby",
+              ""
+            ],
+            [
+              "2",
+              "[@robertodecurnex](https://github.com/robertodecurnex)/[**supercarrier**](https://github.com/robertodecurnex/supercarrier)",
+              "Deploying Heroku apps 24/7",
+              "[:arrow_upper_right:](http://robertodecurnex.github.com/supercarrier/)"
+            ],
+            [
+              "2",
+              "[@robertodecurnex](https://github.com/robertodecurnex)/[**rack-json_stringify**](https://github.com/robertodecurnex/rack-json_stringify)",
+              "This Rack middleware takes any JSON response and format all the values (but null) to string whenever the proper header value is set.",
+              ""
+            ],
+            [
+              "2",
+              "[@lucasefe](https://github.com/lucasefe)/[**trekky**](https://github.com/lucasefe/trekky)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@miloops](https://github.com/miloops)/[**ai**](https://github.com/miloops/ai)",
+              "Search Procedures",
+              ""
+            ],
+            [
+              "2",
+              "[@nsanta](https://github.com/nsanta)/[**tire_library-ruby**](https://github.com/nsanta/tire_library-ruby)",
+              "TireLibrary API client in Ruby",
+              ""
+            ],
+            [
+              "2",
+              "[@norman](https://github.com/norman)/[**hash_formatter**](https://github.com/norman/hash_formatter)",
+              "Hash Formatter is a library that formats Ruby hashes for code editors.",
+              ""
+            ],
+            [
+              "2",
+              "[@nsanta](https://github.com/nsanta)/[**gplus**](https://github.com/nsanta/gplus)",
+              "google plus api wrapper",
+              ""
+            ],
+            [
+              "2",
+              "[@patriciomacadden](https://github.com/patriciomacadden)/[**bootstrap-generators**](https://github.com/patriciomacadden/bootstrap-generators)",
+              "Rails generators for twitter/bootstrap goodness",
+              ""
+            ],
+            [
+              "2",
+              "[@tute](https://github.com/tute)/[**dotfiles**](https://github.com/tute/dotfiles)",
+              "My dotfiles, on top of https://github.com/thoughtbot/dotfiles.",
+              ""
+            ],
+            [
+              "2",
+              "[@patriciomacadden](https://github.com/patriciomacadden)/[**weegoo**](https://github.com/patriciomacadden/weegoo)",
+              "weegoo is a location-aware social network.",
+              "[:arrow_upper_right:](http://weegoo.com.ar)"
+            ],
+            [
+              "2",
+              "[@apillet](https://github.com/apillet)/[**cutest-report**](https://github.com/apillet/cutest-report)",
+              "Beautiful reports for Cutest.",
+              ""
+            ],
+            [
+              "2",
+              "[@patriciomacadden](https://github.com/patriciomacadden)/[**simple_gravatar**](https://github.com/patriciomacadden/simple_gravatar)",
+              "Add gravatars to your ruby project as simple as possible.",
+              ""
+            ],
+            [
+              "2",
+              "[@matipan](https://github.com/matipan)/[**odin_book**](https://github.com/matipan/odin_book)",
+              "Build a Facebook clone - Final project of the Rails course - The Odin Project",
+              ""
+            ],
+            [
+              "2",
+              "[@patriciomacadden](https://github.com/patriciomacadden)/[**lazy_form**](https://github.com/patriciomacadden/lazy_form)",
+              "Forms for the rest of us, the lazy.",
+              ""
+            ],
+            [
+              "2",
+              "[@djanowski](https://github.com/djanowski)/[**ft**](https://github.com/djanowski/ft)",
+              "Low-level interface to Fusion Tables + CLI tool",
+              ""
+            ],
+            [
+              "2",
+              "[@gramos](https://github.com/gramos)/[**cf-vagrant-installer**](https://github.com/gramos/cf-vagrant-installer)",
+              "Vagrant installer for cloudfoundry ng",
+              ""
+            ],
+            [
+              "2",
+              "[@djanowski](https://github.com/djanowski)/[**selenium-rc**](https://github.com/djanowski/selenium-rc)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@ncuesta](https://github.com/ncuesta)/[**vh**](https://github.com/ncuesta/vh)",
+              "Virtual Hosts Manager CLI tool.",
+              "[:arrow_upper_right:](https://rubygems.org/gems/vh)"
+            ],
+            [
+              "2",
+              "[@alfredormz](https://github.com/alfredormz)/[**lmki**](https://github.com/alfredormz/lmki)",
+              "Minimalist timer inside the command-line terminal for macOS",
+              ""
+            ],
+            [
+              "2",
+              "[@djanowski](https://github.com/djanowski)/[**tti**](https://github.com/djanowski/tti)",
+              "Ruby (and Rails) text to image generation.",
+              ""
+            ],
+            [
+              "2",
+              "[@djanowski](https://github.com/djanowski)/[**par**](https://github.com/djanowski/par)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@inkel](https://github.com/inkel)/[**haproxy-mobile-front…**](https://github.com/inkel/haproxy-mobile-frontend)",
+              "Mobile frontend to HAProxy statistics",
               ""
             ]
           ]
