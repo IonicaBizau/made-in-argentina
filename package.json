@@ -47,7 +47,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -1602,6 +1603,441 @@
               "2",
               "[@woloski](https://github.com/woloski)/[**AspNetWebApiWithSubd…**](https://github.com/woloski/AspNetWebApiWithSubdomains)",
               "test repo to repro asp.net web api issue",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "385",
+              "[@nicolasjafelle](https://github.com/nicolasjafelle)/[**PagingListView**](https://github.com/nicolasjafelle/PagingListView)",
+              "PagingListView is a ListView with the ability to add more items on it when reaches the end of the list.",
+              ""
+            ],
+            [
+              "286",
+              "[@nicolasjafelle](https://github.com/nicolasjafelle)/[**PagingGridView**](https://github.com/nicolasjafelle/PagingGridView)",
+              "A Paging GridView with the same behavior as PagingListView.",
+              ""
+            ],
+            [
+              "256",
+              "[@nicolasjafelle](https://github.com/nicolasjafelle)/[**SherlockNavigationDr…**](https://github.com/nicolasjafelle/SherlockNavigationDrawer)",
+              "SherlockNavigationDrawer is the implementation of the latest Google UX component, Navigation Drawer. It should work exactly as Google Drive plus!! It works with ActionBarSherlock and devices with pre HC.",
+              ""
+            ],
+            [
+              "215",
+              "[@nicolasjafelle](https://github.com/nicolasjafelle)/[**ExpandableView**](https://github.com/nicolasjafelle/ExpandableView)",
+              "ExpandableView is a View showing only a content and when clicked on it, it displays more content in a fashion way",
+              ""
+            ],
+            [
+              "201",
+              "[@vcalvello](https://github.com/vcalvello)/[**SwipeToAction**](https://github.com/vcalvello/SwipeToAction)",
+              "An easy way to add a simple 'swipe-and-do-something' behavior to your `RecyclerView` items. Just like in Gmail or Inbox apps.",
+              ""
+            ],
+            [
+              "154",
+              "[@nicolasjafelle](https://github.com/nicolasjafelle)/[**RefreshMenuItem**](https://github.com/nicolasjafelle/RefreshMenuItem)",
+              "Menu item to show an indeterminate progress in the Android ActionBar.",
+              ""
+            ],
+            [
+              "137",
+              "[@nicolasjafelle](https://github.com/nicolasjafelle)/[**AndroidDemo**](https://github.com/nicolasjafelle/AndroidDemo)",
+              "Demo app to show how to start an Android App",
+              ""
+            ],
+            [
+              "88",
+              "[@zurche](https://github.com/zurche)/[**plain-pie**](https://github.com/zurche/plain-pie)",
+              "A simple plain pie chart widget fully customizable",
+              ""
+            ],
+            [
+              "88",
+              "[@fernandospr](https://github.com/fernandospr)/[**javapns-jdk16**](https://github.com/fernandospr/javapns-jdk16)",
+              "Apple Push Notification Service Provider for Java",
+              ""
+            ],
+            [
+              "74",
+              "[@nicolasjafelle](https://github.com/nicolasjafelle)/[**Qachee**](https://github.com/nicolasjafelle/Qachee)",
+              "Qachee is a generic cache system to use specially for Android Apps.",
+              ""
+            ],
+            [
+              "32",
+              "[@fernandospr](https://github.com/fernandospr)/[**spring-jetty-example**](https://github.com/fernandospr/spring-jetty-example)",
+              "Spring MVC 4 example application",
+              ""
+            ],
+            [
+              "31",
+              "[@sebacipolat](https://github.com/sebacipolat)/[**SuperStateView**](https://github.com/sebacipolat/SuperStateView)",
+              "An Android Library created to make easy the implementation of stateviews like empty states views, error messages,other.",
+              ""
+            ],
+            [
+              "31",
+              "[@BrianValente](https://github.com/BrianValente)/[**WAMOD**](https://github.com/BrianValente/WAMOD)",
+              "Android Studio project of WAMOD, a WhatsApp mod",
+              ""
+            ],
+            [
+              "25",
+              "[@nicolasjafelle](https://github.com/nicolasjafelle)/[**GoogleMapsV2Demo**](https://github.com/nicolasjafelle/GoogleMapsV2Demo)",
+              "Demo project of the Google Maps API v2 fully working in Android Studio!",
+              ""
+            ],
+            [
+              "25",
+              "[@fernandospr](https://github.com/fernandospr)/[**java-wns**](https://github.com/fernandospr/java-wns)",
+              "Java Service Provider to send push notifications to Windows 8/10 devices through WNS",
+              ""
+            ],
+            [
+              "15",
+              "[@emigonza](https://github.com/emigonza)/[**JavaPOS**](https://github.com/emigonza/JavaPOS)",
+              "JavaPOS Device Controls, Device Services and Events v1.13",
+              ""
+            ],
+            [
+              "12",
+              "[@EmmanuelMess](https://github.com/EmmanuelMess)/[**Simple-Accounting**](https://github.com/EmmanuelMess/Simple-Accounting)",
+              "Android app that helps you balance",
+              "[:arrow_upper_right:](https://play.google.com/store/apps/details?id=com.emmanuelmess.simpleaccounting)"
+            ],
+            [
+              "12",
+              "[@emigonza](https://github.com/emigonza)/[**POSdeviceSimulator**](https://github.com/emigonza/POSdeviceSimulator)",
+              "Simulator of JavaPOS devices. http://code.google.com/p/pos-device-simu…",
+              ""
+            ],
+            [
+              "11",
+              "[@emigonza](https://github.com/emigonza)/[**POStest**](https://github.com/emigonza/POStest)",
+              "Open Source project designed to give developers a GUI based utility for exercising POS devices using JavaPOS. http://postest.sourceforge.net/",
+              ""
+            ],
+            [
+              "10",
+              "[@gcorallo](https://github.com/gcorallo)/[**tallerProcessing**](https://github.com/gcorallo/tallerProcessing)",
+              "tallerProcessing",
+              ""
+            ],
+            [
+              "10",
+              "[@zurche](https://github.com/zurche)/[**beer-detector**](https://github.com/zurche/beer-detector)",
+              "An Android Beer Detector developed to test Google's Vision API",
+              "[:arrow_upper_right:](https://android.jlelse.eu/how-to-get-android-to-tell-if-your-beer-is-ok-yes-your-beer-a313b6c97a59)"
+            ],
+            [
+              "10",
+              "[@jcodagnone](https://github.com/jcodagnone)/[**jiolsucker**](https://github.com/jcodagnone/jiolsucker)",
+              "ITBAOnline Scrapper",
+              "[:arrow_upper_right:](http://www.leak.com.ar/~juan/code/jiol/)"
+            ],
+            [
+              "9",
+              "[@zurche](https://github.com/zurche)/[**open-weather-map-and…**](https://github.com/zurche/open-weather-map-android-wrapper)",
+              "An API wrapper of OpenWeatherMap.org for Android",
+              ""
+            ],
+            [
+              "7",
+              "[@zurche](https://github.com/zurche)/[**mvp-firebase**](https://github.com/zurche/mvp-firebase)",
+              "This project demonstrates how to setup a project to use a firebase database using Model View Presenter & Interactors architecture.",
+              ""
+            ],
+            [
+              "7",
+              "[@amouly](https://github.com/amouly)/[**scrolltricks**](https://github.com/amouly/scrolltricks)",
+              "ScrollTricks Android example for Android Studio",
+              ""
+            ],
+            [
+              "7",
+              "[@nicolasjafelle](https://github.com/nicolasjafelle)/[**AndroidOrmLiteDemo**](https://github.com/nicolasjafelle/AndroidOrmLiteDemo)",
+              "This is a demo to show how powerfull and easy ORMLite could be.",
+              ""
+            ],
+            [
+              "7",
+              "[@benoffi7](https://github.com/benoffi7)/[**cursoAndroidUTN**](https://github.com/benoffi7/cursoAndroidUTN)",
+              "Curso Android UTN",
+              ""
+            ],
+            [
+              "6",
+              "[@patriotaSJ](https://github.com/patriotaSJ)/[**LeerComentariosDBRem…**](https://github.com/patriotaSJ/LeerComentariosDBRemota2)",
+              "accedemos a una base de datos remota",
+              ""
+            ],
+            [
+              "6",
+              "[@nicolasjafelle](https://github.com/nicolasjafelle)/[**AndroidCastDemo**](https://github.com/nicolasjafelle/AndroidCastDemo)",
+              "Android Studio project of the \"cast-android-tictactoe\".",
+              ""
+            ],
+            [
+              "6",
+              "[@111milprogramadores](https://github.com/111milprogramadores)/[**01-cine**](https://github.com/111milprogramadores/01-cine)",
+              "Ejercicio 1 de Programación Orientada a Objetos y Bases de Datos",
+              ""
+            ],
+            [
+              "6",
+              "[@fernandospr](https://github.com/fernandospr)/[**android-overlay-dial…**](https://github.com/fernandospr/android-overlay-dialog)",
+              "A customizable dialog shown on top of the window",
+              ""
+            ],
+            [
+              "5",
+              "[@nicolasjafelle](https://github.com/nicolasjafelle)/[**HoloForFroyo**](https://github.com/nicolasjafelle/HoloForFroyo)",
+              "Holo for Froyo",
+              ""
+            ],
+            [
+              "5",
+              "[@patriotaSJ](https://github.com/patriotaSJ)/[**LoginBDRemote**](https://github.com/patriotaSJ/LoginBDRemote)",
+              "Es una aplicación de Android que se conecta con una base de datos remota para hacer un simple LOGIN",
+              ""
+            ],
+            [
+              "5",
+              "[@patriotaSJ](https://github.com/patriotaSJ)/[**MenuLateralSlide**](https://github.com/patriotaSJ/MenuLateralSlide)",
+              "menu lateral personalizado",
+              ""
+            ],
+            [
+              "4",
+              "[@champo](https://github.com/champo)/[**TPE-PAW**](https://github.com/champo/TPE-PAW)",
+              "Trabajo practico especial para Proyectos de Aplicacion Web",
+              ""
+            ],
+            [
+              "4",
+              "[@emigonza](https://github.com/emigonza)/[**UnicentaPOS**](https://github.com/emigonza/UnicentaPOS)",
+              "Unicenta POS 2.80 - Based on Openbravo POS",
+              ""
+            ],
+            [
+              "4",
+              "[@xmarianox](https://github.com/xmarianox)/[**Subte.io**](https://github.com/xmarianox/Subte.io)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@groldan](https://github.com/groldan)/[**geoserver_trunk**](https://github.com/groldan/geoserver_trunk)",
+              "Clone of the GeoServer central subversion trunk branch",
+              "[:arrow_upper_right:](http://geoserver.org)"
+            ],
+            [
+              "4",
+              "[@patriotaSJ](https://github.com/patriotaSJ)/[**Bluetooth**](https://github.com/patriotaSJ/Bluetooth)",
+              "Conexion arduino con android",
+              ""
+            ],
+            [
+              "4",
+              "[@patriotaSJ](https://github.com/patriotaSJ)/[**ProyectoTuristico-ma…**](https://github.com/patriotaSJ/ProyectoTuristico-master)",
+              "listview viewpager turismo completo ",
+              ""
+            ],
+            [
+              "3",
+              "[@Fersca](https://github.com/Fersca)/[**Mercadolibre-API-Dem…**](https://github.com/Fersca/Mercadolibre-API-Demo)",
+              "Mercadolibre-API-Demo in order that you can do a copy & paste and create your own ML-API Application",
+              "[:arrow_upper_right:](http://api-demo-web.appspot.com/)"
+            ],
+            [
+              "3",
+              "[@amouly](https://github.com/amouly)/[**foscam-android-sdk-e…**](https://github.com/amouly/foscam-android-sdk-example)",
+              "Android app using Foscam SDK",
+              ""
+            ],
+            [
+              "3",
+              "[@leonardxfce](https://github.com/leonardxfce)/[**9024-XP**](https://github.com/leonardxfce/9024-XP)",
+              "Practica de XP segundo año ies 9024",
+              ""
+            ],
+            [
+              "3",
+              "[@nicolasjafelle](https://github.com/nicolasjafelle)/[**GalleryCameraDemo**](https://github.com/nicolasjafelle/GalleryCameraDemo)",
+              "Example of Gallery and camera image/file pick up",
+              ""
+            ],
+            [
+              "3",
+              "[@zurche](https://github.com/zurche)/[**osm-droid-example**](https://github.com/zurche/osm-droid-example)",
+              "This project is to understand how OSMDroid maps functionality is implemented in an Android Studio Gradle Android project.",
+              ""
+            ],
+            [
+              "3",
+              "[@sebasjm](https://github.com/sebasjm)/[**antlr**](https://github.com/sebasjm/antlr)",
+              "A mirror of ANTLR project repository",
+              "[:arrow_upper_right:](http://antlr.org/)"
+            ],
+            [
+              "2",
+              "[@zurche](https://github.com/zurche)/[**color-weather**](https://github.com/zurche/color-weather)",
+              "A location based weather app for Android.",
+              ""
+            ],
+            [
+              "2",
+              "[@emigonza](https://github.com/emigonza)/[**SmartPOSERPExtension**](https://github.com/emigonza/SmartPOSERPExtension)",
+              "Smart POS ERP Extension",
+              ""
+            ],
+            [
+              "2",
+              "[@emigonza](https://github.com/emigonza)/[**jpfbatch**](https://github.com/emigonza/jpfbatch)",
+              "JPFBatch es un clon de la utilidad pfbatch.exe de epson escrito en java",
+              ""
+            ],
+            [
+              "2",
+              "[@emigonza](https://github.com/emigonza)/[**UnicentaPOS302**](https://github.com/emigonza/UnicentaPOS302)",
+              "UnicentaPOS 3.0.2",
+              ""
+            ],
+            [
+              "2",
+              "[@emigonza](https://github.com/emigonza)/[**SmartPOSERPCustomiza…**](https://github.com/emigonza/SmartPOSERPCustomization)",
+              "SmartPOS ERP Customization",
+              ""
+            ],
+            [
+              "2",
+              "[@emigonza](https://github.com/emigonza)/[**UnicentaPOS_AD**](https://github.com/emigonza/UnicentaPOS_AD)",
+              "UnicentaPOS sincronized with ADempiere",
+              ""
+            ],
+            [
+              "2",
+              "[@jcodagnone](https://github.com/jcodagnone)/[**openkraken**](https://github.com/jcodagnone/openkraken)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@gcorallo](https://github.com/gcorallo)/[**LUT_1D**](https://github.com/gcorallo/LUT_1D)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@Fersca](https://github.com/Fersca)/[**Neuroph**](https://github.com/Fersca/Neuroph)",
+              "Neuroph artificial neural network implementation for color detection",
+              ""
+            ],
+            [
+              "2",
+              "[@champo](https://github.com/champo)/[**dUta**](https://github.com/champo/dUta)",
+              "Special assigment for Communication Protocols at ITBA",
+              ""
+            ],
+            [
+              "2",
+              "[@Fersca](https://github.com/Fersca)/[**MercadoLibre**](https://github.com/Fersca/MercadoLibre)",
+              "Problemas de programación - Mercadolibre",
+              ""
+            ],
+            [
+              "2",
+              "[@emigonza](https://github.com/emigonza)/[**OpenBravoPOS**](https://github.com/emigonza/OpenBravoPOS)",
+              "Open Bravo POS for SmartPOS Adempiere",
+              ""
+            ],
+            [
+              "2",
+              "[@fernandospr](https://github.com/fernandospr)/[**android-maps-userloc…**](https://github.com/fernandospr/android-maps-userlocation)",
+              "Demonstrates how to use maps and the current user location",
+              ""
+            ],
+            [
+              "2",
+              "[@delucas](https://github.com/delucas)/[**2011-LenguajeDeProgr…**](https://github.com/delucas/2011-LenguajeDeProgramacion1)",
+              "Sitio con trabajos de alumnos, de clase, y en general, de la materia de la UNTreF (Argentina)",
+              ""
+            ],
+            [
+              "2",
+              "[@fernandospr](https://github.com/fernandospr)/[**android-groups-recyc…**](https://github.com/fernandospr/android-groups-recyclerview-adapter)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@delucas](https://github.com/delucas)/[**UNTreF-LP1**](https://github.com/delucas/UNTreF-LP1)",
+              "Proyecto con los ejemplos de clase de Lenguaje de Programación 1, UNTreF",
+              ""
+            ],
+            [
+              "2",
+              "[@lbalmaceda](https://github.com/lbalmaceda)/[**libgdx_flappy**](https://github.com/lbalmaceda/libgdx_flappy)",
+              "FlappyBirds Demo from a libgdx tutorial",
+              ""
+            ],
+            [
+              "2",
+              "[@111milprogramadores](https://github.com/111milprogramadores)/[**CertificacionInstruc…**](https://github.com/111milprogramadores/CertificacionInstructores)",
+              "Material para la Certificación de Instructores",
+              ""
+            ],
+            [
+              "2",
+              "[@sebacipolat](https://github.com/sebacipolat)/[**Squire**](https://github.com/sebacipolat/Squire)",
+              "An Android news reader example app, using The Guardian API. Is a good example of a basic app with MVP + Retrofit +RXJava+ Picasso + ButterKnife + Material Design",
+              "[:arrow_upper_right:](https://play.google.com/store/apps/details?id=com.cipolat.news)"
+            ],
+            [
+              "2",
+              "[@111milprogramadores](https://github.com/111milprogramadores)/[**02-pizzeria**](https://github.com/111milprogramadores/02-pizzeria)",
+              "Ejercicio 2 de Programación Orientada a Objetos y Bases de Datos",
+              ""
+            ],
+            [
+              "2",
+              "[@frapeti](https://github.com/frapeti)/[**DeviceSettings**](https://github.com/frapeti/DeviceSettings)",
+              "CyanogenMod Device Settings ported to Stock ROMs",
+              ""
+            ],
+            [
+              "2",
+              "[@zurche](https://github.com/zurche)/[**partify**](https://github.com/zurche/partify)",
+              "Application intended to be used in parties to ease and share the process of choossing the party music.",
+              ""
+            ],
+            [
+              "2",
+              "[@patriotaSJ](https://github.com/patriotaSJ)/[**Sqlite**](https://github.com/patriotaSJ/Sqlite)",
+              "utilizamos una bd local con sqlite",
+              ""
+            ],
+            [
+              "2",
+              "[@delucas](https://github.com/delucas)/[**java-warrior**](https://github.com/delucas/java-warrior)",
+              "juego educativo para programadores, basado en el ruby-warrior",
               ""
             ]
           ]
