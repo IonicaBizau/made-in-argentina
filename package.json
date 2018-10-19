@@ -39,5 +39,1574 @@
   },
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-argentina/issues"
+  },
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": [
+          "[JavaScript](#javascript)"
+        ]
+      },
+      {
+        "h3": "JavaScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "8169",
+              "[@mgonto](https://github.com/mgonto)/[**restangular**](https://github.com/mgonto/restangular)",
+              "AngularJS service to handle Rest API Restful Resources properly and easily",
+              ""
+            ],
+            [
+              "6297",
+              "[@cazala](https://github.com/cazala)/[**synaptic**](https://github.com/cazala/synaptic)",
+              "architecture-free neural network library for node.js and the browser",
+              "[:arrow_upper_right:](http://caza.la/synaptic)"
+            ],
+            [
+              "3337",
+              "[@flesler](https://github.com/flesler)/[**jquery.scrollTo**](https://github.com/flesler/jquery.scrollTo)",
+              "Lightweight, cross-browser and highly customizable animated scrolling with jQuery",
+              "[:arrow_upper_right:](http://demos.flesler.com/jquery/scrollTo/)"
+            ],
+            [
+              "1708",
+              "[@cazala](https://github.com/cazala)/[**coin-hive**](https://github.com/cazala/coin-hive)",
+              "CoinHive cryptocurrency miner for node.js",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/coin-hive)"
+            ],
+            [
+              "693",
+              "[@leoasis](https://github.com/leoasis)/[**redux-immutable-stat…**](https://github.com/leoasis/redux-immutable-state-invariant)",
+              "Redux middleware that detects mutations between and outside redux dispatches. For development use only.",
+              ""
+            ],
+            [
+              "650",
+              "[@mgonto](https://github.com/mgonto)/[**angularytics**](https://github.com/mgonto/angularytics)",
+              "The solution to tracking page views and events in a SPA with AngularJS",
+              ""
+            ],
+            [
+              "647",
+              "[@elmasse](https://github.com/elmasse)/[**nextein**](https://github.com/elmasse/nextein)",
+              "A static site generator with markdown + react for Next.js",
+              "[:arrow_upper_right:](https://nextein.now.sh)"
+            ],
+            [
+              "626",
+              "[@rickyrauch](https://github.com/rickyrauch)/[**nodejs-starter**](https://github.com/rickyrauch/nodejs-starter)",
+              "Single Page App setup using industry's best practices and modules. Node.js, Express, Mongoose, passport.js, component.io, Jade, Stylus and Bootstrap.",
+              "[:arrow_upper_right:](http://nodejs-starter.herokuapp.com)"
+            ],
+            [
+              "619",
+              "[@flesler](https://github.com/flesler)/[**jquery.localScroll**](https://github.com/flesler/jquery.localScroll)",
+              "Animated anchor navigation made easy with jQuery",
+              "[:arrow_upper_right:](http://demos.flesler.com/jquery/localScroll/)"
+            ],
+            [
+              "610",
+              "[@alcuadrado](https://github.com/alcuadrado)/[**hieroglyphy**](https://github.com/alcuadrado/hieroglyphy)",
+              "Transform any javascript code to an equivalent sequence of ()[]{}!+ characters that runs in the browser!",
+              "[:arrow_upper_right:](http://patriciopalladino.com/blog/2012/08/09/non-alphanumeric-javascript.html)"
+            ],
+            [
+              "606",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**passport.socketio**](https://github.com/jfromaniello/passport.socketio)",
+              "access passport.js authenticated user information from socket.io connection",
+              ""
+            ],
+            [
+              "523",
+              "[@pazguille](https://github.com/pazguille)/[**voix**](https://github.com/pazguille/voix)",
+              ":loudspeaker: A JavaScript library to add voice commands to your sites, apps or games.",
+              "[:arrow_upper_right:](http://pazguille.github.io/voix/)"
+            ],
+            [
+              "522",
+              "[@pazguille](https://github.com/pazguille)/[**viewport**](https://github.com/pazguille/viewport)",
+              ":computer: Gets the dimensions of the Viewport and beyond.",
+              ""
+            ],
+            [
+              "388",
+              "[@pazguille](https://github.com/pazguille)/[**aload**](https://github.com/pazguille/aload)",
+              "Loads images, background images, scripts, styles, iframes, videos and audios asynchronously (just 241 bytes).",
+              "[:arrow_upper_right:](http://pazguille.github.io/aload/)"
+            ],
+            [
+              "310",
+              "[@flesler](https://github.com/flesler)/[**hashmap**](https://github.com/flesler/hashmap)",
+              "HashMap JavaScript class for Node.js and the browser. The keys can be anything and won't be stringified",
+              ""
+            ],
+            [
+              "297",
+              "[@pazguille](https://github.com/pazguille)/[**flipload**](https://github.com/pazguille/flipload)",
+              "Flipping elements and show a loading indicator easily.",
+              "[:arrow_upper_right:](http://pazguille.github.io/flipload/)"
+            ],
+            [
+              "284",
+              "[@leoasis](https://github.com/leoasis)/[**react-sound**](https://github.com/leoasis/react-sound)",
+              "Sound component to play audio in your web apps",
+              ""
+            ],
+            [
+              "263",
+              "[@impronunciable](https://github.com/impronunciable)/[**moviedb**](https://github.com/impronunciable/moviedb)",
+              "MovieDB API node.js Library",
+              ""
+            ],
+            [
+              "233",
+              "[@cazala](https://github.com/cazala)/[**shoal**](https://github.com/cazala/shoal)",
+              "autonomous agents + genetic algorithms ",
+              "[:arrow_upper_right:](http://caza.la/shoal/)"
+            ],
+            [
+              "227",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**winser**](https://github.com/jfromaniello/winser)",
+              "Run a node.js application as a window service using nssm.",
+              ""
+            ],
+            [
+              "220",
+              "[@pazguille](https://github.com/pazguille)/[**scrolling**](https://github.com/pazguille/scrolling)",
+              "[DEPRECATED: You should use https://github.com/pazguille/decouple] Decouple the scroll event from the callback functions.",
+              "[:arrow_upper_right:](http://pazguille.github.io/scrolling/)"
+            ],
+            [
+              "182",
+              "[@flesler](https://github.com/flesler)/[**jquery.serialScroll**](https://github.com/flesler/jquery.serialScroll)",
+              "Animated scrolling of series with jQuery",
+              "[:arrow_upper_right:](http://demos.flesler.com/jquery/serialScroll/)"
+            ],
+            [
+              "175",
+              "[@impronunciable](https://github.com/impronunciable)/[**Tuiter**](https://github.com/impronunciable/Tuiter)",
+              "Twitter API lib for nodejs",
+              ""
+            ],
+            [
+              "164",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**url-join**](https://github.com/jfromaniello/url-join)",
+              "Join all arguments together and normalize the resulting url.",
+              ""
+            ],
+            [
+              "157",
+              "[@cazala](https://github.com/cazala)/[**mnist**](https://github.com/cazala/mnist)",
+              "mnist digits in javascript",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/mnist)"
+            ],
+            [
+              "151",
+              "[@leoasis](https://github.com/leoasis)/[**graphql-tag.macro**](https://github.com/leoasis/graphql-tag.macro)",
+              "Babel Macro for graphql-tag",
+              ""
+            ],
+            [
+              "150",
+              "[@cazala](https://github.com/cazala)/[**react-coin-hive**](https://github.com/cazala/react-coin-hive)",
+              "Mine cryptocurrency while your users haven't engaged with your content lately",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/react-coin-hive)"
+            ],
+            [
+              "150",
+              "[@mgonto](https://github.com/mgonto)/[**mgo-mousetrap**](https://github.com/mgonto/mgo-mousetrap)",
+              "Handling keyboard interaction on an Angular app: An Angular Mousetrap wrapper",
+              ""
+            ],
+            [
+              "146",
+              "[@pazguille](https://github.com/pazguille)/[**shuffle-array**](https://github.com/pazguille/shuffle-array)",
+              "Randomize the order of the elements in a given array for the browser and node.js.",
+              "[:arrow_upper_right:](http://pazguille.github.io/shuffle-array/)"
+            ],
+            [
+              "137",
+              "[@pazguille](https://github.com/pazguille)/[**is-near**](https://github.com/pazguille/is-near)",
+              " Calculates if the mouse position is near to a given element.",
+              "[:arrow_upper_right:](http://pazguille.github.io/is-near/)"
+            ],
+            [
+              "107",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**express-unless**](https://github.com/jfromaniello/express-unless)",
+              "Conditionally add a middleware to express with some common patterns",
+              ""
+            ],
+            [
+              "90",
+              "[@pazguille](https://github.com/pazguille)/[**sticky**](https://github.com/pazguille/sticky)",
+              "Stick elements to the top of the viewport when the user scrolls down.",
+              "[:arrow_upper_right:](http://pazguille.github.io/sticky/)"
+            ],
+            [
+              "78",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**selfsigned**](https://github.com/jfromaniello/selfsigned)",
+              "Generate self-signed certificates from node.js",
+              ""
+            ],
+            [
+              "73",
+              "[@flesler](https://github.com/flesler)/[**config-node**](https://github.com/flesler/config-node)",
+              "Flexible lightweight configuration loader for Node",
+              ""
+            ],
+            [
+              "63",
+              "[@elmasse](https://github.com/elmasse)/[**Ext.ux.Cover**](https://github.com/elmasse/Ext.ux.Cover)",
+              "Coverflow implementation for Sencha Touch",
+              "[:arrow_upper_right:](http://elmasse.github.com/Ext.ux.Cover)"
+            ],
+            [
+              "61",
+              "[@impronunciable](https://github.com/impronunciable)/[**hackdash**](https://github.com/impronunciable/hackdash)",
+              "Ideas for a hackathon",
+              "[:arrow_upper_right:](http://hackdash.org)"
+            ],
+            [
+              "57",
+              "[@pazguille](https://github.com/pazguille)/[**clicktap**](https://github.com/pazguille/clicktap)",
+              "A JavaScript library to prevent the 300ms click delay on touch devices (just 736 bytes).",
+              "[:arrow_upper_right:](http://pazguille.github.io/clicktap/)"
+            ],
+            [
+              "53",
+              "[@mgonto](https://github.com/mgonto)/[**mgo-ui-router-goto**](https://github.com/mgonto/mgo-ui-router-goto)",
+              "A directive for ui-router that lets you link to states instead of URLs",
+              ""
+            ],
+            [
+              "51",
+              "[@mgonto](https://github.com/mgonto)/[**meaner-seed**](https://github.com/mgonto/meaner-seed)",
+              "A better organised, more complete and updated MEAN seed",
+              ""
+            ],
+            [
+              "49",
+              "[@pazguille](https://github.com/pazguille)/[**jvent**](https://github.com/pazguille/jvent)",
+              "An universal JavaScript Emitter based on NodeJS EventEmitter.",
+              ""
+            ],
+            [
+              "48",
+              "[@leoasis](https://github.com/leoasis)/[**workshop-pensando-en…**](https://github.com/leoasis/workshop-pensando-en-react)",
+              "Workshop introductorio a React",
+              "[:arrow_upper_right:](https://leoasis.github.io/workshop-pensando-en-react/)"
+            ],
+            [
+              "47",
+              "[@pazguille](https://github.com/pazguille)/[**decouple**](https://github.com/pazguille/decouple)",
+              "Decouple the DOM events from expensive functions.",
+              ""
+            ],
+            [
+              "45",
+              "[@fernandezpablo85](https://github.com/fernandezpablo85)/[**Xb**](https://github.com/fernandezpablo85/Xb)",
+              "a simple js library for backoff callbacks",
+              ""
+            ],
+            [
+              "45",
+              "[@jorgeucano](https://github.com/jorgeucano)/[**30DiasConRxJS**](https://github.com/jorgeucano/30DiasConRxJS)",
+              "https://medium.com/@jorgeucano/30-d%C3%A…",
+              ""
+            ],
+            [
+              "44",
+              "[@federicobond](https://github.com/federicobond)/[**solidity-parser-antl…**](https://github.com/federicobond/solidity-parser-antlr)",
+              "A Solidity parser for JS built on top of a robust ANTLR4 grammar",
+              ""
+            ],
+            [
+              "43",
+              "[@flesler](https://github.com/flesler)/[**node-spider**](https://github.com/flesler/node-spider)",
+              "Generic web crawler powered by NodeJS",
+              ""
+            ],
+            [
+              "41",
+              "[@cristiandouce](https://github.com/cristiandouce)/[**mongoose-voting**](https://github.com/cristiandouce/mongoose-voting)",
+              "Mongoose plugin for upvote/downvote models. Extends Mongoose model with voting functionality.",
+              ""
+            ],
+            [
+              "39",
+              "[@leoasis](https://github.com/leoasis)/[**graphql-persisted-do…**](https://github.com/leoasis/graphql-persisted-document-loader)",
+              "Webpack loader that adds a documentId to a compiled graphql document, which can be used when persisting/retrieving documents",
+              ""
+            ],
+            [
+              "36",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**node-gpstracker**](https://github.com/jfromaniello/node-gpstracker)",
+              "server library for a GPS / GPRS tracker",
+              ""
+            ],
+            [
+              "36",
+              "[@mgonto](https://github.com/mgonto)/[**gulp-browserify-libr…**](https://github.com/mgonto/gulp-browserify-library-seed)",
+              "This is a seed (kickstarter) project to create your own library which will use Browserify and Gulp",
+              ""
+            ],
+            [
+              "34",
+              "[@pazguille](https://github.com/pazguille)/[**musique**](https://github.com/pazguille/musique)",
+              ":musical_note: A JavaScript Music Player API to create custom players.",
+              "[:arrow_upper_right:](http://pazguille.github.io/musique)"
+            ],
+            [
+              "34",
+              "[@ianaya89](https://github.com/ianaya89)/[**vue-sticky-js**](https://github.com/ianaya89/vue-sticky-js)",
+              "Vue.js directive to make sticky elements built on sticky-js",
+              "[:arrow_upper_right:](https://ianaya89.github.io/vue-sticky-js)"
+            ],
+            [
+              "33",
+              "[@elmasse](https://github.com/elmasse)/[**elmasse-bundle**](https://github.com/elmasse/elmasse-bundle)",
+              "[UNMAINTAINED] A Resource bundle implementation for ExtJS",
+              ""
+            ],
+            [
+              "32",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**li**](https://github.com/jfromaniello/li)",
+              "JavaScript utility to parse and generate the Link header according to RFC 5988.",
+              ""
+            ],
+            [
+              "31",
+              "[@pazguille](https://github.com/pazguille)/[**path**](https://github.com/pazguille/path)",
+              "Simple routing library using HTML5 history.pushState or hashbang for web browsers.",
+              ""
+            ],
+            [
+              "31",
+              "[@ianaya89](https://github.com/ianaya89)/[**generator-vue-compon…**](https://github.com/ianaya89/generator-vue-component)",
+              "📦 Yeoman generator to build your own Vue.js components",
+              ""
+            ],
+            [
+              "31",
+              "[@federicobond](https://github.com/federicobond)/[**eth-mutants**](https://github.com/federicobond/eth-mutants)",
+              "👾 A mutation testing tool for Solidity contracts",
+              ""
+            ],
+            [
+              "31",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**zero-downtime-node**](https://github.com/jfromaniello/zero-downtime-node)",
+              "",
+              ""
+            ],
+            [
+              "29",
+              "[@cazala](https://github.com/cazala)/[**donger**](https://github.com/cazala/donger)",
+              "npm package to generate dongers ヽ༼ຈل͜ຈ༽ﾉ",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/donger)"
+            ],
+            [
+              "29",
+              "[@woloski](https://github.com/woloski)/[**nodeonazure-blog**](https://github.com/woloski/nodeonazure-blog)",
+              "Node on Azure blog based on wheat",
+              ""
+            ],
+            [
+              "28",
+              "[@ianaya89](https://github.com/ianaya89)/[**vue-glitch**](https://github.com/ianaya89/vue-glitch)",
+              "👻 Vue.js component to apply glitch effect in any kind of text",
+              "[:arrow_upper_right:](https://ianaya89.github.io/vue-glitch)"
+            ],
+            [
+              "28",
+              "[@pazguille](https://github.com/pazguille)/[**async-img**](https://github.com/pazguille/async-img)",
+              "[DEPRECATED: You should use https://github.com/pazguille/aload] Asynchronous Image Loader.",
+              "[:arrow_upper_right:](http://pazguille.github.io/async-img/)"
+            ],
+            [
+              "27",
+              "[@federicobond](https://github.com/federicobond)/[**solcheck**](https://github.com/federicobond/solcheck)",
+              "A Solidity linter written in JS",
+              ""
+            ],
+            [
+              "26",
+              "[@ianaya89](https://github.com/ianaya89)/[**vue-esc**](https://github.com/ianaya89/vue-esc)",
+              ":running: Vue.js directive to add a document event listener on escape keyup.",
+              ""
+            ],
+            [
+              "24",
+              "[@pazguille](https://github.com/pazguille)/[**upfile**](https://github.com/pazguille/upfile)",
+              "Makes file inputs a pleasure to use with progressive enhancement.",
+              "[:arrow_upper_right:](http://pazguille.github.io/upfile/)"
+            ],
+            [
+              "23",
+              "[@prigazzi](https://github.com/prigazzi)/[**slider-jquery**](https://github.com/prigazzi/slider-jquery)",
+              "Mejorando el Slider - Un tutorial de jQuery",
+              ""
+            ],
+            [
+              "23",
+              "[@leoasis](https://github.com/leoasis)/[**makery.js**](https://github.com/leoasis/makery.js)",
+              "Factory-style (via blueprints) object creation for tests. Inspired by Ruby Machinist.",
+              ""
+            ],
+            [
+              "23",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**passport-hawk**](https://github.com/jfromaniello/passport-hawk)",
+              "Passport strategy for the Hawk authentication schema.",
+              ""
+            ],
+            [
+              "23",
+              "[@elmasse](https://github.com/elmasse)/[**Ext.i18n.Bundle-touc…**](https://github.com/elmasse/Ext.i18n.Bundle-touch)",
+              "Bundle implementation for Sencha Touch",
+              ""
+            ],
+            [
+              "22",
+              "[@mgonto](https://github.com/mgonto)/[**angular-ux**](https://github.com/mgonto/angular-ux)",
+              "A library that helps you create live, navigable prototypes with the help of AngularJS but without having to learn how to code ;). DESIGNERS, I'm looking at you!",
+              "[:arrow_upper_right:](http://gon.to/)"
+            ],
+            [
+              "19",
+              "[@pazguille](https://github.com/pazguille)/[**selfstorage**](https://github.com/pazguille/selfstorage)",
+              "Library for caching JavaScript resources in the localStorage.",
+              ""
+            ],
+            [
+              "19",
+              "[@federicobond](https://github.com/federicobond)/[**soli**](https://github.com/federicobond/soli)",
+              "A set of utilities (currently in alpha) for exploring Solidity contracts ",
+              ""
+            ],
+            [
+              "19",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**refresh-token**](https://github.com/jfromaniello/refresh-token)",
+              "Helper to get a valid oauth 2 token given a refresh token.",
+              ""
+            ],
+            [
+              "18",
+              "[@a0viedo](https://github.com/a0viedo)/[**can-you-tell-if-your…**](https://github.com/a0viedo/can-you-tell-if-your-node-app-is-healthy)",
+              "",
+              ""
+            ],
+            [
+              "18",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**node-windows-certs**](https://github.com/jfromaniello/node-windows-certs)",
+              "Get certificates from the windows cert store from node.js",
+              ""
+            ],
+            [
+              "18",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**npm-install-retry**](https://github.com/jfromaniello/npm-install-retry)",
+              "Command line utility that retries  `npm install` when NPM fails with `npm ERR! cb() never called`",
+              ""
+            ],
+            [
+              "17",
+              "[@leoasis](https://github.com/leoasis)/[**fnky**](https://github.com/leoasis/fnky)",
+              "A funky (and \"souly\"?) library for functional programming in Javascript",
+              ""
+            ],
+            [
+              "17",
+              "[@eordano](https://github.com/eordano)/[**sherlock**](https://github.com/eordano/sherlock)",
+              "A wallet for the Bitcoin connoisseur",
+              ""
+            ],
+            [
+              "17",
+              "[@pazguille](https://github.com/pazguille)/[**CORS**](https://github.com/pazguille/CORS)",
+              "Simple and tiny CORS component",
+              ""
+            ],
+            [
+              "17",
+              "[@matiu](https://github.com/matiu)/[**dolar-blue**](https://github.com/matiu/dolar-blue)",
+              "Client for the Dolar blue API in nodejs",
+              ""
+            ],
+            [
+              "16",
+              "[@flesler](https://github.com/flesler)/[**parallel**](https://github.com/flesler/parallel)",
+              "CLI tool to execute shell commands in parallel, based on GNU parallel command",
+              ""
+            ],
+            [
+              "16",
+              "[@flesler](https://github.com/flesler)/[**jquery.rule**](https://github.com/flesler/jquery.rule)",
+              "",
+              ""
+            ],
+            [
+              "16",
+              "[@pazguille](https://github.com/pazguille)/[**camera-action**](https://github.com/pazguille/camera-action)",
+              ":camera: Camera-action is a component to ease camera (getusermedia) management.",
+              ""
+            ],
+            [
+              "16",
+              "[@elmasse](https://github.com/elmasse)/[**hyper-markdown-previ…**](https://github.com/elmasse/hyper-markdown-preview)",
+              "Preview Markdown files right from your Hyper Terminal!",
+              ""
+            ],
+            [
+              "15",
+              "[@retrofox](https://github.com/retrofox)/[**calendar-tools**](https://github.com/retrofox/calendar-tools)",
+              "Calendar Tools",
+              ""
+            ],
+            [
+              "15",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**parse-links**](https://github.com/jfromaniello/parse-links)",
+              "Parse a Links header into a JavaScript object.",
+              ""
+            ],
+            [
+              "15",
+              "[@pazguille](https://github.com/pazguille)/[**euclidean**](https://github.com/pazguille/euclidean)",
+              "Calculates the distance between two points.",
+              "[:arrow_upper_right:](http://pazguille.github.io/euclidean/)"
+            ],
+            [
+              "14",
+              "[@cazala](https://github.com/cazala)/[**haha**](https://github.com/cazala/haha)",
+              "humorous javascript obfuscation tool",
+              "[:arrow_upper_right:](http://juancazala.com/haha)"
+            ],
+            [
+              "14",
+              "[@flesler](https://github.com/flesler)/[**uver-cli**](https://github.com/flesler/uver-cli)",
+              "CLI for uver, bump the version on package.json and other files",
+              ""
+            ],
+            [
+              "14",
+              "[@germancutraro](https://github.com/germancutraro)/[**Mei.js**](https://github.com/germancutraro/Mei.js)",
+              "a minimal, simple and helpful library for you",
+              "[:arrow_upper_right:](https://germancutraro.github.io/Meijs/)"
+            ],
+            [
+              "13",
+              "[@Villanuevand](https://github.com/Villanuevand)/[**openve-cli**](https://github.com/Villanuevand/openve-cli)",
+              "📡 Localiza las comunidades tecnológicas de Venezuela 🇻🇪 que hacen vida en Telegram reconocidas por OpenVE.",
+              ""
+            ],
+            [
+              "13",
+              "[@pazguille](https://github.com/pazguille)/[**emitter-es6**](https://github.com/pazguille/emitter-es6)",
+              "A JavaScript Emitter written in ES6.",
+              ""
+            ],
+            [
+              "13",
+              "[@pazguille](https://github.com/pazguille)/[**mediumjs**](https://github.com/pazguille/mediumjs)",
+              "A small library that implements the Mediator Pattern in JavaScript.",
+              ""
+            ],
+            [
+              "13",
+              "[@cazala](https://github.com/cazala)/[**react-redux-perf**](https://github.com/cazala/react-redux-perf)",
+              "Performance Engineering with React + Redux",
+              ""
+            ],
+            [
+              "12",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**mongo-getdb**](https://github.com/jfromaniello/mongo-getdb)",
+              "A very opinionated way to connect with the mongodb driver.",
+              ""
+            ],
+            [
+              "12",
+              "[@flesler](https://github.com/flesler)/[**connect-pause**](https://github.com/flesler/connect-pause)",
+              "Connect/Express middleware to simulate latency for debugging",
+              ""
+            ],
+            [
+              "12",
+              "[@pazguille](https://github.com/pazguille)/[**gloomy**](https://github.com/pazguille/gloomy)",
+              "A simple and semantic substitution template engine for the browser :[",
+              "[:arrow_upper_right:](http://pazguille.github.io/gloomy)"
+            ],
+            [
+              "12",
+              "[@leoasis](https://github.com/leoasis)/[**react-style-hot-relo…**](https://github.com/leoasis/react-style-hot-reload)",
+              "Exploring how to make react-style work with HMR and react-hot-loader",
+              ""
+            ],
+            [
+              "12",
+              "[@retrofox](https://github.com/retrofox)/[**datatable**](https://github.com/retrofox/datatable)",
+              "DataTable component",
+              ""
+            ],
+            [
+              "12",
+              "[@ianaya89](https://github.com/ianaya89)/[**vue-i18n-directives**](https://github.com/ianaya89/vue-i18n-directives)",
+              "🎏 Helper directives for vue & vue-i18n",
+              ""
+            ],
+            [
+              "11",
+              "[@pazguille](https://github.com/pazguille)/[**editable-plugin**](https://github.com/pazguille/editable-plugin)",
+              "Simple and tiny in-place Editor",
+              ""
+            ],
+            [
+              "11",
+              "[@lortmorris](https://github.com/lortmorris)/[**curso.nodejs.eduit**](https://github.com/lortmorris/curso.nodejs.eduit)",
+              "Curso Node.js, EducacionIT. Powered by César Casas",
+              ""
+            ],
+            [
+              "11",
+              "[@pazguille](https://github.com/pazguille)/[**route66**](https://github.com/pazguille/route66)",
+              "Simple routing library using hashbang for web browsers.",
+              ""
+            ],
+            [
+              "10",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**slido**](https://github.com/jfromaniello/slido)",
+              "A web application to generate HTML5 slideshow from markdown.",
+              ""
+            ],
+            [
+              "10",
+              "[@mgonto](https://github.com/mgonto)/[**angular-101-from-n00…**](https://github.com/mgonto/angular-101-from-n00b-to-ngExpert)",
+              "AngularJS Training with excercises",
+              ""
+            ],
+            [
+              "10",
+              "[@pazguille](https://github.com/pazguille)/[**ask**](https://github.com/pazguille/ask)",
+              ":grey_question: A JavaScript library to ask basic questions.",
+              ""
+            ],
+            [
+              "10",
+              "[@retrofox](https://github.com/retrofox)/[**nodejs-doc-es**](https://github.com/retrofox/nodejs-doc-es)",
+              "nodejs - documentación en español",
+              ""
+            ],
+            [
+              "10",
+              "[@flesler](https://github.com/flesler)/[**jquery.preload**](https://github.com/flesler/jquery.preload)",
+              "Multi-functional image preloader plugin for jQuery",
+              "[:arrow_upper_right:](http://demos.flesler.com/jquery/preload/)"
+            ],
+            [
+              "10",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**mockuire**](https://github.com/jfromaniello/mockuire)",
+              "require a module with mocked dependencies in node.js",
+              ""
+            ],
+            [
+              "9",
+              "[@pazguille](https://github.com/pazguille)/[**editable**](https://github.com/pazguille/editable)",
+              ":pencil2: Simple and tiny in-place Editor component",
+              ""
+            ],
+            [
+              "9",
+              "[@jorgeucano](https://github.com/jorgeucano)/[**bootcamp**](https://github.com/jorgeucano/bootcamp)",
+              "Bootcamp Angular 2 & Firebase ",
+              "[:arrow_upper_right:](https://www.ng-baires.com)"
+            ],
+            [
+              "9",
+              "[@elmasse](https://github.com/elmasse)/[**nextein-example**](https://github.com/elmasse/nextein-example)",
+              "",
+              ""
+            ],
+            [
+              "9",
+              "[@flesler](https://github.com/flesler)/[**node-http-codes**](https://github.com/flesler/node-http-codes)",
+              "Map of HTTP status messages to their code, based on Node's built-in mapping",
+              ""
+            ],
+            [
+              "9",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**fstream-s3**](https://github.com/jfromaniello/fstream-s3)",
+              "Advanced FS streaming to amazon s3 for Node",
+              ""
+            ],
+            [
+              "9",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**teamcity-badges**](https://github.com/jfromaniello/teamcity-badges)",
+              "Teamcity Badges",
+              ""
+            ],
+            [
+              "9",
+              "[@cazala](https://github.com/cazala)/[**synaptic-wikipedia**](https://github.com/cazala/synaptic-wikipedia)",
+              "This is the source code for Synaptic's Wikipedia example",
+              "[:arrow_upper_right:](http://synaptic.juancazala.com/#/wikipedia)"
+            ],
+            [
+              "9",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**passport-sharejs**](https://github.com/jfromaniello/passport-sharejs)",
+              "Use passport.js user profile from session to authorize operations on Share.js documents.",
+              ""
+            ],
+            [
+              "8",
+              "[@mgonto](https://github.com/mgonto)/[**angular-security-wor…**](https://github.com/mgonto/angular-security-workshop)",
+              "Security workshop with Angular",
+              ""
+            ],
+            [
+              "8",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**winston-winlog**](https://github.com/jfromaniello/winston-winlog)",
+              "Windows Event Log logger for the node.js Winston module.",
+              ""
+            ],
+            [
+              "8",
+              "[@leoasis](https://github.com/leoasis)/[**redux-state-router**](https://github.com/leoasis/redux-state-router)",
+              "Define your urls as a function of your state",
+              ""
+            ],
+            [
+              "8",
+              "[@cazala](https://github.com/cazala)/[**cheapbase**](https://github.com/cazala/cheapbase)",
+              "like Firebase, but for free (thanks to Heroku).",
+              "[:arrow_upper_right:](https://cheapbase.herokuapp.com)"
+            ],
+            [
+              "8",
+              "[@cristiandouce](https://github.com/cristiandouce)/[**merge-util**](https://github.com/cristiandouce/merge-util)",
+              "Deep merge object utility",
+              ""
+            ],
+            [
+              "7",
+              "[@ianaya89](https://github.com/ianaya89)/[**platzi-music-api**](https://github.com/ianaya89/platzi-music-api)",
+              "📻  REST API for platzi-musci-vue projects built with Node.js & Express. This API acts like a reverse proxy to Spotify REST API.",
+              ""
+            ],
+            [
+              "7",
+              "[@flesler](https://github.com/flesler)/[**uver**](https://github.com/flesler/uver)",
+              "Bump the version on package.json and other files",
+              ""
+            ],
+            [
+              "7",
+              "[@germancutraro](https://github.com/germancutraro)/[**Login-App-nodejs**](https://github.com/germancutraro/Login-App-nodejs)",
+              ":wink: Authentication System for public usage ",
+              "[:arrow_upper_right:](https://login-app-nodejs.herokuapp.com)"
+            ],
+            [
+              "7",
+              "[@lortmorris](https://github.com/lortmorris)/[**curso.react.eduit**](https://github.com/lortmorris/curso.react.eduit)",
+              "Curso de React de EducaciónIT",
+              ""
+            ],
+            [
+              "7",
+              "[@cazala](https://github.com/cazala)/[**synaptic-workshop**](https://github.com/cazala/synaptic-workshop)",
+              "Synaptic workshop for MuleSoft's MeetUp 2017",
+              ""
+            ],
+            [
+              "7",
+              "[@germancutraro](https://github.com/germancutraro)/[**LinkedList-Data-Stru…**](https://github.com/germancutraro/LinkedList-Data-Structure)",
+              " ❄️ Linked List Data Structure in JavaScript",
+              ""
+            ],
+            [
+              "7",
+              "[@flesler](https://github.com/flesler)/[**XMLWriter**](https://github.com/flesler/XMLWriter)",
+              "XML generator for Javascript, based on .NET's XMLTextWriter.",
+              ""
+            ],
+            [
+              "7",
+              "[@pazguille](https://github.com/pazguille)/[**oops.js**](https://github.com/pazguille/oops.js)",
+              "Oops! JS is an Object Oriented JavaScript Library",
+              ""
+            ],
+            [
+              "7",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**lru-memoizer**](https://github.com/jfromaniello/lru-memoizer)",
+              "Memoize functions results using an lru-cache.",
+              ""
+            ],
+            [
+              "7",
+              "[@impronunciable](https://github.com/impronunciable)/[**gbot**](https://github.com/impronunciable/gbot)",
+              "Google Talk bot based on http://simonholywell.com/post/2013/02/cr… :)",
+              ""
+            ],
+            [
+              "7",
+              "[@flesler](https://github.com/flesler)/[**lucky**](https://github.com/flesler/lucky)",
+              "CLI tool to measure the state of your luck, at the moment",
+              ""
+            ],
+            [
+              "7",
+              "[@cristiandouce](https://github.com/cristiandouce)/[**mongoose-gravatar**](https://github.com/cristiandouce/mongoose-gravatar)",
+              "Mongoose plugin for generating gravatar.com urls",
+              ""
+            ],
+            [
+              "7",
+              "[@elmasse](https://github.com/elmasse)/[**nextein-starter**](https://github.com/elmasse/nextein-starter)",
+              "Nextein starter ",
+              ""
+            ],
+            [
+              "7",
+              "[@elmasse](https://github.com/elmasse)/[**ext-jwt-test**](https://github.com/elmasse/ext-jwt-test)",
+              "Using JWT Tokens with Node & ExtJS 5",
+              "[:arrow_upper_right:](http://elmasse.github.io/nodejs/using-jwt-with-extjs.html)"
+            ],
+            [
+              "6",
+              "[@ianaya89](https://github.com/ianaya89)/[**vs-storage-checker**](https://github.com/ianaya89/vs-storage-checker)",
+              ":tv: Node console app to check the status of your Vidispine storages.",
+              ""
+            ],
+            [
+              "6",
+              "[@lortmorris](https://github.com/lortmorris)/[**curso.mongodbavanzad…**](https://github.com/lortmorris/curso.mongodbavanzado.eduit)",
+              "Curso de MongoDB, plan para EducacionIT. Powered by Cesar Casas",
+              ""
+            ],
+            [
+              "6",
+              "[@federicobond](https://github.com/federicobond)/[**c3-linearization**](https://github.com/federicobond/c3-linearization)",
+              "A package for doing Solidity and Python-style C3-linearization in ECMAScript",
+              ""
+            ],
+            [
+              "6",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**strider-hipchat**](https://github.com/jfromaniello/strider-hipchat)",
+              "Strider plugin for hipchat",
+              ""
+            ],
+            [
+              "6",
+              "[@pazguille](https://github.com/pazguille)/[**jquery.cors**](https://github.com/pazguille/jquery.cors)",
+              "Simple and tiny CORS jQuery Plugin (only 0.447 kb)",
+              ""
+            ],
+            [
+              "6",
+              "[@mgonto](https://github.com/mgonto)/[**reactive-frontend-os…**](https://github.com/mgonto/reactive-frontend-oscon)",
+              "Reactive Frontend Oscon Slides",
+              ""
+            ],
+            [
+              "6",
+              "[@cazala](https://github.com/cazala)/[**nftmarketcap**](https://github.com/cazala/nftmarketcap)",
+              "top non-fungible tokens by (avg) market capitalization",
+              "[:arrow_upper_right:](https://nftmarketcap.co)"
+            ],
+            [
+              "6",
+              "[@manoloide](https://github.com/manoloide)/[**P5Pen**](https://github.com/manoloide/P5Pen)",
+              "App for drawing in P5js",
+              "[:arrow_upper_right:](http://manoloide.github.io/P5Pen/)"
+            ],
+            [
+              "5",
+              "[@impronunciable](https://github.com/impronunciable)/[**zelig**](https://github.com/impronunciable/zelig)",
+              "Classic convolution filters on top of component/convolve",
+              ""
+            ],
+            [
+              "5",
+              "[@impronunciable](https://github.com/impronunciable)/[**hackdash-front**](https://github.com/impronunciable/hackdash-front)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@impronunciable](https://github.com/impronunciable)/[**NJStream**](https://github.com/impronunciable/NJStream)",
+              "Newline delimited JSON streaming made easy",
+              ""
+            ],
+            [
+              "5",
+              "[@lortmorris](https://github.com/lortmorris)/[**restfulmodel2**](https://github.com/lortmorris/restfulmodel2)",
+              "Restful Application (API) scaffolding. Easy way to build enterprise API Applications using swagger. ",
+              ""
+            ],
+            [
+              "5",
+              "[@federicobond](https://github.com/federicobond)/[**beats**](https://github.com/federicobond/beats)",
+              "A small web interface for MPD. [Not maintained]",
+              ""
+            ],
+            [
+              "5",
+              "[@elmasse](https://github.com/elmasse)/[**cement**](https://github.com/elmasse/cement)",
+              "CustomElements / WebComponents ",
+              ""
+            ],
+            [
+              "5",
+              "[@matiu](https://github.com/matiu)/[**stupid-clones**](https://github.com/matiu/stupid-clones)",
+              "Detect Bitcoin Transaction Clones (due to transaction id malleability)",
+              ""
+            ],
+            [
+              "5",
+              "[@germancutraro](https://github.com/germancutraro)/[**youtube-clone-reactj…**](https://github.com/germancutraro/youtube-clone-reactjs)",
+              "▶️ A very humble search engine and YouTube video player, made with React.js 🎥",
+              "[:arrow_upper_right:](https://youtube-client-reactjs.herokuapp.com/)"
+            ],
+            [
+              "5",
+              "[@germancutraro](https://github.com/germancutraro)/[**Shopping-Cart-MERN**](https://github.com/germancutraro/Shopping-Cart-MERN)",
+              "💸 Simple Online Shopping Cart made with the MERN Stack",
+              "[:arrow_upper_right:](https://commerce-react.herokuapp.com/)"
+            ],
+            [
+              "5",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**ejs-amd**](https://github.com/jfromaniello/ejs-amd)",
+              "standalone and express/connect middleware to serve EJS template as AMD .js files to the browser",
+              ""
+            ],
+            [
+              "5",
+              "[@a0viedo](https://github.com/a0viedo)/[**accountdown-oauth**](https://github.com/a0viedo/accountdown-oauth)",
+              "AccountDown plugin to manage OAuth authentication",
+              ""
+            ],
+            [
+              "5",
+              "[@impronunciable](https://github.com/impronunciable)/[**aframe-chartbuilder-…**](https://github.com/impronunciable/aframe-chartbuilder-component)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**master-process**](https://github.com/jfromaniello/master-process)",
+              "reload node.js apps with no downtime",
+              ""
+            ],
+            [
+              "5",
+              "[@federicobond](https://github.com/federicobond)/[**solidity-extract-imp…**](https://github.com/federicobond/solidity-extract-imports)",
+              " A simple tool to extract imports from Solidity source files",
+              ""
+            ],
+            [
+              "5",
+              "[@impronunciable](https://github.com/impronunciable)/[**emo**](https://github.com/impronunciable/emo)",
+              "A simple example project using preact",
+              ""
+            ],
+            [
+              "4",
+              "[@ianaya89](https://github.com/ianaya89)/[**generator-babel-webp…**](https://github.com/ianaya89/generator-babel-webpack-karma)",
+              " Yeoman generator for npm client side libs using babel, webpack & karma",
+              ""
+            ],
+            [
+              "4",
+              "[@evaferreira](https://github.com/evaferreira)/[**SlideShowSys**](https://github.com/evaferreira/SlideShowSys)",
+              "Slideshow system, a mix of deck.js and CSSS",
+              ""
+            ],
+            [
+              "4",
+              "[@pazguille](https://github.com/pazguille)/[**saw.js**](https://github.com/pazguille/saw.js)",
+              "Simple Ajax for Web Workers",
+              ""
+            ],
+            [
+              "4",
+              "[@leoasis](https://github.com/leoasis)/[**cycle-poc**](https://github.com/leoasis/cycle-poc)",
+              "Playing with Cyclejs",
+              ""
+            ],
+            [
+              "4",
+              "[@fernandezpablo85](https://github.com/fernandezpablo85)/[**hackday**](https://github.com/fernandezpablo85/hackday)",
+              "hackday ",
+              ""
+            ],
+            [
+              "4",
+              "[@mgonto](https://github.com/mgonto)/[**instagram-user-hash-…**](https://github.com/mgonto/instagram-user-hash-searcher)",
+              "Searcher for pictures for a particular user that contain a particular hashtag",
+              ""
+            ],
+            [
+              "4",
+              "[@Villanuevand](https://github.com/Villanuevand)/[**fanatico-f1**](https://github.com/Villanuevand/fanatico-f1)",
+              "Fanático F1, es una aplicación donde se pueden visualizar los resultados de la Formula 1. Creada con fin de conocer y comprender AngularJS.",
+              ""
+            ],
+            [
+              "4",
+              "[@eordano](https://github.com/eordano)/[**warrolight**](https://github.com/eordano/warrolight)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@ianaya89](https://github.com/ianaya89)/[**vue-jsx-demo**](https://github.com/ianaya89/vue-jsx-demo)",
+              "Vue.js web app with JSX",
+              "[:arrow_upper_right:](http://ianaya89.com/vue-jsx-demo)"
+            ],
+            [
+              "4",
+              "[@retrofox](https://github.com/retrofox)/[**component.js**](https://github.com/retrofox/component.js)",
+              "Component daemon",
+              ""
+            ],
+            [
+              "4",
+              "[@gvilarino](https://github.com/gvilarino)/[**docker-testing**](https://github.com/gvilarino/docker-testing)",
+              "Simple node.js app for container linking testing",
+              ""
+            ],
+            [
+              "4",
+              "[@retrofox](https://github.com/retrofox)/[**slugize**](https://github.com/retrofox/slugize)",
+              "String slugize component",
+              ""
+            ],
+            [
+              "4",
+              "[@jorgeucano](https://github.com/jorgeucano)/[**nativescript-whatsap…**](https://github.com/jorgeucano/nativescript-whatsapp)",
+              "example in nativescript with firebase ... pseudo whatsapp",
+              ""
+            ],
+            [
+              "4",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**socket-io.sessions**](https://github.com/jfromaniello/socket-io.sessions)",
+              "access express.js session from socket.io",
+              ""
+            ],
+            [
+              "4",
+              "[@elmasse](https://github.com/elmasse)/[**postcasts-mvp**](https://github.com/elmasse/postcasts-mvp)",
+              "postcast app",
+              "[:arrow_upper_right:](https://postcast-app.now.sh)"
+            ],
+            [
+              "4",
+              "[@cazala](https://github.com/cazala)/[**earthquakes**](https://github.com/cazala/earthquakes)",
+              "just an experiment mixing Firebase open datasets + Google's WebGL Globe",
+              "[:arrow_upper_right:](http://cazala.github.io/earthquakes)"
+            ],
+            [
+              "4",
+              "[@flesler](https://github.com/flesler)/[**electron-wi-fine**](https://github.com/flesler/electron-wi-fine)",
+              "A connectivity monitoring app, built on Electron",
+              ""
+            ],
+            [
+              "4",
+              "[@cristiandouce](https://github.com/cristiandouce)/[**csv**](https://github.com/cristiandouce/csv)",
+              "CSV Component.",
+              ""
+            ],
+            [
+              "4",
+              "[@mgonto](https://github.com/mgonto)/[**angello-angularjs-in…**](https://github.com/mgonto/angello-angularjs-in-action)",
+              "NodeJS Express app for Angello sample in AngularJS in Action",
+              ""
+            ],
+            [
+              "4",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**rendirect**](https://github.com/jfromaniello/rendirect)",
+              "Express middleware to render a message and redirect the browser",
+              ""
+            ],
+            [
+              "3",
+              "[@cristiandouce](https://github.com/cristiandouce)/[**query**](https://github.com/cristiandouce/query)",
+              "X-Browser DOM element selector supported by jquery/sizzle and inspired in component/query",
+              ""
+            ],
+            [
+              "3",
+              "[@retrofox](https://github.com/retrofox)/[**romanize**](https://github.com/retrofox/romanize)",
+              "Convert a number to roman numerical format",
+              ""
+            ],
+            [
+              "3",
+              "[@retrofox](https://github.com/retrofox)/[**buttonset**](https://github.com/retrofox/buttonset)",
+              "buttonset component",
+              ""
+            ],
+            [
+              "3",
+              "[@federicobond](https://github.com/federicobond)/[**ethereum-paypub**](https://github.com/federicobond/ethereum-paypub)",
+              "An ethereum implementation of the PayPub protocol for trustless payments for information release",
+              ""
+            ],
+            [
+              "3",
+              "[@retrofox](https://github.com/retrofox)/[**standarize**](https://github.com/retrofox/standarize)",
+              "String standarize component",
+              ""
+            ],
+            [
+              "3",
+              "[@pazguille](https://github.com/pazguille)/[**bus**](https://github.com/pazguille/bus)",
+              ":bus: A JavaScript Event Bus written in ES6.",
+              ""
+            ],
+            [
+              "3",
+              "[@fernandezpablo85](https://github.com/fernandezpablo85)/[**react-typescript-tut…**](https://github.com/fernandezpablo85/react-typescript-tutorial)",
+              "react tutorial written with TSX and es6 classes",
+              ""
+            ],
+            [
+              "3",
+              "[@germancutraro](https://github.com/germancutraro)/[**Spotify-client-react…**](https://github.com/germancutraro/Spotify-client-reactjs)",
+              "🎧 Spotify song searcher using the Spotify API, React and Redux 🎵 ",
+              "[:arrow_upper_right:](https://spotify-client-reactjs.herokuapp.com)"
+            ],
+            [
+              "3",
+              "[@lortmorris](https://github.com/lortmorris)/[**movies**](https://github.com/lortmorris/movies)",
+              "Single model rest using swagger for demos into course Node.js. If you aren't student, ignore!",
+              ""
+            ],
+            [
+              "3",
+              "[@ianaya89](https://github.com/ianaya89)/[**heroku-alarm-clock**](https://github.com/ianaya89/heroku-alarm-clock)",
+              ":clock9: cron node app to prevent heroku apps from sleeping.",
+              ""
+            ],
+            [
+              "3",
+              "[@mgonto](https://github.com/mgonto)/[**reactive-all-the-thi…**](https://github.com/mgonto/reactive-all-the-things-talk)",
+              "Reactive All The Things talk in ngConf",
+              ""
+            ],
+            [
+              "3",
+              "[@jorgeucano](https://github.com/jorgeucano)/[**typescript-bootcamp**](https://github.com/jorgeucano/typescript-bootcamp)",
+              "bootcamp for .NetConfAr",
+              ""
+            ],
+            [
+              "3",
+              "[@mgonto](https://github.com/mgonto)/[**angularjs-good-pract…**](https://github.com/mgonto/angularjs-good-practices)",
+              "AngularJS Good Practices ",
+              ""
+            ],
+            [
+              "3",
+              "[@ianaya89](https://github.com/ianaya89)/[**demo-auth-jwt-api**](https://github.com/ianaya89/demo-auth-jwt-api)",
+              "🔑  Express demo API with JWT Authentication",
+              "[:arrow_upper_right:](https://platzi-jwt.now.sh)"
+            ],
+            [
+              "3",
+              "[@retrofox](https://github.com/retrofox)/[**mooDoo**](https://github.com/retrofox/mooDoo)",
+              "Simple clase que implementa un slide show usando un film",
+              "[:arrow_upper_right:](www.xifox.net)"
+            ],
+            [
+              "3",
+              "[@flesler](https://github.com/flesler)/[**stress-node-server**](https://github.com/flesler/stress-node-server)",
+              "Node Server for running stress tests",
+              ""
+            ],
+            [
+              "3",
+              "[@cristiandouce](https://github.com/cristiandouce)/[**timeago**](https://github.com/cristiandouce/timeago)",
+              "Simple timeago component with moment.js i18n support.",
+              ""
+            ],
+            [
+              "3",
+              "[@flesler](https://github.com/flesler)/[**node-http-status**](https://github.com/flesler/node-http-status)",
+              "HTTP Status class for NodeJS and Express",
+              ""
+            ],
+            [
+              "3",
+              "[@retrofox](https://github.com/retrofox)/[**node-cal**](https://github.com/retrofox/node-cal)",
+              "calendars manager",
+              ""
+            ],
+            [
+              "3",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**extract**](https://github.com/jfromaniello/extract)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@woloski](https://github.com/woloski)/[**yaml-config-azure**](https://github.com/woloski/yaml-config-azure)",
+              "read a yaml config file from azure blob storage and use it for sensitive configuration data",
+              ""
+            ],
+            [
+              "3",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**tortu**](https://github.com/jfromaniello/tortu)",
+              "AJLogo command line interpreter",
+              ""
+            ],
+            [
+              "3",
+              "[@woloski](https://github.com/woloski)/[**wstrust-saml-javascr…**](https://github.com/woloski/wstrust-saml-javascript)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@impronunciable](https://github.com/impronunciable)/[**talk-plugin-emoji-co…**](https://github.com/impronunciable/talk-plugin-emoji-comments)",
+              "Emoji-friendly Coral Project talk comments",
+              ""
+            ],
+            [
+              "3",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**sns-subscribe-intern…**](https://github.com/jfromaniello/sns-subscribe-internal)",
+              "Subscribe an SNS Topic to an internal webhook.",
+              ""
+            ],
+            [
+              "3",
+              "[@impronunciable](https://github.com/impronunciable)/[**random**](https://github.com/impronunciable/random)",
+              "Component that generates random numbers.",
+              ""
+            ],
+            [
+              "3",
+              "[@jfromaniello](https://github.com/jfromaniello)/[**xtail**](https://github.com/jfromaniello/xtail)",
+              "Restart, stop or start service while watching its log file.",
+              ""
+            ],
+            [
+              "3",
+              "[@leoasis](https://github.com/leoasis)/[**react-job-board**](https://github.com/leoasis/react-job-board)",
+              "Quick example job board app using React.",
+              ""
+            ],
+            [
+              "3",
+              "[@eordano](https://github.com/eordano)/[**fidelity.link**](https://github.com/eordano/fidelity.link)",
+              "A pseudonymous anti-spam identity system based on bitcoin.",
+              "[:arrow_upper_right:](https://fidelity.link)"
+            ],
+            [
+              "3",
+              "[@lortmorris](https://github.com/lortmorris)/[**restfulmodel**](https://github.com/lortmorris/restfulmodel)",
+              "RESTFul Scaffolding",
+              ""
+            ],
+            [
+              "3",
+              "[@retrofox](https://github.com/retrofox)/[**nodejs-learning-es**](https://github.com/retrofox/nodejs-learning-es)",
+              "Aprendiendo Nodejs en idioma español",
+              "[:arrow_upper_right:](www.nodejs.es)"
+            ],
+            [
+              "3",
+              "[@elmasse](https://github.com/elmasse)/[**taskr-standard**](https://github.com/elmasse/taskr-standard)",
+              "a taskr plugin to run standard linter",
+              ""
+            ],
+            [
+              "2",
+              "[@impronunciable](https://github.com/impronunciable)/[**8n**](https://github.com/impronunciable/8n)",
+              "Visualizaciones de hhba acerca del #8n.",
+              ""
+            ],
+            [
+              "2",
+              "[@cristiandouce](https://github.com/cristiandouce)/[**cqnc**](https://github.com/cristiandouce/cqnc)",
+              "Simple manager for sequence fx animations or whatever",
+              ""
+            ],
+            [
+              "2",
+              "[@mgonto](https://github.com/mgonto)/[**gon.to-old**](https://github.com/mgonto/gon.to-old)",
+              "The blog & website for gon.to",
+              ""
+            ],
+            [
+              "2",
+              "[@eordano](https://github.com/eordano)/[**landgiver**](https://github.com/eordano/landgiver)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@eordano](https://github.com/eordano)/[**explbtc**](https://github.com/eordano/explbtc)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@cristiandouce](https://github.com/cristiandouce)/[**Kolors**](https://github.com/cristiandouce/Kolors)",
+              "dead-simple color picker",
+              ""
+            ],
+            [
+              "2",
+              "[@cazala](https://github.com/cazala)/[**cazala.github.io**](https://github.com/cazala/cazala.github.io)",
+              "this is the source of my website",
+              "[:arrow_upper_right:](http://caza.la)"
+            ],
+            [
+              "2",
+              "[@retrofox](https://github.com/retrofox)/[**node-saveAs**](https://github.com/retrofox/node-saveAs)",
+              "\"Save As ...\" a complete website in server side",
+              ""
+            ],
+            [
+              "2",
+              "[@fernandezpablo85](https://github.com/fernandezpablo85)/[**linkedin-js-test**](https://github.com/fernandezpablo85/linkedin-js-test)",
+              "A test harness for LinkedIn's javascript API",
+              ""
+            ],
+            [
+              "2",
+              "[@fernandezpablo85](https://github.com/fernandezpablo85)/[**backbone-jQuery-exam…**](https://github.com/fernandezpablo85/backbone-jQuery-examples)",
+              "One todo list sample application, written in backbone and jQuery to compare both",
+              ""
+            ],
+            [
+              "2",
+              "[@fernandezpablo85](https://github.com/fernandezpablo85)/[**dust-java**](https://github.com/fernandezpablo85/dust-java)",
+              "render dust from java using rhino",
+              ""
+            ],
+            [
+              "2",
+              "[@mgonto](https://github.com/mgonto)/[**restangular-talk-wit…**](https://github.com/mgonto/restangular-talk-with-image-right)",
+              "Restangular talk with rights for images",
+              ""
+            ],
+            [
+              "2",
+              "[@retrofox](https://github.com/retrofox)/[**remove**](https://github.com/retrofox/remove)",
+              "remove elements from array",
+              ""
+            ],
+            [
+              "2",
+              "[@elmasse](https://github.com/elmasse)/[**elmasse.github.io**](https://github.com/elmasse/elmasse.github.io)",
+              "Personal Blog - Now Powered by Nextein (https://nextein.now.sh)",
+              "[:arrow_upper_right:](https://elmasse.github.io)"
+            ],
+            [
+              "2",
+              "[@retrofox](https://github.com/retrofox)/[**to-object**](https://github.com/retrofox/to-object)",
+              "Converts an array to object",
+              ""
+            ],
+            [
+              "2",
+              "[@elmasse](https://github.com/elmasse)/[**nextein-www**](https://github.com/elmasse/nextein-www)",
+              "nextein-www with Nextein :heart: - Use the source!",
+              "[:arrow_upper_right:](https://nextein.now.sh)"
+            ],
+            [
+              "2",
+              "[@a0viedo](https://github.com/a0viedo)/[**glob-cli2**](https://github.com/a0viedo/glob-cli2)",
+              "CLI tool to expand globs",
+              ""
+            ],
+            [
+              "2",
+              "[@elmasse](https://github.com/elmasse)/[**es7-next-test**](https://github.com/elmasse/es7-next-test)",
+              "Trying ES7 decorators and other goodies",
+              ""
+            ],
+            [
+              "2",
+              "[@retrofox](https://github.com/retrofox)/[**namize**](https://github.com/retrofox/namize)",
+              "String namize component",
+              ""
+            ],
+            [
+              "2",
+              "[@elmasse](https://github.com/elmasse)/[**sencha-cmd-plus**](https://github.com/elmasse/sencha-cmd-plus)",
+              "Sort of Sencha Cmd Version Manager. Not quite there yet.",
+              ""
+            ],
+            [
+              "2",
+              "[@germancutraro](https://github.com/germancutraro)/[**mern-crud-system**](https://github.com/germancutraro/mern-crud-system)",
+              "🌟 Crud using the MERN Stack: MongoDB, Express.js, Reactjs & Node.js",
+              "[:arrow_upper_right:](https://mern-crud-system.herokuapp.com/)"
+            ],
+            [
+              "2",
+              "[@gvilarino](https://github.com/gvilarino)/[**api-starter**](https://github.com/gvilarino/api-starter)",
+              "Express-based simple REST API starter project, with ES6 support",
+              ""
+            ],
+            [
+              "2",
+              "[@germancutraro](https://github.com/germancutraro)/[**Simple-simulation-of…**](https://github.com/germancutraro/Simple-simulation-of-a-shopping-cart-js-es6)",
+              ":virgo: A very simple shopping cart console simulation using classes of js-es6",
+              ""
+            ],
+            [
+              "2",
+              "[@elmasse](https://github.com/elmasse)/[**yalex**](https://github.com/elmasse/yalex)",
+              "Yet Another Lexer",
+              ""
+            ],
+            [
+              "2",
+              "[@germancutraro](https://github.com/germancutraro)/[**reactive-search-node…**](https://github.com/germancutraro/reactive-search-nodejs)",
+              ":zap: Reactive search using node-axios-express-mongodb",
+              "[:arrow_upper_right:](https://reactive-filter-searcher.herokuapp.com/generate)"
+            ],
+            [
+              "2",
+              "[@leoasis](https://github.com/leoasis)/[**js-runner-fatigue**](https://github.com/leoasis/js-runner-fatigue)",
+              "JS (runner) Fatigue - A game to cope with learning different JS stacks",
+              ""
+            ],
+            [
+              "2",
+              "[@germancutraro](https://github.com/germancutraro)/[**Contact-Form-nodejs**](https://github.com/germancutraro/Contact-Form-nodejs)",
+              "Contact Form using Nodemailer for the email service",
+              ""
+            ],
+            [
+              "2",
+              "[@flesler](https://github.com/flesler)/[**art-store**](https://github.com/flesler/art-store)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@germancutraro](https://github.com/germancutraro)/[**Queue-Data-Structure**](https://github.com/germancutraro/Queue-Data-Structure)",
+              "❄️ Queue Data Structure in JavaScript",
+              ""
+            ],
+            [
+              "2",
+              "[@flesler](https://github.com/flesler)/[**jwt-crack**](https://github.com/flesler/jwt-crack)",
+              "Multi-threaded brute force JWT cracker in pure Node.js",
+              ""
+            ],
+            [
+              "2",
+              "[@germancutraro](https://github.com/germancutraro)/[**CRUD-nodejs**](https://github.com/germancutraro/CRUD-nodejs)",
+              ":tada: A customers admin application using nodejs, express and mongodb",
+              "[:arrow_upper_right:](https://crud-admin-nodejs.herokuapp.com/)"
+            ],
+            [
+              "2",
+              "[@flesler](https://github.com/flesler)/[**todo-list**](https://github.com/flesler/todo-list)",
+              "A single HTML page tool to track time spent on tasks",
+              ""
+            ],
+            [
+              "2",
+              "[@germancutraro](https://github.com/germancutraro)/[**React-Starter**](https://github.com/germancutraro/React-Starter)",
+              "React skeleton with React-Router, Redux, Redux-Persist, Axios and more!",
+              ""
+            ],
+            [
+              "2",
+              "[@flesler](https://github.com/flesler)/[**stress-node**](https://github.com/flesler/stress-node)",
+              "Stress test library for Node JS",
+              ""
+            ],
+            [
+              "2",
+              "[@germancutraro](https://github.com/germancutraro)/[**Chart.Js-MongoDB-nod…**](https://github.com/germancutraro/Chart.Js-MongoDB-nodejs)",
+              ":bar_chart: Simple ChartJs with data from mongodb",
+              "[:arrow_upper_right:](https://chart-nodejs.herokuapp.com/generate)"
+            ],
+            [
+              "2",
+              "[@flesler](https://github.com/flesler)/[**word-clock**](https://github.com/flesler/word-clock)",
+              "A responsive HTML5 Word-based clock",
+              "[:arrow_upper_right:](https://flesler.github.io/word-clock/)"
+            ],
+            [
+              "2",
+              "[@jorgeucano](https://github.com/jorgeucano)/[**ngxuploader**](https://github.com/jorgeucano/ngxuploader)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@flesler](https://github.com/flesler)/[**idonethis-form**](https://github.com/flesler/idonethis-form)",
+              "Very simple mobile-friendly HTML form to submit dones to IDoneThis",
+              "[:arrow_upper_right:](http://flesler.github.io/idonethis-form/)"
+            ],
+            [
+              "2",
+              "[@manoloide](https://github.com/manoloide)/[**manoloide.github.io**](https://github.com/manoloide/manoloide.github.io)",
+              "mini site",
+              ""
+            ],
+            [
+              "2",
+              "[@impronunciable](https://github.com/impronunciable)/[**isopo**](https://github.com/impronunciable/isopo)",
+              "augmented sounds using the Web Audio API",
+              ""
+            ],
+            [
+              "2",
+              "[@ianaya89](https://github.com/ianaya89)/[**js-meets-blockchain**](https://github.com/ianaya89/js-meets-blockchain)",
+              "🤝 Demo of JavaScript Meets The Blockchain Talk",
+              ""
+            ],
+            [
+              "2",
+              "[@impronunciable](https://github.com/impronunciable)/[**nicar-whois**](https://github.com/impronunciable/nicar-whois)",
+              "Express example app for meetup #nodejs_ar.",
+              ""
+            ],
+            [
+              "2",
+              "[@ianaya89](https://github.com/ianaya89)/[**node-explorer**](https://github.com/ianaya89/node-explorer)",
+              "A file explorer in your browser served with NodeJS",
+              ""
+            ],
+            [
+              "2",
+              "[@impronunciable](https://github.com/impronunciable)/[**indec**](https://github.com/impronunciable/indec)",
+              "Google Drive to JSON for the browser",
+              ""
+            ],
+            [
+              "2",
+              "[@leoasis](https://github.com/leoasis)/[**enter-hangman**](https://github.com/leoasis/enter-hangman)",
+              "Hangman game made with React for a live coding session at Meetup.js Buenos Aires",
+              ""
+            ],
+            [
+              "2",
+              "[@woloski](https://github.com/woloski)/[**AspNetWebApiWithSubd…**](https://github.com/woloski/AspNetWebApiWithSubdomains)",
+              "test repo to repro asp.net web api issue",
+              ""
+            ]
+          ]
+        }
+      }
+    ]
   }
 }
