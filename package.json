@@ -56,7 +56,8 @@
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
-          "[CoffeeScript](#coffeescript)"
+          "[CoffeeScript](#coffeescript)",
+          "[Go](#go)"
         ]
       },
       {
@@ -3174,6 +3175,201 @@
               "2",
               "[@alfa256](https://github.com/alfa256)/[**noflo-irc**](https://github.com/alfa256/noflo-irc)",
               "Irc components for noflo.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Go #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "202",
+              "[@albertito](https://github.com/albertito)/[**chasquid**](https://github.com/albertito/chasquid)",
+              "[mirror] SMTP (email) server",
+              ""
+            ],
+            [
+              "178",
+              "[@leonelquinteros](https://github.com/leonelquinteros)/[**gotext**](https://github.com/leonelquinteros/gotext)",
+              "Go (Golang) GNU gettext utilities package ",
+              ""
+            ],
+            [
+              "35",
+              "[@albertito](https://github.com/albertito)/[**dnss**](https://github.com/albertito/dnss)",
+              "[mirror] DNS over HTTPS",
+              "[:arrow_upper_right:](https://blitiri.com.ar/git/r/dnss/)"
+            ],
+            [
+              "33",
+              "[@nvellon](https://github.com/nvellon)/[**hal**](https://github.com/nvellon/hal)",
+              "A Golang implementation of HAL media type standard",
+              ""
+            ],
+            [
+              "18",
+              "[@jackgris](https://github.com/jackgris)/[**build-web-applicatio…**](https://github.com/jackgris/build-web-application-with-golang_ES)",
+              "Esta es una traducción al español sobre un libro de desarrollo web con Go que esta bajo una licencia libre",
+              ""
+            ],
+            [
+              "16",
+              "[@dankomiocevic](https://github.com/dankomiocevic)/[**mulifs**](https://github.com/dankomiocevic/mulifs)",
+              "Music Library Filesystem creates a filesystem to organise your music files.",
+              ""
+            ],
+            [
+              "11",
+              "[@viniciusfeitosa](https://github.com/viniciusfeitosa)/[**gotains**](https://github.com/viniciusfeitosa/gotains)",
+              "A module to verify the content of Slices and Arrays",
+              ""
+            ],
+            [
+              "11",
+              "[@jrizza](https://github.com/jrizza)/[**haveibeenpwned**](https://github.com/jrizza/haveibeenpwned)",
+              "Go package for https://haveibeenpwned.com API",
+              ""
+            ],
+            [
+              "11",
+              "[@diegohce](https://github.com/diegohce)/[**camerata**](https://github.com/diegohce/camerata)",
+              "Simple and easy to use server orchestration set of tools made with love and Go.",
+              ""
+            ],
+            [
+              "10",
+              "[@cfsalguero](https://github.com/cfsalguero)/[**test_mongo_mock**](https://github.com/cfsalguero/test_mongo_mock)",
+              "Example of a test file that mocks MongoDB responses and uses Gorilla/mux as router",
+              ""
+            ],
+            [
+              "10",
+              "[@ljgago](https://github.com/ljgago)/[**MusicBot**](https://github.com/ljgago/MusicBot)",
+              "A multi-server music bot for Discord built in Go",
+              ""
+            ],
+            [
+              "7",
+              "[@albertito](https://github.com/albertito)/[**remoteu2f**](https://github.com/albertito/remoteu2f)",
+              "[mirror] Use U2F for PAM remotely",
+              ""
+            ],
+            [
+              "7",
+              "[@viniciusfeitosa](https://github.com/viniciusfeitosa)/[**MyFirstAppWithGo**](https://github.com/viniciusfeitosa/MyFirstAppWithGo)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@diegohce](https://github.com/diegohce)/[**nexer**](https://github.com/diegohce/nexer)",
+              "Content based network multiplexer or redirector made with love and Go",
+              ""
+            ],
+            [
+              "5",
+              "[@leonelquinteros](https://github.com/leonelquinteros)/[**gorand**](https://github.com/leonelquinteros/gorand)",
+              "Random data generation methods for Go",
+              ""
+            ],
+            [
+              "5",
+              "[@viniciusfeitosa](https://github.com/viniciusfeitosa)/[**QConSP2016**](https://github.com/viniciusfeitosa/QConSP2016)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@gato](https://github.com/gato)/[**aofgrep**](https://github.com/gato/aofgrep)",
+              "grep like tool for searching in aof (redis incremental backup file)",
+              ""
+            ],
+            [
+              "3",
+              "[@viniciusfeitosa](https://github.com/viniciusfeitosa)/[**PalestraGo**](https://github.com/viniciusfeitosa/PalestraGo)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@perrito666](https://github.com/perrito666)/[**goworkon**](https://github.com/perrito666/goworkon)",
+              "A humble attempt at getting the functionality of virtualenv for go.",
+              ""
+            ],
+            [
+              "3",
+              "[@leonelquinteros](https://github.com/leonelquinteros)/[**thtml**](https://github.com/leonelquinteros/thtml)",
+              "Template HTML static site generator",
+              ""
+            ],
+            [
+              "3",
+              "[@viniciusfeitosa](https://github.com/viniciusfeitosa)/[**mascon2018**](https://github.com/viniciusfeitosa/mascon2018)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@pablanka](https://github.com/pablanka)/[**rtbroadcaster**](https://github.com/pablanka/rtbroadcaster)",
+              "Real time broadcaster, it broadcasts messages from one client to all connected clients. Golang based, using Gorilla websocket package (https://github.com/gorilla/websocket).",
+              ""
+            ],
+            [
+              "3",
+              "[@gato](https://github.com/gato)/[**aof**](https://github.com/gato/aof)",
+              "Go library to parse aof (redis append only files)",
+              ""
+            ],
+            [
+              "3",
+              "[@perrito666](https://github.com/perrito666)/[**goSQLMarshal**](https://github.com/perrito666/goSQLMarshal)",
+              "A go package that allows struct serialization into SQL statements.",
+              ""
+            ],
+            [
+              "2",
+              "[@KaiserAndres](https://github.com/KaiserAndres)/[**pdf-cutter**](https://github.com/KaiserAndres/pdf-cutter)",
+              "A program to cut double paged PDF's into single paged PDF's",
+              ""
+            ],
+            [
+              "2",
+              "[@schmidtjohannes](https://github.com/schmidtjohannes)/[**social-media-data-mi…**](https://github.com/schmidtjohannes/social-media-data-mining)",
+              "go tool to harvest data from APIs of social media",
+              ""
+            ],
+            [
+              "2",
+              "[@go-loco](https://github.com/go-loco)/[**gr**](https://github.com/go-loco/gr)",
+              "Redis 3 Client for Go (Golang)",
+              ""
+            ],
+            [
+              "2",
+              "[@go-loco](https://github.com/go-loco)/[**restful**](https://github.com/go-loco/restful)",
+              "A Rest Client for Go (Golang)",
+              ""
+            ],
+            [
+              "2",
+              "[@js-arias](https://github.com/js-arias)/[**xgb**](https://github.com/js-arias/xgb)",
+              "X Go Binding, a fork of the xgb package <https://code.google.com/p/x-go-binding>…",
+              ""
+            ],
+            [
+              "2",
+              "[@viniciusfeitosa](https://github.com/viniciusfeitosa)/[**TalkRubyConf**](https://github.com/viniciusfeitosa/TalkRubyConf)",
+              "",
               ""
             ]
           ]
