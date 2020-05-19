@@ -736,7 +736,6 @@
 19 | [@jeffochoa](https://github.com/jeffochoa)/[**validator-factory**](https://github.com/jeffochoa/validator-factory) | Standalone library to use Illuminate\\Validation package outside the Laravel framework. |
 16 | [@fastslack](https://github.com/fastslack)/[**jUpgradePro**](https://github.com/fastslack/jUpgradePro) | jUpgradePro an extension that help Joomla! users to migrate or move their data. | [:arrow_upper_right:](https://www.matware.com.ar)
 12 | [@mariano](https://github.com/mariano)/[**li3_gearman**](https://github.com/mariano/li3_gearman) | Lithium integration with Gearman |
-11 | [@barbanet](https://github.com/barbanet)/[**my-collabtive**](https://github.com/barbanet/my-collabtive) | Collabtive-CI is web-based project management software. This is a copy with custom modifications. |
 11 | [@mariano](https://github.com/mariano)/[**robot**](https://github.com/mariano/robot) | Robot plugin for CakePHP |
 11 | [@MZAWeb](https://github.com/MZAWeb)/[**bbpFauxData**](https://github.com/MZAWeb/bbpFauxData) | Quick and dirty plugin to help you populate a bbPress instance with faux data to test performance |
 11 | [@barbanet](https://github.com/barbanet)/[**magento-dc-translato…**](https://github.com/barbanet/magento-dc-translator) | Manage Locale packages from the Magento Admin without editing csv files. | [:arrow_upper_right:](http://www.damianculotta.com.ar/extensions/dc_translator/)
@@ -746,9 +745,7 @@
 9 | [@jeffochoa](https://github.com/jeffochoa)/[**amp-validator**](https://github.com/jeffochoa/amp-validator) | AMP validation test |
 9 | [@xmarcos](https://github.com/xmarcos)/[**ElasticsearchService…**](https://github.com/xmarcos/ElasticsearchServiceProvider) | A Silex Service Provider for Elasticsearch |
 9 | [@mariano](https://github.com/mariano)/[**openid**](https://github.com/mariano/openid) | CakePHP OpenID plugin |
-8 | [@eridal](https://github.com/eridal)/[**Cadenza**](https://github.com/eridal/Cadenza) | Cadenza is just Composer, but without the junk. | [:arrow_upper_right:](https://packagist.org/packages/eridal/cadenza)
 8 | [@xmarcos](https://github.com/xmarcos)/[**DotContainer**](https://github.com/xmarcos/DotContainer) | DotContainer enables deep array access using dot-notation. |
-7 | [@eridal](https://github.com/eridal)/[**prelude-database**](https://github.com/eridal/prelude-database) | A Database-Agnostic set of Abstractions built on top of PDO |
 7 | [@mariano](https://github.com/mariano)/[**slim-sample-app**](https://github.com/mariano/slim-sample-app) | Slim (3.* and later) sample app with a feeling of DDD |
 7 | [@MZAWeb](https://github.com/MZAWeb)/[**business-hours-plugi…**](https://github.com/MZAWeb/business-hours-plugin) | This is a development version, and it's most likely broken. To get a stable version go to the WordPress plugin repo | [:arrow_upper_right:](http://wordpress.org/extend/plugins/business-hours-plugin/)
 6 | [@fedeisas](https://github.com/fedeisas)/[**laravel-dolar-blue**](https://github.com/fedeisas/laravel-dolar-blue) | Laravel package to fetch latest USD conversion rate on Argentina's black market |
@@ -767,7 +764,6 @@
 4 | [@alemohamad](https://github.com/alemohamad)/[**ci-starter**](https://github.com/alemohamad/ci-starter) | A CodeIgniter project starter for new projects. |
 4 | [@barbanet](https://github.com/barbanet)/[**magento-dc-slider**](https://github.com/barbanet/magento-dc-slider) | Simple slider manager for Magento compatible with RWD | [:arrow_upper_right:](http://www.damianculotta.com.ar/extensions/dc_slider/)
 4 | [@andrezrv](https://github.com/andrezrv)/[**agnosia-bootstrap-ca…**](https://github.com/andrezrv/agnosia-bootstrap-carousel) | This WordPress plugin lets you use the [gallery] shortcode to show a Bootstrap Carousel. | [:arrow_upper_right:](http://wordpress.org/plugins/agnosia-bootstrap-carousel/)
-4 | [@soyFelixBarros](https://github.com/soyFelixBarros)/[**Sintoniza.la**](https://github.com/soyFelixBarros/Sintoniza.la) | 📻 Radios en vivo y notas. | [:arrow_upper_right:](https://sintoniza.la)
 3 | [@barbanet](https://github.com/barbanet)/[**magento-dc-googletra…**](https://github.com/barbanet/magento-dc-googletranslatewidget) | Add Google Translate’s automatic translations to your store. | [:arrow_upper_right:](http://www.damianculotta.com.ar/extensions/dc_googletranslatewidget/)
 3 | [@MZAWeb](https://github.com/MZAWeb)/[**capsule-create-gist**](https://github.com/MZAWeb/capsule-create-gist) | Allows you to export a Capsule entry to an anonymous Gist |
 3 | [@fastslack](https://github.com/fastslack)/[**joomla-cli-tools**](https://github.com/fastslack/joomla-cli-tools) | Collection of useful cli scripts for Joomla! Platform |
@@ -780,7 +776,6 @@
 3 | [@fedeisas](https://github.com/fedeisas)/[**CodeIgniter-2-i18n**](https://github.com/fedeisas/CodeIgniter-2-i18n) | CodeIgniter 2 Internationalization (i18n) Library |
 3 | [@fastslack](https://github.com/fastslack)/[**matware-libraries**](https://github.com/fastslack/matware-libraries) | Matware Libraries for Joomla! | [:arrow_upper_right:](http://www.matware.com.ar)
 3 | [@andrezrv](https://github.com/andrezrv)/[**follet-core**](https://github.com/andrezrv/follet-core) | A simple and reliable framework to create WordPress themes. |
-2 | [@milardovich](https://github.com/milardovich)/[**snippets**](https://github.com/milardovich/snippets) | This is a collection of code snippets written by me. | [:arrow_upper_right:](http://milardovich.com.ar/)
 2 | [@innerspirit](https://github.com/innerspirit)/[**wordpress-plugin-sta…**](https://github.com/innerspirit/wordpress-plugin-starter) | A simple starter for building awesome WordPress plugins |
 2 | [@lodeale](https://github.com/lodeale)/[**MyCart**](https://github.com/lodeale/MyCart) | Un simple carrito con CodeIgniter. |
 2 | [@lodeale](https://github.com/lodeale)/[**Spam-Tools**](https://github.com/lodeale/Spam-Tools) | Envio de correo masivo, depurador de lista y eliminación de duplicado. |
@@ -788,7 +783,6 @@
 2 | [@jeffochoa](https://github.com/jeffochoa)/[**twitter-cli**](https://github.com/jeffochoa/twitter-cli) | Send tweets from the console |
 2 | [@alemohamad](https://github.com/alemohamad)/[**ci-google-analytics**](https://github.com/alemohamad/ci-google-analytics) | CodeIgniter helper to track visits and events with Google Analytics. |
 2 | [@fedeisas](https://github.com/fedeisas)/[**anvard**](https://github.com/fedeisas/anvard) | Anvard fork from bitbucket atticmedia/anvard |
-2 | [@eridal](https://github.com/eridal)/[**prelude**](https://github.com/eridal/prelude) | A small preface for your masterpiece. |
 2 | [@barbanet](https://github.com/barbanet)/[**magento-dc-featuredp…**](https://github.com/barbanet/magento-dc-featuredproduct) | Create an unlimited number of product groups and add those groups into cms pages using widgets. | [:arrow_upper_right:](http://www.damianculotta.com.ar/tag/dc_featuredproduct/)
 2 | [@barbanet](https://github.com/barbanet)/[**magento-dc-decidir**](https://github.com/barbanet/magento-dc-decidir) | Integration between Magento and Decidir (payment gateway). | [:arrow_upper_right:](http://www.damianculotta.com.ar/extensions/dc_decidir/)
 2 | [@alemohamad](https://github.com/alemohamad)/[**laravel-requirements…**](https://github.com/alemohamad/laravel-requirements-check) | Environment checklist for the Laravel framewrok. |
